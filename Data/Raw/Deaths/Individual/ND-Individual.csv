@@ -1,0 +1,47 @@
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,source_year
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,1997,October,1997-10-28,ELMER,MURI,,16629,,M,Caucasian,,,Heart Attack,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,1998,December,1998-12-07,ELMER,GANGELHOFF,,16324,,M,Caucasian,,,Cancer,,
+North Dakota,JAMES RIVER CORRECTIONAL CENTER,2000,February,2000-02-23,DIRK,KUYPERS,,15970,,M,Caucasian,,,Suicide,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2000,November,2000-11-12,TIM,DUNWOODIE,,20323,,M,Caucasian,,,Liver disease,,
+North Dakota,MISSOURI RIVER CORRECTIONAL CENTER,2001,February,2001-02-12,ROBERT,GREGG,,20777,,M,Caucasian,,,Heart attack,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2001,May,2001-05-31,ROBERT,ENSMINGER,,17234,,M,Caucasian,,,Hepatitis,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2001,June,2001-06-25,MICHAEL,NORGREN,,21460,,M,Caucasian,,,Heart attack,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2002,March,2002-03-15,AUGUST,VOGEL,,11003,,M,Caucasian,,,Heart attack,,
+North Dakota,JAMES RIVER CORRECTIONAL CENTER,2003,February,2003-02-01,ERIC,GRIFFITH,,21723,,M,Caucasian,,,Suicide,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2004,May,2004-05-29,MELVIN,FOWLER,,22480,,M,Caucasian,,,Cancer,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2004,December,2004-12-31,TODD,MONETTE,,21391,,M,Caucasian,,,Suicide,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2005,May,2005-05-06,DENNIS,COX,,23683,,M,Caucasian,,,Liver issues caused by Hep C,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2006,July,2006-07-26,JESSIE,WILSON,,21751,,M,Caucasian,,,Cancer,,
+North Dakota,MISSOURI RIVER CORRECTIONAL CENTER,2008,February,2008-02-29,ROBERT,KING,,24209,,M,Black/African American,,,Heart attack,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2008,September,2008-09-14,SHAWN,MURPHY,,31695,,M,Caucasian,,,Cancer,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2010,January,2010-01-29,EUGENE,SEARLES,,17650,,M,American Indian/Alaska Native,,,Cancer,,
+North Dakota,JAMES RIVER CORRECTIONAL CENTER,2011,July,2011-07-01,HAROLD,PALMER,,35052,,M,Caucasian,,,Heart Disease,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2012,January,2012-01-16,MICHAEL,FOYT,,37556,,M,Caucasian,,,Anemia (natural causes),,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2012,April,2012-04-08,MATTHEW,WAHUS,,24097,,M,Caucasian,,,Suicide,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2012,November,2012-11-19,WILLARD,EAGLE THUNDER,,18614,,M,American Indian/Alaska Native,,,Gastrointestinal bleeding and hepatic failure,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2013,September,2013-09-18,MARK,WELLS,,12273,,M,American Indian/Alaska Native,,,Cancer,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2016,May,2016-05-15,JOHN,STRAIGHT,,40189,,M,Caucasian,,,Cancer,,
+North Dakota,DAKOTA WOMEN'S CORRECTIONAL AND REHABILITATION CENTER,2016,July,2016-07-13,JAYTA,SCHMIDT,,15858,,F,Caucasian,,,Suicide,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2016,September,2016-09-22,SHANE,RACINE,,45153,,M,American Indian/Alaska Native,,,Suicide,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2016,October,2016-10-10,CHARLES,SYVERTSON,,18699,,M,Caucasian,,,Cancer,,
+North Dakota,MISSOURI RIVER CORRECTIONAL CENTER,2017,October,2017-10-11,DAVID,MEHRING,,33300,,M,Caucasian,,,Septic shock - HIV and streptococcal infection,,
+North Dakota,JAMES RIVER CORRECTIONAL CENTER,2017,December,2017-12-13,DUSTIN,LEHMAN,,36507,,M,Caucasian,,,Suicide,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2019,March,2019-03-16,ARTHUR,WILLOUGHBY,,21841,,M,Caucasian,,,Sepsis due to Pneumonia,,
+North Dakota,NEVADA - OUT-OF-STATE TRANSFER BUT A ND INMATE,2020,February,2020-02-14,JAMES,KELLEY,,15293,,M,Caucasian,,,Cancer,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2020,February,2020-02-25,TYSON,WALKER,,24767,,M,Caucasian,,,HIV,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2020,April,2020-04-09,GARY,OLSON,,12328,,M,Caucasian,,,Respiratory failure - Due to Medical Reasons,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2020,August,2020-08-13,DAVID,KUNZE,,19272,,M,Caucasian,,,Hypertensive atherosclerotic cardiovascular disease,,
+North Dakota,COMMUNITY PLACEMENT PROGRAM,2020,September,2020-09-29,JOSHUA,JANS,,47791,,M,Caucasian,,,Suicide,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2020,October,2020-10-25,ANDREW,MIKLAS,,40417,,M,Caucasian,,,Suicide,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2020,December,2020-12-04,TERRY,MILLER,,17486,,M,Caucasian,,,Pneumonia due to COVID-19,,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2021,July,2021-07-06,JOSHUA,CHARBONNEAU,,32497,,M,American Indian/Alaska Native,,,Suicide,,
+North Dakota,JAMES RIVER CORRECTIONAL CENTER,2021,September,2021-09-10,BRYCE,IRON HAWK,,37019,,M,American Indian/Alaska Native,,,Saddle pulmonary embolism (natural),,
+North Dakota,NORTH DAKOTA STATE PENITENTIARY,2021,October,2021-10-04,AMBROSE,WHITEMAN,,18555,,M,American Indian/Alaska Native,,,Pneumonia due to COVID-19,,
+North Dakota,WY - OUT-OF-STATE TRANSFER BUT A ND INMATE,2021,October,2021-10-28,HARRY,ALFORD,,13756,,M,Caucasian,,,Acute respiratory failure due to COVID-19,,
+North Dakota,North Dakota State Penitentiary,2022,July,2022-07-31,CHAD,ISAAK,,,48,M,Caucasian,,Suicide,,,2022
+North Dakota,Transitional Facility,2022,July,2022-07-16,JOSE,DAVIS-CAMARENA,,,45,M,Hispanic,,,,,2022
+North Dakota,North Dakota State Penitentiary,2022,January,2022-01-31,LEO,BORGEN,,,56,M,Caucasian,,Natural,,,2022
+North Dakota,"IAD to Maricopa Co., AZ for trial but a ND resident",2023,February,2023-02-09,SHANE,SMELTZER,,,53,M,Caucasian,,Natural,,,2023
+North Dakota,JRCC,2023,February,2023-02-14,SHANE,SMELTZER,,68499,54,M,Caucasian,,Natural,,,2023
+North Dakota,NDSP,2023,September,2023-09-27,DUWAYNE,GLENDE,,37988,78,M,Caucasian,,Natural,,,2023
+North Dakota,MTPFAR,2024,March,2024-03-15,ALEXANDER,KROMAH,,73904,46,M,Black/African American,,Accident,,,2024

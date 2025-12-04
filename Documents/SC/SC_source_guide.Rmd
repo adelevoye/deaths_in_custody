@@ -1,0 +1,46 @@
+---
+title: "SC_source_guide"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for South Carolina state prisons from public records requests to the South Carolina Department of Corrections.
+
+Example files included in corresponding documents folder.
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data to UCLA datasets.  
+
+```{r}
+# Load SC decedent data
+sc.deaths <- read_CMP_deaths(agencies = 'SC')
+
+# Show variables present in SC decedent data
+colnames(sc.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+sc.facility <- sc.deaths %>%
+                pull_CMP_fac_data()
+head(sc.facility)
+
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
+    subset(State == 'South Carolina') %>%
+    arrange(desc(Year))
+
+# Plot SC decedent data 
+ggplot() +
+    geom_line(data = sc.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
+
+```
+
+
+## Demographic Data
+
+UCLA currently does not have demographic data processed for South Carolina state prisons. Please wait for the next update to this data. 

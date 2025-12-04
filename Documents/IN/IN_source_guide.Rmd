@@ -1,0 +1,54 @@
+---
+title: "IN_source_guide"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Indiana state prisons from public records requests to the Indiana Department of Corrections.
+
+Example files included in corresponding documents folder. 
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data to UCLA datasets. 
+
+```{r}
+# Load IN decedent data
+in.deaths <- read_CMP_deaths(agencies = 'IN')
+
+# Show variables present in IN decedent data
+colnames(in.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+in.deaths %>%
+    pull_CMP_fac_data()
+
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
+    subset(State == 'Indiana') %>%
+    arrange(desc(Year))
+
+# Plot IN decedent data 
+ggplot() +
+    geom_line(data = in.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
+
+```
+
+
+## Demographic Data
+
+UCLA currently does not have demographic data processed for Indiana state prisons. Please wait for the next update to this data. 

@@ -1,0 +1,77 @@
+---
+title: "MA_source_guide"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Environment
+
+```{r}
+# Load relevent packages and functions
+library(tidyverse)
+source('Code/general_utilities.R') # Note you may have to change your Rmarkdown option for evaluate chunks to project instead of document
+options(scipen=10)
+```
+
+## Decedent Data
+
+UCLA obtains custodial decedent data for Massachusetts state prisons from public records requests to the Massachusetts Department of Correction.
+
+Example files included in corresponding documents folder.
+
+Some processing of the files takes place, including the selection of corresponding variables and linking data to UCLA datasets. 
+
+```{r}
+# Load MA decedent data
+ma.deaths <- read_CMP_deaths(agencies = 'MA')
+
+# Show variables present in MA decedent data
+colnames(ma.deaths)
+
+# UCLA.ID is present - join UCLA facility data
+ma.deaths %>%
+    pull_CMP_fac_data()
+
+# Compare CMP data with BJS data
+compare_CMP_bjs(source = 'MCI') %>%
+    subset(State == 'Massachusetts') %>%
+    arrange(desc(Year))
+
+# Plot MA decedent data 
+ggplot() +
+    geom_line(data = ma.deaths %>% group_by(Year) %>% summarise(Total.Deaths = n()),aes(x = Year, y = Total.Deaths))
+
+```
+
+
+## Demographic Data
+
+UCLA obtains custodial demographic data for Massachusetts state prisons from annual population reports from the Massachusetts Department of Correction.
+
+Example files in corresponding folder and links to reports in raw data file.
+
+Some processing of the files takes place. 
+
+```{r}
+# Load MA demographic data
+ma.demographics <- harmonize_CMP_dem(agencies = 'MA')
+
+# Show MA demographic data to assess origin type
+head(ma.demographics)
+
+# The origin type is distinct. This means that age groups were reported separately from sex groups for demographic data. In order to construct age and sex groups for a date from this distinct data, we applied reported sex ratios to each age group. This assumption is likely incorrect.
+
+# Plot MA demographic data 
+ggplot() +
+    geom_bar(data = ma.demographics %>% group_by(Date, Age) %>% summarise(Number = sum(Number, na.rm = TRUE)),
+             aes(x = Date, y = Number, fill = Age), stat = 'identity') +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) # To see dates on x axis
+
+
+
+```
