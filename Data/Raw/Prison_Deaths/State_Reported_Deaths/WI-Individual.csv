@@ -1,0 +1,535 @@
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,DOB,Birth.Year,source_year
+Wisconsin,CCI,2015,January,2015-01-04,,,,452698,,,,,,,,,,
+Wisconsin,JCI,2015,January,2015-01-24,,,,241440,,,,,,,,,,
+Wisconsin,CCI,2015,February,2015-02-12,,,,301459,,,,,,,,,,
+Wisconsin,DCII,2015,February,2015-02-13,,,,418103,,,,,,,,,,
+Wisconsin,OSCI,2015,March,2015-03-01,,,,236139,,,,,,,,,,
+Wisconsin,DCII,2015,March,2015-03-03,,,,137905,,,,,,,,,,
+Wisconsin,DCII,2015,March,2015-03-04,,,,220844,,,,,,,,,,
+Wisconsin,OUT TO DODGE CO COURT FED CASE (DCI),2015,March,2015-03-21,,,,357799,,,,,,,,,,
+Wisconsin,DCII,2015,March,2015-03-28,,,,213836,,,,,,,,,,
+Wisconsin,WRC,2015,April,2015-04-03,,,,177824,,,,,,,,,,
+Wisconsin,DCII,2015,April,2015-04-25,,,,161466,,,,,,,,,,
+Wisconsin,RGCI,2015,April,2015-04-30,,,,219393,,,,,,,,,,
+Wisconsin,DCII,2015,May,2015-05-01,,,,12411,,,,,,,,,,
+Wisconsin,KMCI,2015,May,2015-05-01,,,,227772,,,,,,,,,,
+Wisconsin,OSCI,2015,May,2015-05-03,,,,577529,,,,,,,,,,
+Wisconsin,DCII,2015,May,2015-05-09,,,,459262,,,,,,,,,,
+Wisconsin,DCII,2015,May,2015-05-12,,,,219176,,,,,,,,,,
+Wisconsin,DCII,2015,May,2015-05-17,,,,140185,,,,,,,,,,
+Wisconsin,WRC,2015,May,2015-05-21,,,,197650,,,,,,,,,,
+Wisconsin,DCII,2015,May,2015-05-23,,,,394125,,,,,,,,,,
+Wisconsin,DCI/UW,2015,May,2015-05-26,,,,604981,,,,,,,,,,
+Wisconsin,DCII,2015,June,2015-06-06,,,,629060,,,,,,,,,,
+Wisconsin,MSDF,2015,June,2015-06-13,,,,323419,,,,,,,,,,
+Wisconsin,DCII/UW,2015,June,2015-06-17,,,,366491,,,,,,,,,,
+Wisconsin,DCII/UW,2015,June,2015-06-18,,,,248120,,,,,,,,,,
+Wisconsin,DCII,2015,June,2015-06-24,,,,360146,,,,,,,,,,
+Wisconsin,DCII,2015,August,2015-08-01,,,,572095,,,,,,,,,,
+Wisconsin,DCII,2015,August,2015-08-14,,,,21039,,,,,,,,,,
+Wisconsin,CCI,2015,August,2015-08-15,,,,64621,,,,,,,,,,
+Wisconsin,DCII,2015,August,2015-08-18,,,,129341,,,,,,,,,,
+Wisconsin,MSDF,2015,August,2015-08-29,,,,284235,,,,,,,,,,
+Wisconsin,GBCI/UW,2015,September,2015-09-07,,,,579487,,,,,,,,,,
+Wisconsin,CCI/UW,2015,October,2015-10-02,,,,463278,,,,,,,,,,
+Wisconsin,DCII,2015,October,2015-10-03,,,,608938,,,,,,,,,,
+Wisconsin,DCII,2015,October,2015-10-25,,,,224806,,,,,,,,,,
+Wisconsin,RCI,2015,October,2015-10-25,,,,146061,,,,,,,,,,
+Wisconsin,SCI/DCII,2015,November,2015-11-10,,,,210799,,,,,,,,,,
+Wisconsin,FLCI/SS,2015,November,2015-11-17,,,,349140,,,,,,,,,,
+Wisconsin,CCI,2015,November,2015-11-25,,,,79374,,,,,,,,,,
+Wisconsin,DCII,2015,November,2015-11-28,,,,133192,,,,,,,,,,
+Wisconsin,SPCC,2015,November,2015-11-29,,,,417785,,,,,,,,,,
+Wisconsin,OSCI,2015,November,2015-11-29,,,,552036,,,,,,,,,,
+Wisconsin,OSCI,2015,December,2015-12-01,,,,198180,,,,,,,,,,
+Wisconsin,RCI,2015,December,2015-12-02,,,,93040,,,,,,,,,,
+Wisconsin,DCII,2015,December,2015-12-08,,,,603741,,,,,,,,,,
+Wisconsin,PDCI/DCII,2015,December,2015-12-17,,,,111353,,,,,,,,,,
+Wisconsin,OSCI,2015,December,2015-12-18,,,,619518,,,,,,,,,,
+Wisconsin,CCI,2016,January,2016-01-16,,,,613396,,,,,,,,,,
+Wisconsin,CCI,2016,January,2016-01-27,,,,196560,,,,,,,,,,
+Wisconsin,CCI,2016,February,2016-02-07,,,,578287,,,,,,,,,,
+Wisconsin,CVTF/UW,2016,February,2016-02-09,,,,94887,,,,,,,,,,
+Wisconsin,DCI,2016,February,2016-02-11,,,,638998,,,,,,,,,,
+Wisconsin,DCI,2016,February,2016-02-16,,,,148092,,,,,,,,,,
+Wisconsin,DCI,2016,February,2016-02-18,,,,417740,,,,,,,,,,
+Wisconsin,DCI,2016,February,2016-02-22,,,,17700,,,,,,,,,,
+Wisconsin,DCI,2016,March,2016-03-14,,,,648787,,,,,,,,,,
+Wisconsin,DCI,2016,March,2016-03-16,,,,154435,,,,,,,,,,
+Wisconsin,DCI - WMH,2016,March,2016-03-18,,,,174880,,,,,,,,,,
+Wisconsin,DCI/ST,2016,March,2016-03-23,,,,630672,,,,,,,,,,
+Wisconsin,DCI/UWH,2016,March,2016-03-24,,,,329925,,,,,,,,,,
+Wisconsin,DCII,2016,March,2016-03-28,,,,520522,,,,,,,,,,
+Wisconsin,DCII,2016,March,2016-03-30,,,,525726,,,,,,,,,,
+Wisconsin,DCII,2016,April,2016-04-02,,,,38227,,,,,,,,,,
+Wisconsin,DCI-I,2016,April,2016-04-05,,,,248732,,,,,,,,,,
+Wisconsin,DCI-I,2016,April,2016-04-11,,,,402525,,,,,,,,,,
+Wisconsin,DCI-I,2016,April,2016-04-13,,,,226539,,,,,,,,,,
+Wisconsin,DCI-I,2016,April,2016-04-15,,,,601562,,,,,,,,,,
+Wisconsin,DCI-I,2016,April,2016-04-18,,,,454275,,,,,,,,,,
+Wisconsin,DCI-I,2016,April,2016-04-20,,,,392436,,,,,,,,,,
+Wisconsin,DCI-I,2016,April,2016-04-26,,,,272672,,,,,,,,,,
+Wisconsin,DCI-I,2016,May,2016-05-05,,,,57667,,,,,,,,,,
+Wisconsin,DCI-I,2016,May,2016-05-08,,,,98683,,,,,,,,,,
+Wisconsin,DCI-I,2016,May,2016-05-11,,,,95945,,,,,,,,,,
+Wisconsin,DCI-I,2016,May,2016-05-15,,,,8626,,,,,,,,,,
+Wisconsin,DCI-I,2016,May,2016-05-21,,,,286438,,,,,,,,,,
+Wisconsin,DCI-I,2016,May,2016-05-21,,,,633299,,,,,,,,,,
+Wisconsin,DCI-I,2016,May,2016-05-29,,,,86721,,,,,,,,,,
+Wisconsin,DCII/SCI,2016,June,2016-06-02,,,,203893,,,,,,,,,,
+Wisconsin,DCII/UW,2016,June,2016-06-03,,,,374076,,,,,,,,,,
+Wisconsin,FLCI,2016,June,2016-06-05,,,,412476,,,,,,,,,,
+Wisconsin,FLCI,2016,June,2016-06-07,,,,496810,,,,,,,,,,
+Wisconsin,GBCI,2016,June,2016-06-09,,,,631656,,,,,,,,,,
+Wisconsin,GBCI,2016,June,2016-06-19,,,,610371,,,,,,,,,,
+Wisconsin,GBCI,2016,June,2016-06-30,,,,409586,,,,,,,,,,
+Wisconsin,GBCI,2016,June,2016-06-30,,,,630558,,,,,,,,,,
+Wisconsin,JCI,2016,July,2016-07-02,,,,591658,,,,,,,,,,
+Wisconsin,KMCI,2016,July,2016-07-04,,,,285409,,,,,,,,,,
+Wisconsin,MCC,2016,July,2016-07-05,,,,61511,,,,,,,,,,
+Wisconsin,MSDF,2016,July,2016-07-12,,,,415418,,,,,,,,,,
+Wisconsin,NLCI,2016,July,2016-07-22,,,,109526,,,,,,,,,,
+Wisconsin,NLCI/MERITER,2016,July,2016-07-26,,,,201872,,,,,,,,,,
+Wisconsin,OCI,2016,August,2016-08-05,,,,345246,,,,,,,,,,
+Wisconsin,OSCI,2016,August,2016-08-22,,,,472025,,,,,,,,,,
+Wisconsin,OSCI,2016,August,2016-08-25,,,,455335,,,,,,,,,,
+Wisconsin,OSCI,2016,August,2016-08-26,,,,277708,,,,,,,,,,
+Wisconsin,OSCI/MMC,2016,September,2016-09-08,,,,623047,,,,,,,,,,
+Wisconsin,OSCI/MMC,2016,September,2016-09-17,,,,396846,,,,,,,,,,
+Wisconsin,OSCI/MMC,2016,September,2016-09-24,,,,511597,,,,,,,,,,
+Wisconsin,RCI,2016,October,2016-10-02,,,,530637,,,,,,,,,,
+Wisconsin,RCI,2016,October,2016-10-08,,,,214507,,,,,,,,,,
+Wisconsin,RCI -,2016,November,2016-11-04,,,,217085,,,,,,,,,,
+Wisconsin,RCI/ST,2016,November,2016-11-06,,,,556956,,,,,,,,,,
+Wisconsin,RCI/WHEATON FRANCISCAN,2016,November,2016-11-14,,,,609951,,,,,,,,,,
+Wisconsin,REECC,2016,November,2016-11-28,,,,33184,,,,,,,,,,
+Wisconsin,REECC/WHE ATON,2016,December,2016-12-04,,,,633455,,,,,,,,,,
+Wisconsin,RGCI/UW,2016,December,2016-12-12,,,,22722,,,,,,,,,,
+Wisconsin,RGCI/WMH,2016,December,2016-12-14,,,,446866,,,,,,,,,,
+Wisconsin,TCI,2016,December,2016-12-21,,,,436194,,,,,,,,,,
+Wisconsin,WCI,2016,December,2016-12-21,,,,168188,,,,,,,,,,
+Wisconsin,WCI/WMH,2016,December,2016-12-26,,,,464677,,,,,,,,,,
+Wisconsin,WRC,2016,December,2016-12-27,,,,467776,,,,,,,,,,
+Wisconsin,WRC,2016,December,2016-12-28,,,,444445,,,,,,,,,,
+Wisconsin,WSPF,2016,December,2016-12-29,,,,47857,,,,,,,,,,
+Wisconsin,DCI-I,2017,January,2017-01-05,,,,26237,,,,,,,,,,
+Wisconsin,KMCI,2017,January,2017-01-05,,,,605627,,,,,,,,,,
+Wisconsin,DCI-I,2017,January,2017-01-15,,,,339757,,,,,,,,,,
+Wisconsin,DCI,2017,January,2017-01-30,,,,288265,,,,,,,,,,
+Wisconsin,DCI/UW,2017,January,2017-01-30,,,,172863,,,,,,,,,,
+Wisconsin,DCI,2017,January,2017-01-30,,,,132724,,,,,,,,,,
+Wisconsin,DCI,2017,February,2017-02-06,,,,216352,,,,,,,,,,
+Wisconsin,DCI-I,2017,February,2017-02-17,,,,620585,,,,,,,,,,
+Wisconsin,NLCI/UW,2017,February,2017-02-21,,,,3178,,,,,,,,,,
+Wisconsin,RCI/ASCENSI,2017,February,2017-02-25,,,,181660,,,,,,,,,,
+Wisconsin,DCI-I,2017,March,2017-03-11,,,,146459,,,,,,,,,,
+Wisconsin,RGCI/UWH,2017,March,2017-03-13,,,,424189,,,,,,,,,,
+Wisconsin,DCI-I,2017,March,2017-03-17,,,,283788,,,,,,,,,,
+Wisconsin,MSDF,2017,March,2017-03-21,,,,157876,,,,,,,,,,
+Wisconsin,MSDF/ASH,2017,March,2017-03-24,,,,210830,,,,,,,,,,
+Wisconsin,OSCI/MMC,2017,March,2017-03-26,,,,539832,,,,,,,,,,
+Wisconsin,DCI-I,2017,April,2017-04-26,,,,412831,,,,,,,,,,
+Wisconsin,DCI-I,2017,May,2017-05-01,,,,17901,,,,,,,,,,
+Wisconsin,WCI,2017,May,2017-05-02,,,,647459,,,,,,,,,,
+Wisconsin,SCI/DCI-I,2017,June,2017-06-07,,,,526960,,,,,,,,,,
+Wisconsin,DCI-I,2017,June,2017-06-29,,,,653660,,,,,,,,,,
+Wisconsin,TCI/UW,2017,July,2017-07-01,,,,160907,,,,,,,,,,
+Wisconsin,DCI-I,2017,July,2017-07-07,,,,106546,,,,,,,,,,
+Wisconsin,GBCI,2017,July,2017-07-22,,,,298910,,,,,,,,,,
+Wisconsin,SCI/SACRED,2017,July,2017-07-22,,,,219980,,,,,,,,,,
+Wisconsin,DCI-I,2017,July,2017-07-26,,,,625890,,,,,,,,,,
+Wisconsin,WCI/WMH,2017,July,2017-07-27,,,,424788,,,,,,,,,,
+Wisconsin,DCI-I,2017,August,2017-08-01,,,,577100,,,,,,,,,,
+Wisconsin,DCI,2017,August,2017-08-02,,,,356468,,,,,,,,,,
+Wisconsin,DCI-I,2017,August,2017-08-17,,,,288825,,,,,,,,,,
+Wisconsin,DCI,2017,August,2017-08-25,,,,571662,,,,,,,,,,
+Wisconsin,SCI,2017,August,2017-08-25,,,,196335,,,,,,,,,,
+Wisconsin,CCI,2017,September,2017-09-06,,,,190432,,,,,,,,,,
+Wisconsin,WCI,2017,September,2017-09-17,,,,182162,,,,,,,,,,
+Wisconsin,DCI-I,2017,October,2017-10-01,,,,197805,,,,,,,,,,
+Wisconsin,DCI-I/UW,2017,October,2017-10-25,,,,27763,,,,,,,,,,
+Wisconsin,DCI-I,2017,October,2017-10-26,,,,389188,,,,,,,,,,
+Wisconsin,DCI-I,2017,October,2017-10-26,,,,428774,,,,,,,,,,
+Wisconsin,DCI-I/OSCI,2017,October,2017-10-31,,,,92384,,,,,,,,,,
+Wisconsin,JCI/GUNDERS,2017,November,2017-11-20,,,,135036,,,,,,,,,,
+Wisconsin,WCI/UW,2017,December,2017-12-05,,,,4136,,,,,,,,,,
+Wisconsin,DCI,2017,December,2017-12-27,,,,640583,,,,,,,,,,
+Wisconsin,DCI-I,2017,December,2017-12-29,,,,125612,,,,,,,,,,
+Wisconsin,DCI-I,2018,January,2018-01-03,,,,479319,,,,,,,,,,
+Wisconsin,NLCI,2018,January,2018-01-07,,,,642804,,,,,,,,,,
+Wisconsin,RCI,2018,February,2018-02-01,,,,632317,,,,,,,,,,
+Wisconsin,DCI-I,2018,February,2018-02-08,,,,457979,,,,,,,,,,
+Wisconsin,DCI-I,2018,February,2018-02-10,,,,158909,,,,,,,,,,
+Wisconsin,OSCI,2018,February,2018-02-19,,,,312900,,,,,,,,,,
+Wisconsin,DCI-I,2018,February,2018-02-20,,,,201135,,,,,,,,,,
+Wisconsin,DCI-I,2018,February,2018-02-21,,,,419757,,,,,,,,,,
+Wisconsin,DCI-I/OSCI,2018,February,2018-02-27,,,,603359,,,,,,,,,,
+Wisconsin,DCI-I/OSCI,2018,March,2018-03-01,,,,155273,,,,,,,,,,
+Wisconsin,FLCI/UW,2018,March,2018-03-04,,,,146311,,,,,,,,,,
+Wisconsin,FLCI,2018,March,2018-03-05,,,,201196,,,,,,,,,,
+Wisconsin,DCI-I/WP,2018,March,2018-03-06,,,,315003,,,,,,,,,,
+Wisconsin,RCI/WHEATON,2018,March,2018-03-11,,,,527787,,,,,,,,,,
+Wisconsin,JCI/GUNDERS,2018,March,2018-03-23,,,,296224,,,,,,,,,,
+Wisconsin,OSCI/ASCENC ION,2018,March,2018-03-28,,,,93281,,,,,,,,,,
+Wisconsin,SCI,2018,March,2018-03-29,,,,574466,,,,,,,,,,
+Wisconsin,RCI,2018,April,2018-04-01,,,,40679,,,,,,,,,,
+Wisconsin,DCI-I,2018,April,2018-04-13,,,,385278,,,,,,,,,,
+Wisconsin,JBCC/UW,2018,April,2018-04-29,,,,478383,,,,,,,,,,
+Wisconsin,GBCI,2018,May,2018-05-01,,,,533732,,,,,,,,,,
+Wisconsin,GBCI,2018,May,2018-05-03,,,,631641,,,,,,,,,,
+Wisconsin,DCI-I,2018,May,2018-05-19,,,,277348,,,,,,,,,,
+Wisconsin,OSCI,2018,May,2018-05-25,,,,182042,,,,,,,,,,
+Wisconsin,DCI-I,2018,June,2018-06-01,,,,576176,,,,,,,,,,
+Wisconsin,DCI-I,2018,June,2018-06-03,,,,640261,,,,,,,,,,
+Wisconsin,DCI-I,2018,June,2018-06-05,,,,341186,,,,,,,,,,
+Wisconsin,DCI-I,2018,June,2018-06-18,,,,427063,,,,,,,,,,
+Wisconsin,DCI,2018,June,2018-06-18,,,,254719,,,,,,,,,,
+Wisconsin,DCI-I,2018,June,2018-06-22,,,,359222,,,,,,,,,,
+Wisconsin,WSPF,2018,July,2018-07-09,,,,647247,,,,,,,,,,
+Wisconsin,CVTF,2018,July,2018-07-12,,,,107963,,,,,,,,,,
+Wisconsin,WCI,2018,July,2018-07-20,,,,402586,,,,,,,,,,
+Wisconsin,DCI-I,2018,August,2018-08-15,,,,297663,,,,,,,,,,
+Wisconsin,DCI-I,2018,August,2018-08-17,,,,650175,,,,,,,,,,
+Wisconsin,DCI-I,2018,August,2018-08-23,,,,95982,,,,,,,,,,
+Wisconsin,DCI-I,2018,August,2018-08-25,,,,202730,,,,,,,,,,
+Wisconsin,WCI,2018,August,2018-08-31,,,,281754,,,,,,,,,,
+Wisconsin,CCI,2018,September,2018-09-01,,,,606498,,,,,,,,,,
+Wisconsin,FLCI,2018,September,2018-09-02,,,,105716,,,,,,,,,,
+Wisconsin,NLCI,2018,September,2018-09-11,,,,564728,,,,,,,,,,
+Wisconsin,SCI,2018,September,2018-09-21,,,,448308,,,,,,,,,,
+Wisconsin,TCI/ ST AGNES,2018,September,2018-09-23,,,,282085,,,,,,,,,,
+Wisconsin,GBCI,2018,October,2018-10-16,,,,606246,,,,,,,,,,
+Wisconsin,DCI-I,2018,October,2018-10-22,,,,133525,,,,,,,,,,
+Wisconsin,RCI,2018,October,2018-10-22,,,,373228,,,,,,,,,,
+Wisconsin,RGCI,2018,October,2018-10-23,,,,348857,,,,,,,,,,
+Wisconsin,DCI-I,2018,November,2018-11-02,,,,112904,,,,,,,,,,
+Wisconsin,DCI-I,2018,November,2018-11-07,,,,396747,,,,,,,,,,
+Wisconsin,FCCC,2018,December,2018-12-14,,,,375167,,,,,,,,,,
+Wisconsin,OSCI/UW,2018,December,2018-12-19,,,,237030,,,,,,,,,,
+Wisconsin,JCI/UW,2018,December,2018-12-25,,,,238376,,,,,,,,,,
+Wisconsin,OSCI,2019,January,2019-01-16,,,,331806,,,,,,,,,,
+Wisconsin,DCI-I,2019,January,2019-01-17,,,,98426,,,,,,,,,,
+Wisconsin,OCI/UW,2019,January,2019-01-23,,,,334285,,,,,,,,,,
+Wisconsin,NLCI/NURSING,2019,January,2019-01-23,,,,197858,,,,,,,,,,
+Wisconsin,WCI,2019,January,2019-01-30,,,,256968,,,,,,,,,,
+Wisconsin,WRC,2019,January,2019-01-31,,,,571536,,,,,,,,,,
+Wisconsin,MSDF,2019,January,2019-01-31,,,,651226,,,,,,,,,,
+Wisconsin,RGCI,2019,February,2019-02-02,,,,555463,,,,,,,,,,
+Wisconsin,NLCI/NURSING,2019,February,2019-02-19,,,,649377,,,,,,,,,,
+Wisconsin,DCI-I,2019,February,2019-02-20,,,,128579,,,,,,,,,,
+Wisconsin,DCI-I,2019,March,2019-03-11,,,,445661,,,,,,,,,,
+Wisconsin,DCI-I,2019,March,2019-03-14,,,,199867,,,,,,,,,,
+Wisconsin,MSDF,2019,March,2019-03-17,,,,148113,,,,,,,,,,
+Wisconsin,FLCI/HOSPITA,2019,March,2019-03-27,,,,287249,,,,,,,,,,
+Wisconsin,TCC,2019,March,2019-03-31,,,,490577,,,,,,,,,,
+Wisconsin,GBCI,2019,April,2019-04-07,,,,261362,,,,,,,,,,
+Wisconsin,TCI/STAGNES,2019,April,2019-04-08,,,,678616,,,,,,,,,,
+Wisconsin,DCI-I,2019,May,2019-05-01,,,,81498,,,,,,,,,,
+Wisconsin,OSCI,2019,May,2019-05-12,,,,58481,,,,,,,,,,
+Wisconsin,OSCI,2019,May,2019-05-15,,,,586561,,,,,,,,,,
+Wisconsin,DCI-I,2019,June,2019-06-12,,,,183566,,,,,,,,,,
+Wisconsin,DCI-I,2019,June,2019-06-25,,,,156344,,,,,,,,,,
+Wisconsin,DCI-I /UW,2019,July,2019-07-08,,,,158887,,,,,,,,,,
+Wisconsin,DCI-I/UW,2019,July,2019-07-12,,,,501004,,,,,,,,,,
+Wisconsin,RCI,2019,August,2019-08-04,,,,307329,,,,,,,,,,
+Wisconsin,DCI-I,2019,August,2019-08-12,,,,255353,,,,,,,,,,
+Wisconsin,JCI,2019,August,2019-08-12,,,,183250,,,,,,,,,,
+Wisconsin,RCI,2019,August,2019-08-17,,,,412302,,,,,,,,,,
+Wisconsin,DCI-I,2019,August,2019-08-20,,,,262373,,,,,,,,,,
+Wisconsin,DCI,2019,August,2019-08-26,,,,277596,,,,,,,,,,
+Wisconsin,OSCI,2019,August,2019-08-28,,,,606663,,,,,,,,,,
+Wisconsin,DCI,2019,September,2019-09-04,,,,317431,,,,,,,,,,
+Wisconsin,DCI,2019,September,2019-09-07,,,,556413,,,,,,,,,,
+Wisconsin,KMCI,2019,September,2019-09-08,,,,104265,,,,,,,,,,
+Wisconsin,DCI-I,2019,October,2019-10-06,,,,59227,,,,,,,,,,
+Wisconsin,DCI/WSPF,2019,October,2019-10-16,,,,671605,,,,,,,,,,
+Wisconsin,DCI-I,2019,October,2019-10-22,,,,467056,,,,,,,,,,
+Wisconsin,DCI-I,2019,October,2019-10-27,,,,604477,,,,,,,,,,
+Wisconsin,RCI,2019,October,2019-10-31,,,,517504,,,,,,,,,,
+Wisconsin,RCI,2019,October,2019-10-31,,,,277679,,,,,,,,,,
+Wisconsin,DCI-I,2019,November,2019-11-02,,,,88403,,,,,,,,,,
+Wisconsin,TCI,2019,November,2019-11-15,,,,175964,,,,,,,,,,
+Wisconsin,OSCI,2019,November,2019-11-18,,,,387199,,,,,,,,,,
+Wisconsin,RCI,2019,November,2019-11-23,,,,38187,,,,,,,,,,
+Wisconsin,DCI,2019,November,2019-11-25,,,,179459,,,,,,,,,,
+Wisconsin,DCI-I,2019,November,2019-11-30,,,,537271,,,,,,,,,,
+Wisconsin,CCI,2019,December,2019-12-03,,,,19204,,,,,,,,,,
+Wisconsin,NLCI,2019,December,2019-12-14,,,,436573,,,,,,,,,,
+Wisconsin,DCI-I,2019,December,2019-12-14,,,,12084,,,,,,,,,,
+Wisconsin,DCI-I,2019,December,2019-12-15,,,,471999,,,,,,,,,,
+Wisconsin,DCI-I,2019,December,2019-12-19,,,,822,,,,,,,,,,
+Wisconsin,DCI-I,2020,January,2020-01-01,,,,581184,,,,,,,,,,
+Wisconsin,DCI-I,2020,January,2020-01-03,,,,155,,,,,,,,,,
+Wisconsin,SCI,2020,January,2020-01-06,,,,579864,,,,,,,,,,
+Wisconsin,OSCI,2020,January,2020-01-08,,,,89993,,,,,,,,,,
+Wisconsin,WCI,2020,January,2020-01-11,,,,291738,,,,,,,,,,
+Wisconsin,CCI,2020,January,2020-01-15,,,,598394,,,,,,,,,,
+Wisconsin,CCI,2020,January,2020-01-16,,,,492179,,,,,,,,,,
+Wisconsin,MSDF,2020,January,2020-01-29,,,,618809,,,,,,,,,,
+Wisconsin,WSPF,2020,February,2020-02-03,,,,532165,,,,,,,,,,
+Wisconsin,DCI-I,2020,February,2020-02-05,,,,76032,,,,,,,,,,
+Wisconsin,FLCI,2020,February,2020-02-15,,,,28138,,,,,,,,,,
+Wisconsin,NLCI,2020,February,2020-02-20,,,,169217,,,,,,,,,,
+Wisconsin,OSCI,2020,March,2020-03-07,,,,859,,,,,,,,,,
+Wisconsin,OSCI,2020,March,2020-03-29,,,,25257,,,,,,,,,,
+Wisconsin,RGCI,2020,April,2020-04-09,,,,465500,,,,,,,,,,
+Wisconsin,OSCI,2020,April,2020-04-17,,,,80083,,,,,,,,,,
+Wisconsin,NLCI,2020,April,2020-04-25,,,,147807,,,,,,,,,,
+Wisconsin,DCI,2020,May,2020-05-04,,,,184802,,,,,,,,,,
+Wisconsin,OSCI,2020,May,2020-05-05,,,,266221,,,,,,,,,,
+Wisconsin,OSCI,2020,May,2020-05-05,,,,106158,,,,,,,,,,
+Wisconsin,MSDF,2020,May,2020-05-23,,,,373438,,,,,,,,,,
+Wisconsin,DCI-I,2020,May,2020-05-24,,,,81298,,,,,,,,,,
+Wisconsin,GBCI,2020,May,2020-05-27,,,,100239,,,,,,,,,,
+Wisconsin,DCI-I,2020,May,2020-05-27,,,,82340,,,,,,,,,,
+Wisconsin,GBCI,2020,June,2020-06-02,,,,76030,,,,,,,,,,
+Wisconsin,OSCI,2020,June,2020-06-25,,,,207023,,,,,,,,,,
+Wisconsin,WCI,2020,July,2020-07-31,,,,253334,,,,,,,,,,
+Wisconsin,DCI-I,2020,September,2020-09-12,,,,60716,,,,,,,,,,
+Wisconsin,DCI-I,2020,September,2020-09-15,,,,318441,,,,,,,,,,
+Wisconsin,DCI-I (NLCI),2020,September,2020-09-22,,,,454950,,,,,,,,,,
+Wisconsin,DCI,2020,September,2020-09-23,,,,646991,,,,,,,,,,
+Wisconsin,CCI,2020,September,2020-09-24,,,,48597,,,,,,,,,,
+Wisconsin,OSCI,2020,September,2020-09-26,,,,669443,,,,,,,,,,
+Wisconsin,DCI,2020,October,2020-10-04,,,,28982,,,,,,,,,,
+Wisconsin,OSCI,2020,October,2020-10-04,,,,285085,,,,,,,,,,
+Wisconsin,DCI,2020,October,2020-10-07,,,,37614,,,,,,,,,,
+Wisconsin,OSCI,2020,October,2020-10-09,,,,579744,,,,,,,,,,
+Wisconsin,DCI-I,2020,October,2020-10-18,,,,573437,,,,,,,,,,
+Wisconsin,OSCI,2020,October,2020-10-20,,,,501732,,,,,,,,,,
+Wisconsin,FLCI,2020,October,2020-10-20,,,,168825,,,,,,,,,,
+Wisconsin,WCI,2020,October,2020-10-23,,,,131238,,,,,,,,,,
+Wisconsin,RGCI,2020,October,2020-10-27,,,,619507,,,,,,,,,,
+Wisconsin,WCI,2020,October,2020-10-28,,,,322111,,,,,,,,,,
+Wisconsin,WCI,2020,October,2020-10-31,,,,465250,,,,,,,,,,
+Wisconsin,DCC HOLD,2020,November,2020-11-04,,,,664173,,,,,,,,,,
+Wisconsin,RGCI,2020,November,2020-11-04,,,,164088,,,,,,,,,,
+Wisconsin,OSCI,2020,November,2020-11-04,,,,324015,,,,,,,,,,
+Wisconsin,RCI,2020,November,2020-11-05,,,,331182,,,,,,,,,,
+Wisconsin,RGCI,2020,November,2020-11-09,,,,113395,,,,,,,,,,
+Wisconsin,WCI,2020,November,2020-11-09,,,,158907,,,,,,,,,,
+Wisconsin,SCI,2020,November,2020-11-10,,,,461021,,,,,,,,,,
+Wisconsin,WCI,2020,November,2020-11-14,,,,510716,,,,,,,,,,
+Wisconsin,RCI,2020,November,2020-11-19,,,,62511,,,,,,,,,,
+Wisconsin,OSCI,2020,November,2020-11-19,,,,315642,,,,,,,,,,
+Wisconsin,PDCI,2020,November,2020-11-30,,,,195799,,,,,,,,,,
+Wisconsin,WCI,2020,December,2020-12-01,,,,157731,,,,,,,,,,
+Wisconsin,OSCI,2020,December,2020-12-05,,,,118250,,,,,,,,,,
+Wisconsin,SCI,2020,December,2020-12-05,,,,217953,,,,,,,,,,
+Wisconsin,TCI,2020,December,2020-12-05,,,,401531,,,,,,,,,,
+Wisconsin,REEC,2020,December,2020-12-06,,,,677153,,,,,,,,,,
+Wisconsin,FLCI,2020,December,2020-12-06,,,,77766,,,,,,,,,,
+Wisconsin,SCI,2020,December,2020-12-07,,,,104205,,,,,,,,,,
+Wisconsin,TCI,2020,December,2020-12-07,,,,304409,,,,,,,,,,
+Wisconsin,CCI,2020,December,2020-12-07,,,,135332,,,,,,,,,,
+Wisconsin,DCI-I,2020,December,2020-12-11,,,,620083,,,,,,,,,,
+Wisconsin,FLCI,2020,December,2020-12-12,,,,481269,,,,,,,,,,
+Wisconsin,OCI,2020,December,2020-12-20,,,,339425,,,,,,,,,,
+Wisconsin,TCI,2020,December,2020-12-21,,,,460530,,,,,,,,,,
+Wisconsin,DCI-I,2020,December,2020-12-21,,,,486687,,,,,,,,,,
+Wisconsin,DCI-I,2020,December,2020-12-28,,,,403195,,,,,,,,,,
+Wisconsin,RCI,2021,January,2021-01-04,,,"Garcia, Rogelio L.",634373,67,Male,American Indian/Alaskan Native,,,,,,,
+Wisconsin,DCI,2021,January,2021-01-06,,,"Yates, David R.",496969,59,Male,White,,,,,,,
+Wisconsin,RCI,2021,January,2021-01-06,,,"Sulewski, Joseph",348427,64,Male,White,,,,,,,
+Wisconsin,STF,2021,January,2021-01-07,,,"Wesley, Carl",330490,62,Male,Black,,,,,,,
+Wisconsin,SCI,2021,January,2021-01-13,,,"Mallory, Robert",63498,67,Male,Black,,,,,,,
+Wisconsin,RCI,2021,January,2021-01-15,,,"Atchison, Gary L.",65543,70,Male,White,,,,,,,
+Wisconsin,RCI,2021,January,2021-01-21,,,"Bell, Robert T.",174500,61,Male,White,,,,,,,
+Wisconsin,DCI,2021,January,2021-01-25,,,"Nichols, Roger C.",201243,74,Male,White,,,,,,,
+Wisconsin,MSDF,2021,February,2021-02-19,,,"Arredondo, Daniel",228978,50,Male,White,,,,,,,
+Wisconsin,RGCI,2021,March,2021-03-01,,,"Tushoski, Tyler D.",339303,43,Male,White,,,,,,,
+Wisconsin,OSCI,2021,March,2021-03-03,,,"Smith, Claude M.",408867,59,Male,White,,,,,,,
+Wisconsin,DCI,2021,March,2021-03-18,,,"Jago, Timothy A",566121,73,Male,White,,,,,,,
+Wisconsin,OSCI,2021,April,2021-04-10,,,"Hoyt, James w.",163665,77,Male,White,,,,,,,
+Wisconsin,DCI,2021,April,2021-04-14,,,"Adell, Mark",111690,62,Male,Black,,,,,,,
+Wisconsin,OCI,2021,May,2021-05-10,,,"Christensen, Drew",648756,24,Male,White,,,,,,,
+Wisconsin,GBCI,2021,May,2021-05-13,,,"Whatley, Antonio",514335,38,Male,Black,,,,,,,
+Wisconsin,RCI,2021,May,2021-05-14,,,"Neita, John",177870,63,Male,Black,,,,,,,
+Wisconsin,DCI,2021,May,2021-05-17,,,Lawrence Brian,564721,78,Male,White,,,,,,,
+Wisconsin,OSCI,2021,June,2021-06-06,,,"Demaske, John",462594,52,Male,White,,,,,,,
+Wisconsin,OSCI,2021,June,2021-06-08,,,"Avila, Pedro",124789,72,Male,White,,,,,,,
+Wisconsin,GBCI,2021,July,2021-07-11,,,"Wilber, Keith D.",539439,28,Male,American Indian/Alaskan Native,,,,,,,
+Wisconsin,DCI,2021,July,2021-07-12,,,"Beatenbaugh, Tony",427824,67,Male,White,,,,,,,
+Wisconsin,DCI,2021,July,2021-07-15,,,"Mikulovsky, Patrick",33898,71,Male,White,,,,,,,
+Wisconsin,NLCI,2021,July,2021-07-26,,,"Schleif, Dwight D.",678105,45,Male,White,,,,,,,
+Wisconsin,WCI,2021,July,2021-07-28,,,"Woods, Rayshun",390831,36,Male,Black,,,,,,,
+Wisconsin,DCI,2021,August,2021-08-03,,,"Cagle, Donald J.",415306,58,Male,White,,,,,,,
+Wisconsin,DCI,2021,August,2021-08-12,,,"Wesenberg, Peter J.",114863,63,Male,White,,,,,,,
+Wisconsin,DCI,2021,August,2021-08-12,,,"Stevenson, Bobbie L.",697009,62,Male,Black,,,,,,,
+Wisconsin,TCI,2021,August,2021-08-15,,,"Jaworski, Bobbie J.",578905,41,Female,White,,,,,,,
+Wisconsin,DCI,2021,August,2021-08-29,,,"Carter, Gregory A. Jr.",527142,34,Male,Black,,,,,,,
+Wisconsin,DCI,2021,September,2021-09-15,,,"Mikkelson, Ronald",334885,79,Male,White,,,,,,,
+Wisconsin,DCI,2021,September,2021-09-22,,,"Turner, David D.",358919,49,Male,White,,,,,,,
+Wisconsin,RCI,2021,September,2021-09-24,,,"Borrero, Jose",352119,40,Male,White,,,,,,,
+Wisconsin,MSDF,2021,September,2021-09-26,,,"Hoff, Floyd W.",508807,52,Male,White,,,,,,,
+Wisconsin,DCI,2021,October,2021-10-23,,,"Banks, Daniel W.",155878,53,Male,American Indian/Alaskan Native,,,,,,,
+Wisconsin,OSCI,2021,October,2021-10-28,,,"Marak, Dominic R.",152875,56,Male,White,,,,,,,
+Wisconsin,WSPF,2021,November,2021-11-18,,,"Ellis, Jesse D.",432106,35,Male,Black,,,,,,,
+Wisconsin,DCI,2021,November,2021-11-22,,,"Oliver, Percy L.",683224,75,Male,Black,,,,,,,
+Wisconsin,RGCI,2021,November,2021-11-27,,,"Trimble, Timothy J",386371,72,Male,White,,,,,,,
+Wisconsin,DCI,2021,December,2021-12-03,,,"Wells, Bruce M.",699265,63,Male,White,,,,,,,
+Wisconsin,RGCI,2021,December,2021-12-03,,,"Mchugh, Michael D.",148393,72,Male,White,,,,,,,
+Wisconsin,SCI,2021,December,2021-12-03,,,"Otterbeck, Gregory L.",128703,67,Male,White,,,,,,,
+Wisconsin,RGCI,2021,December,2021-12-04,,,"Schinkten, Michael D.",617153,69,Male,White,,,,,,,
+Wisconsin,SCI,2021,December,2021-12-09,,,"Krug, Michael W.",44625,68,Male,White,,,,,,,
+Wisconsin,OSCI,2021,December,2021-12-18,,,"Randall, Jimmy",341888,53,Male,White,,,,,,,
+Wisconsin,OSCI,2021,December,2021-12-21,,,"Larock, Wendell J.",22393,68,Male,American Indian/Alaskan Native,,,,,,,
+Wisconsin,DCI,2021,December,2021-12-24,,,"Hebard, Harry R.",32311,75,Male,White,,,,,,,
+Wisconsin,OSCI,2021,December,2021-12-26,,,"Ratliff, Anthony T.",242782,48,Male,Black,,,,,,,
+Wisconsin,DCI,2021,December,2021-12-28,,,"Warrichaiet, Steven D.",525605,54,Male,White,,,,,,,
+Wisconsin,FLCI,2022,January,2022-01-10,Tomas,Torres,,,41,,White,,,,,,,2022
+Wisconsin,OSCI,2022,January,2022-01-19,Dale,Wilhelm,,,50,Male,White,,,,,,,2022
+Wisconsin,DCI,2022,January,2022-01-28,Michael,Wegge,,,67,Male,White,,,,,,,2022
+Wisconsin,TCI,2022,February,2022-02-01,Dale,Green,,,61,Female,White,,,,,,,2022
+Wisconsin,OSCI,2022,February,2022-02-12,Timothy Sr.,Hagberg,,,67,Male,White,,,,,,,2022
+Wisconsin,DCI,2022,February,2022-02-14,Dartavis,Shelton,,,38,Male,Black,,,,,,,2022
+Wisconsin,OSCI,2022,February,2022-02-16,Michael,Schneider,,,70,Male,White,,,,,,,2022
+Wisconsin,FCCC,2022,February,2022-02-20,Steven,Gray,,,39,Male,White,,,,,,,2022
+Wisconsin,RGCI,2022,February,2022-02-28,Yakov,Alperovich,,,65,Male,White,,,,,,,2022
+Wisconsin,DCI,2022,March,2022-03-19,Shaun,Clark,,,44,Male,White,,,,,,,2022
+Wisconsin,OSCI,2022,March,2022-03-20,Michael,Baker,,,64,Male,White,,,,,,,2022
+Wisconsin,NLCI,2022,April,2022-04-18,Krashaun,Wiley,,,33,Male,Black,,,,,,,2022
+Wisconsin,JCI,2022,April,2022-04-29,Richard,Holden,,,73,Male,White,,,,,,,2022
+Wisconsin,JCI,2022,May,2022-05-10,Joshua,Bella,,,38,Male,White,,,,,,,2022
+Wisconsin,DCI,2022,May,2022-05-14,Albart,Shores,,,59,Male,Black,,,,,,,2022
+Wisconsin,WCI,2022,May,2022-05-18,Wallace Jr.,Doman,,,68,Male,White,,,,,,,2022
+Wisconsin,RCI,2022,May,2022-05-23,Jerome Sr.,Strok,,,78,Male,White,,,,,,,2022
+Wisconsin,WCI,2022,May,2022-05-23,John Jr.,Hochschild,,,31,Male,White,,,,,,,2022
+Wisconsin,WCI,2022,May,2022-05-25,Aaron,Mckinney,,,54,Male,White,,,,,,,2022
+Wisconsin,NLCI,2022,May,2022-05-27,Gilbert,Cordova,,,63,Male,Unknown,,,,,,,2022
+Wisconsin,DCI,2022,June,2022-06-02,Van,Norwood,,,78,Male,Black,,,,,,,2022
+Wisconsin,WCI,2022,June,2022-06-09,Decarlos,Young,,,45,Male,Black,,,,,,,2022
+Wisconsin,OSCI,2022,June,2022-06-17,Raymond,Vannieuwenhoven,,,85,Male,White,,,,,,,2022
+Wisconsin,OSCI,2022,June,2022-06-18,Steven,Greenwood,,,47,Male,White,,,,,,,2022
+Wisconsin,OSCI,2022,July,2022-07-02,Joseph,Buza,,,75,Male,White,,,,,,,2022
+Wisconsin,WCI,2022,July,2022-07-16,Leshawn Sr.,Brooks,,,40,Male,Black,,,,,,,2022
+Wisconsin,STF,2022,July,2022-07-18,Timothy,Morrison,,,57,Male,White,,,,,,,2022
+Wisconsin,GBCI,2022,July,2022-07-24,Darrell,Logan,,,35,Male,Black,,,,,,,2022
+Wisconsin,OSCI,2022,July,2022-07-30,John,Donato,,,70,Male,White,,,,,,,2022
+Wisconsin,OSCI,2022,August,2022-08-08,Timothy,Hallet,,,51,Male,White,,,,,,,2022
+Wisconsin,JCI,2022,August,2022-08-16,William,Steers,,,58,Male,White,,,,,,,2022
+Wisconsin,OCI,2022,August,2022-08-27,Brian,Whetstone,,,58,Male,White,,,,,,,2022
+Wisconsin,FLCI,2022,September,2022-09-03,Willie,Liggins,,,61,Male,Black,,,,,,,2022
+Wisconsin,NLCI,2022,September,2022-09-10,Kim,Brown,,,71,Male,White,,,,,,,2022
+Wisconsin,WSPF,2022,September,2022-09-12,Roger,Compton,,,70,Male,White,,,,,,,2022
+Wisconsin,RGCI,2022,October,2022-10-02,Mark Jr.,Hall,,,31,Male,Black,,,,,,,2022
+Wisconsin,FLCI,2022,October,2022-10-10,Van,Mog,,,77,Male,White,,,,,,,2022
+Wisconsin,OSCI,2022,October,2022-10-13,Daniel,Vetterkind,,,59,Male,White,,,,,,,2022
+Wisconsin,OSCI,2022,October,2022-10-18,Richard,Cook,,,56,Male,White,,,,,,,2022
+Wisconsin,OCI,2022,October,2022-10-19,Barry,Cook,,,52,Male,White,,,,,,,2022
+Wisconsin,DCI,2022,October,2022-10-21,Maurice,McCray,,,70,Male,Black,,,,,,,2022
+Wisconsin,GBCI,2022,October,2022-10-24,Timothy,Nabors,,,25,Male,Black,,,,,,,2022
+Wisconsin,OSCI,2022,October,2022-10-30,Joseph Jr.,Thyrion,,,56,Male,White,,,,,,,2022
+Wisconsin,RCI,2022,October,2022-10-30,William,Metzger,,,78,Male,White,,,,,,,2022
+Wisconsin,OSCI,2022,November,2022-11-04,Douglas Sr.,House,,,64,Male,American Indian/Alaskan Native,,,,,,,2022
+Wisconsin,CCI,2022,November,2022-11-04,Shane,Frenche,,,43,Male,White,,,,,,,2022
+Wisconsin,DCI,2022,November,2022-11-11,Alexander,Weinmann,,,29,Male,White,,,,,,,2022
+Wisconsin,CCI,2022,November,2022-11-12,Carl,Mahler,,,88,Male,White,,,,,,,2022
+Wisconsin,RCI,2022,November,2022-11-29,David,Pitel,,,64,Male,White,,,,,,,2022
+Wisconsin,DCI,2022,December,2022-12-17,Gary,Hughes,,,76,Male,White,,,,,,,2022
+Wisconsin,DCI,2022,December,2022-12-20,Daniel,Fuerst,,,84,Male,White,,,,,,,2022
+Wisconsin,Dodge Correctional Institution,2023,May,2023-05-19,,,"CASPERSEN, TERRY L",,80,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Oshkosh Correctional Institution,2023,October,2023-10-09,,,"YBANEZ, RICARDO A",,72,Male,White,Hispanic or Latino,,,,,,2023
+Wisconsin,Oshkosh Correctional Institution,2023,January,2023-01-30,,,"HASKELL, WAYNE",,67,Male,White,Hispanic or Latino,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,September,2023-09-20,,,"KOLLER, WILLIAM CLIFFORD",,73,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Redgranite Correctional Institution,2023,May,2023-05-17,,,"TAYLOR, HARRY",,67,Male,Black,Unknown,,,,,,2023
+Wisconsin,Racine Correctional Institution,2023,March,2023-03-23,,,"TAYLOR, JOHNNY LEE",,76,Male,Black,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Oakhill Correctional Institution,2023,July,2023-07-27,,,"BROWN, ROBERT L",,81,Male,White,Unknown,,,,,,2023
+Wisconsin,Fox Lake Correctional Institution,2023,March,2023-03-10,,,"TANNAR, STEVEN J",,62,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,May,2023-05-08,,,"MENDEZ, ROBIN D",,74,Male,White,Hispanic or Latino,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,February,2023-02-04,,,"BARROSO, JUAQUIN",,59,Male,White,Hispanic or Latino,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,June,2023-06-16,,,"ZIMMERMANN, JEROME M",,70,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Oakhill Correctional Institution,2023,June,2023-06-08,,,"HOLT, THOMAS J",,67,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Oakhill Correctional Institution,2023,May,2023-05-29,,,"HENDRICKSON, RANDY DAVE",,62,Male,American Indian/Alaskan Native,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Stanley Correctional Institution,2023,December,2023-12-28,,,"ARELLANO, FRANCISCO JAVIER",,74,Male,White,Hispanic or Latino,,,,,,2023
+Wisconsin,Oshkosh Correctional Institution,2023,June,2023-06-20,,,"OPALEWSKI, EUGENE P",,88,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,January,2023-01-19,,,"HAVENS, HENRY R",,61,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Fox Lake Correctional Institution,2023,June,2023-06-09,,,"STONE, STEVEN D",,65,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Fox Lake Correctional Institution,2023,December,2023-12-19,,,"DIXON, NGAI MOESE",,53,Male,Black,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Racine Correctional Institution,2023,December,2023-12-06,,,"EALY, JEROME C",,54,Male,Black,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Oakhill Correctional Institution,2023,August,2023-08-04,,,"SMITH, DAVID B",,66,Male,Black,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Fox Lake Correctional Institution,2023,March,2023-03-27,,,"RANDLES, PHILLIP C",,86,Male,White,Unknown,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,November,2023-11-04,,,"JACOBY, MARK JEROME",,65,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Waupun Correctional Institution,2023,April,2023-04-11,,,"FLEENER, CALVIN",,47,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Oshkosh Correctional Institution,2023,May,2023-05-30,,,"STEINBACH, DALE H",,82,Male,White,Unknown,,,,,,2023
+Wisconsin,Supervised Living Facility,2023,September,2023-09-23,,,"ROBERSON, JOHN",,56,Male,Black,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Waupun Correctional Institution,2023,January,2023-01-19,,,"BOTWINSKI, JOSHUA J",,43,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Racine Correctional Institution,2023,July,2023-07-10,,,"SCHAMBERGER, RICHARD J",,57,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Green Bay Correctional Institution,2023,March,2023-03-28,,,"PRZYBYLA, JOHN H",,83,Male,White,Unknown,,,,,,2023
+Wisconsin,Racine Correctional Institution,2023,January,2023-01-07,,,"JONES, MARK C",,43,Male,Black,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Winnebago Correctional Center,2023,July,2023-07-20,,,"POWLESS, ELDON DARREN",,56,Male,American Indian/Alaskan Native,Not Hispanic or Latino,,,,,,2023
+Wisconsin,New Lisbon Correctional Institution,2023,June,2023-06-21,,,"WESTFAHL, MICHAEL",,41,Male,White,Unknown,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,October,2023-10-18,,,"THROM, DAVID",,63,Male,White,Unknown,,,,,,2023
+Wisconsin,Kettle Moraine Correctional Institution,2023,September,2023-09-09,,,"ROSSOW, DOUGLAS B",,62,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Racine Correctional Institution,2023,August,2023-08-04,,,"RODRIGUEZ KOUTSIOS, PARRY W",,32,Male,American Indian/Alaskan Native,Hispanic or Latino,,,,,,2023
+Wisconsin,Kettle Moraine Correctional Institution,2023,May,2023-05-25,,,"VIEGUT, TY MATTHEW",,30,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,April,2023-04-08,,,"ZAHNOW, JOEL A",,47,Male,White,Unknown,,,,,,2023
+Wisconsin,Waupun Correctional Institution,2023,October,2023-10-02,,,"LEMONS, TYSHUN LAVELL",,30,Male,Black,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,October,2023-10-14,,,"MCMURTRY, ORBRA",,75,Male,Black,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Oshkosh Correctional Institution,2023,September,2023-09-18,,,"VILLEGAS, HERMINIO C",,77,Male,White,Hispanic or Latino,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,January,2023-01-05,,,"ALLEN, JOHN WAYNE",,70,Male,White,Unknown,,,,,,2023
+Wisconsin,Fox Lake Correctional Institution,2023,August,2023-08-03,,,"MORA, JULIO E",,58,Male,White,Hispanic or Latino,,,,,,2023
+Wisconsin,Winnebago Correctional Center,2023,March,2023-03-04,,,"ASHMAN, STEVEN P",,38,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,August,2023-08-22,,,"GUTIERREZ, GEORGE",,59,Male,White,Hispanic or Latino,,,,,,2023
+Wisconsin,Oshkosh Correctional Institution,2023,May,2023-05-19,,,"HECKENDORF, EDWARD",,99,Male,White,Unknown,,,,,,2023
+Wisconsin,Waupun Correctional Institution,2023,October,2023-10-30,,,"WILLIAMS, CAMERON JAVIER",,24,Male,Black,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Racine Correctional Institution,2023,March,2023-03-14,,,"WELTE, CLAYTON STEWART",,27,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,July,2023-07-18,,,"KIRT, DENNIS E",,81,Male,White,Unknown,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,September,2023-09-12,,,"ARVELO-NIEVES, ANGEL",,49,Male,White,Hispanic or Latino,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2023,February,2023-02-26,,,"LEWIS, RICHARD M",,22,Male,Black,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Redgranite Correctional Institution,2023,March,2023-03-21,,,"KLITZKE, ROWAN NATHANIEL",,30,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Marshall E. Sherrer Correctional Center,2023,March,2023-03-07,,,"LILLEY, MIGUEL ROSS",,33,Male,White,Hispanic or Latino,,,,,,2023
+Wisconsin,Redgranite Correctional Institution,2023,August,2023-08-20,,,"PUCKHABER, DANIEL L",,76,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Taycheedah Correctional Institution,2023,July,2023-07-19,,,"SCHULZ-JUEDES, CINDY",,68,Female,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Waupun Correctional Institution,2023,June,2023-06-29,,,"HOFFMANN, DEAN HENRY",,60,Male,White,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Taycheedah Correctional Institution,2023,May,2023-05-21,,,"BOLDEN, MARY ANN",,63,Female,Black,Not Hispanic or Latino,,,,,,2023
+Wisconsin,Dodge Correctional Institution,2024,January,2024-01-01,,,"CRANMORE, ROBERT ALLEN",,71,M,White,Unknown,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,January,2024-01-06,,,"THESSIN, WILLIAM L",,73,M,White,Unknown,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,January,2024-01-25,,,"LAMBOY, INEZ G",,66,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,September,2024-09-22,,,"HOOPLE, TERRY M",,68,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Redgranite Correctional Institution,2024,July,2024-07-02,,,"HATCHER, JAMES G",,66,M,Black,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,July,2024-07-03,,,"KOCH, ALLAN R",,70,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Waupun Correctional Institution,2024,May,2024-05-23,,,"ADKINS, JAY J",,66,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,May,2024-05-16,,,"CASTELLANO, JOHN J",,73,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,New Lisbon Correctional Institution,2024,April,2024-04-29,,,"BURROUGHS, CHARLIE J",,67,M,Black,Unknown,,,,,,2024
+Wisconsin,Fox Lake Correctional Institution,2024,January,2024-01-28,,,"ORDELIN, JOSE C",,78,M,White,Hispanic or Latino,,,,,,2024
+Wisconsin,Racine Correctional Institution,2024,September,2024-09-14,,,"MATOSKA, DAVID R",,63,M,White,Hispanic or Latino,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,September,2024-09-20,,,"BLANK, MICHAEL R",,57,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,August,2024-08-17,,,"MIXON, MICHAEL",,65,M,Black,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,July,2024-07-03,,,"RADKE, ALAN L",,69,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Fox Lake Correctional Institution,2024,February,2024-02-18,,,"GOVE, JEFFREY",,65,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,October,2024-10-29,,,"KRUEGER, JOEL A",,61,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,November,2024-11-11,,,"ASBOTH, KENNETH M",,54,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Wisconsin Secure Program Facility,2024,October,2024-10-23,,,"KIMMES, BILLY JOHN",,50,M,American Indian/Alaskan Native,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Waupun Correctional Institution,2024,August,2024-08-05,,,"MCDONALD, CHRISTOPHER L",,57,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,April,2024-04-19,,,"ROBINSON, MATTHEW",,61,M,Black,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Sturtevant Transitional Facility,2024,June,2024-06-01,,,"JOHNSON, ROBERT SHELBY",,45,M,Black,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,November,2024-11-16,,,"BURRIEL, KELLY J",,53,M,Black,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,January,2024-01-17,,,"KANNICH, EUGENE",,78,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Waupun Correctional Institution,2024,February,2024-02-22,,,"MAIER, DONALD W",,62,M,White,Unknown,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,August,2024-08-29,,,"CRUSAN, STEVEN J",,49,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,March,2024-03-18,,,"BRUSS, TERRY LEE",,72,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,October,2024-10-12,,,"JEFFERSON, LEW A",,63,M,Black,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,November,2024-11-19,,,"PULVERMACHER, ROBERT M",,74,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,New Lisbon Correctional Institution,2024,January,2024-01-24,,,"FLUKER, JOHN L",,63,M,Black,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,February,2024-02-03,,,"EARSLEY, STEVEN J",,70,M,White,Unknown,,,,,,2024
+Wisconsin,Supervised Living Facility,2024,November,2024-11-18,,,"CUNNINGHAM, TOMMEY L",,80,M,Black,Black or African American,,,,,,2024
+Wisconsin,Robert E. Ellsworth Correctional Center,2024,May,2024-05-30,,,"BLANKENSHIP, DESIREE L",,61,F,Black,Unknown,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,October,2024-10-07,,,"MOON, STEVEN LEE",,61,M,White,Unknown,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,January,2024-01-23,,,"KNOLL, JASON JOSEPH",,47,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Jackson Correctional Institution,2024,April,2024-04-21,,,"CASTELLANO, ROBERT LOUIS",,59,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,March,2024-03-02,,,"KENEALY, THOMAS J",,64,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,March,2024-03-24,,,"DANKERT, DEREK L",,36,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,October,2024-10-11,,,"CAMERON, ROBERT JAMES",,64,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Racine Correctional Institution,2024,July,2024-07-11,,,"MUNOZ, JOSEPH P",,41,M,White,Hispanic or Latino,,,,,,2024
+Wisconsin,Supervised Living Facility,2024,June,2024-06-10,,,"MCNEELY, PATRICK C",,56,M,White,Unknown,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,August,2024-08-18,,,"HARPER, JAMES E",,77,M,Black,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,October,2024-10-23,,,"MARCHBANKS, KEITH",,60,M,Black,Unknown,,,,,,2024
+Wisconsin,Taycheedah Correctional Institution,2024,October,2024-10-20,,,"HARPER, MARY A",,60,F,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,May,2024-05-11,,,"GRUMLEY, CHARLES F",,57,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,October,2024-10-24,,,"PIERCE, RICHARD G",,88,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,September,2024-09-22,,,"ZAIONC, LARRY A",,68,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Oshkosh Correctional Institution,2024,June,2024-06-22,,,"PIONTEK, MARK WILLIAM",,66,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Green Bay Correctional Institution,2024,August,2024-08-27,,,"LAUREANO, MICAH EDSEL",,19,M,White,Hispanic or Latino,,,,,,2024
+Wisconsin,Fox Lake Correctional Institution,2024,September,2024-09-22,,,"SWEENEY, ROBERT ANTHONY",,66,M,White,Not Hispanic or Latino,,,,,,2024
+Wisconsin,Dodge Correctional Institution,2024,April,2024-04-04,,,"LARSON, LARRY M",,54,M,White,Not Hispanic or Latino,,,,,,2024

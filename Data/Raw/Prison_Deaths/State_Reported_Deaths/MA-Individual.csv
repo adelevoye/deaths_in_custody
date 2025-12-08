@@ -1,0 +1,330 @@
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,DOB,Birth.Year,source_year
+Massachusetts,MCIN,2015,February,2015-02-05,,,"Currie, John",W38503,,,,,,Cardio pulminary arrest,,,,
+Massachusetts,MTC,2015,February,2015-02-10,,,"Parrish, Brad",M90303,,,,,,Lung Cancer,,,,
+Massachusetts,MCIS,2015,February,2015-02-11,,,"Walker, Roland",W65617,,,,,,Pancreatic cancer,,,,
+Massachusetts,MCIS,2015,February,2015-02-23,,,"Feijoo, Humberto",W44874,,,,,,Renal Failure,,,,
+Massachusetts,MCIN,2015,March,2015-03-09,,,"Lindsay, Eugene",W38537,,,,,,Cardio pulminary arrest,,,,
+Massachusetts,BSH,2015,March,2015-03-20,,,"Dolan, William",A88468,,,,,,End stage liver,,,,
+Massachusetts,MCIC,2015,April,2015-04-03,,,"Jemmott, Donald",W101177,,,,,,Cardio pulminary arrest,,,,
+Massachusetts,MCIS,2015,April,2015-04-18,,,"Earl, Herbert",W34939,,,,,,Cardio pulminary arrest,,,,
+Massachusetts,OCCC,2015,May,2015-05-09,,,"Bourget, Paul",W95506,,,,,,Cardiovascular Disease,,,,
+Massachusetts,MCIN,2015,May,2015-05-26,,,"Jackson, Richard",W51233,,,,,,Cardiac arrest,,,,
+Massachusetts,SBCC,2015,May,2015-05-26,,,"Lefebre, John",W103456,,,,,,Lung Cancer,,,,
+Massachusetts,MCIS,2015,May,2015-05-30,,,"Espejo, Modesto",W104507,,,,,,Liver/Kidney Failure,,,,
+Massachusetts,BSH,2015,June,2015-06-01,,,"Harmon, Rodney",W52276,,,,,,Lymphoma/Cirrhosis,,,,
+Massachusetts,MCIF,2015,June,2015-06-06,,,"Slater, Amy",A130809,,,,,,Chemical Encephalophay,,,,
+Massachusetts,SBCC,2015,June,2015-06-07,,,"Patnod, Mark",W53785,,,,,,Congestive Heart Failure,,,,
+Massachusetts,MCIN,2015,June,2015-06-29,,,"Gilchrist, Lonnie",W46306,,,,,,Cardiovascular disease,,,,
+Massachusetts,MCIS,2015,July,2015-07-03,,,"Shuman, Richard",W67252,,,,,,Congestive Heart Failure,,,,
+Massachusetts,MCIN,2015,July,2015-07-04,,,"Seymour, Harry",W46181,,,,,,Liver Failure,,,,
+Massachusetts,MCIS,2015,July,2015-07-14,,,"Genius, Everard",W37770,,,,,,Pneumonia,,,,
+Massachusetts,NCCI,2015,July,2015-07-27,,,"Dipadova, Nino",W91211,,,,,,Suicide,,,,
+Massachusetts,SBCC,2015,July,2015-07-27,,,"Hicks, Kevin",W35952,,,,,,End Stage Liver Cancer,,,,
+Massachusetts,MCIN,2015,August,2015-08-22,,,"Brophy, William",W81486,,,,,,Cardiovascular disease,,,,
+Massachusetts,MCIS,2015,September,2015-09-10,,,"Stetson, David",W37628,,,,,,End State Liver Disease,,,,
+Massachusetts,MCICJ,2015,September,2015-09-29,,,"LeBron, Carmelo",W106039,,,,,,Liver Cirrhosis,,,,
+Massachusetts,OCCC,2015,October,2015-10-24,,,"Watson, Joseph",W35547,,,,,,Cardiovascular disease,,,,
+Massachusetts,OCCC,2015,October,2015-10-24,,,"Andrade, Corey",W105146,,,,,,Liver Disease,,,,
+Massachusetts,MCIS,2015,October,2015-10-25,,,"Bui, Jim",W82630,,,,,,Cardiovascular disease,,,,
+Massachusetts,MCIS,2015,November,2015-11-02,,,"Hubbard, Robert",W31623,,,,,,Cardio pulminary arrest,,,,
+Massachusetts,BSH,2015,November,2015-11-26,,,"Nieves, Ernesto",M120624,,,,,,Liver Cirrhosis,,,,
+Massachusetts,MCIS,2015,November,2015-11-30,,,"Soffen, Francis",W34022,,,,,,Cardiac arrest,,,,
+Massachusetts,MCIS,2015,December,2015-12-04,,,"Getchell, Kenneth",W67098,,,,,,Congestive Heart Failure,,,,
+Massachusetts,MCIS,2015,December,2015-12-11,,,"Trudell, Alfred",W32499,,,,,,Cardiovascular disease,,,,
+Massachusetts,MCIS,2015,December,2015-12-14,,,"Paszko, Emilian",W37791,,,,,,Liver Failure,,,,
+Massachusetts,MCIS,2015,December,2015-12-20,,,"Patridge, David",W83157,,,,,,Abdominal Aneurysm,,,,
+Massachusetts,MCIS,2016,January,2016-01-06,,,Reuben Lacefield,W96883,,,,,,Cardio Pulmonary Arrest,,,,
+Massachusetts,MCIS,2016,January,2016-01-23,,,James Kater,W32317,,,,,,Cancer,,,,
+Massachusetts,SBCC,2016,February,2016-02-08,,,James Flowers,W31637,,,,,,Pneumonia,,,,
+Massachusetts,MCICJ,2016,February,2016-02-16,,,Nicholas Sherman,W100864,,,,,,Suicide (Asphyxia by hanging),,,,
+Massachusetts,MCIS,2016,March,2016-03-16,,,Donnell Roberts,W56786,,,,,,Cardio Vascular Disease,,,,
+Massachusetts,MCIS,2016,March,2016-03-20,,,Leroy Williams,W48288,,,,,,Diabetes Mellitus,,,,
+Massachusetts,MCIS,2016,March,2016-03-23,,,Hugh Crawford,W91987,,,,,,Cardio vascular Disease/Diabetes,,,,
+Massachusetts,BSH,2016,April,2016-04-08,,,Leo Marino,T95569,,,,,,Suicide,,,,
+Massachusetts,MCIS,2016,April,2016-04-28,,,David Ford,W98306,,,,,,Bladder Cancer,,,,
+Massachusetts,MCICJ,2016,April,2016-04-30,,,Leon Jones,W107758,,,,,,Cardio Vascular disease,,,,
+Massachusetts,MTC,2016,May,2016-05-01,,,Mark Protrano,M17034,,,,,,Cancer,,,,
+Massachusetts,MCIN,2016,May,2016-05-11,,,Robert Marshall,W35212,,,,,,Cardio vascular disease/Melanoma,,,,
+Massachusetts,OCCC,2016,May,2016-05-12,,,Ronald Robillard,W103136,,,,,,Hypertension/cardio vascular disease,,,,
+Massachusetts,LSH,2016,May,2016-05-15,,,John Halfkenney,W34311,,,,,,Cardio Pulmonary Arrest,,,,
+Massachusetts,SBCC,2016,May,2016-05-18,,,Jose Davila,W61917,,,,,,Lung Cancer,,,,
+Massachusetts,MCIS,2016,May,2016-05-19,,,Joseph Netto,W60300,,,,,,Cardio Vasculmar Disease/Hep. C,,,,
+Massachusetts,LSH,2016,May,2016-05-21,,,Kenneth Medeiros,W106641,,,,,,Cardio Pulmonary Arrest/Liver Disease,,,,
+Massachusetts,NCCI,2016,May,2016-05-22,,,Daniel Dustin,W38252,,,,,,Cardiac Arrest,,,,
+Massachusetts,SBCC,2016,May,2016-05-26,,,Gary Scott,W60744,,,,,,Cardiac arrhythmia.cardiomypopathy,,,,
+Massachusetts,MCIS,2016,June,2016-06-04,,,Phillip Walker,W36151,,,,,,Cardiovascular Disease/Hep C,,,,
+Massachusetts,BSH,2016,August,2016-08-09,,,Lawrence Hall,M92340,,,,,,Sepsis due to bowel obstrution,,,,
+Massachusetts,NCCI,2016,August,2016-08-18,,,Richard Hill,W106603,,,,,,Lung Cancer,,,,
+Massachusetts,MTC,2016,August,2016-08-21,,,Merrill Barton,M100417,,,,,,Cardiac Arrest,,,,
+Massachusetts,MCIN,2016,September,2016-09-23,,,Mark Noucher,W36462,,,,,,Cardiovascular Disease,,,,
+Massachusetts,NCCI,2016,September,2016-09-27,,,Andrew Todd,W40014,,,,,,Metastiatic Carcinoma,,,,
+Massachusetts,BSH,2016,September,2016-09-30,,,Charles St. Marie,W35656,,,,,,Cardio Vascular Disease,,,,
+Massachusetts,SBCC,2016,October,2016-10-06,,,Frank Carpenter,W98905,,,,,,Large Cell Lymphoma,,,,
+Massachusetts,NCCI,2016,October,2016-10-14,,,Dana Monsen,W36357,,,,,,Liver Failure,,,,
+Massachusetts,OCCC,2016,October,2016-10-20,,,John Hanlon,W56324,,,,,,Cardio vascular Disease/Diabetes,,,,
+Massachusetts,SBCC,2016,October,2016-10-22,,,Alexis Otero,W104394,,,,,,Intraventricular Hemorrhage,,,,
+Massachusetts,MCIN,2016,November,2016-11-19,,,Eric Anderson,W88582,,,,,,Lung Cancer,,,,
+Massachusetts,MCIN,2016,December,2016-12-18,,,James Porter,W89232,,,,,,Metastatic adenocarcinoma,,,,
+Massachusetts,SBCC,2016,December,2016-12-20,,,Richard Horne,W84944,,,,,,Carcinoma of the Brain,,,,
+Massachusetts,MCICJ,2016,December,2016-12-27,,,Kenneth Nutter,W108576,,,,,,Carcinoma of the Lung,,,,
+Massachusetts,MCIN,2017,January,2017-01-08,,,Norman Eason,W90911,,,,,,Pulmonary Thromboemboli,,,,
+Massachusetts,BSH,2017,January,2017-01-09,,,Peter Alleyne,W94805,,,,,,Cardiovascular disease,,,,
+Massachusetts,MCIN,2017,January,2017-01-18,,,David Ormonde,W67306,,,,,,End Stage Liver Disease,,,,
+Massachusetts,BSH,2017,February,2017-02-01,,,Jose Acosta,W107564,,,,,,Cerebrovasular/cardio disease,,,,
+Massachusetts,MCIS,2017,February,2017-02-10,,,Phillip Gagliardi,W44843,,,,,,Cardiovascular disease,,,,
+Massachusetts,MCIS,2017,February,2017-02-11,,,Juvene Allston,W61622,,,,,,Lung Cancer,,,,
+Massachusetts,MCIS,2017,February,2017-02-13,,,Frank Damiano,W36297,,,,,,Cardiovascular disease,,,,
+Massachusetts,MCIS,2017,February,2017-02-21,,,Paul Haynes,W56944,,,,,,Suicide/Hanging,,,,
+Massachusetts,SBCC,2017,March,2017-03-11,,,Ronald Hogan,W35893,,,,,,Liver Cancer,,,,
+Massachusetts,MCIS,2017,March,2017-03-16,,,William Khoury,W29946,,,,,,Melastolic Lung Cancer,,,,
+Massachusetts,MCIS,2017,April,2017-04-04,,,Troy Adams,W109296,,,,,,Leukemia,,,,
+Massachusetts,MCIS,2017,April,2017-04-08,,,David Webster,W97033,,,,,,Pancreatic Cancer,,,,
+Massachusetts,MCIN,2017,April,2017-04-10,,,William Doucette,W37258,,,,,,Aneurysm/Cardiovascular Disease,,,,
+Massachusetts,SBCC,2017,April,2017-04-19,,,Aaron Hernandez,W106228,,,,,,Suicide/Hanging,,,,
+Massachusetts,MTC,2017,April,2017-04-27,,,Jeffrey Nichols,W105451,,,,,,Spinalependymoma,,,,
+Massachusetts,NCCI,2017,May,2017-05-02,,,Richard Castillo,W103312,,,,,,Massive Myocardial Infarction,,,,
+Massachusetts,MCIN,2017,May,2017-05-24,,,Donald Ghee,W49205,,,,,,Comp. of blunt force injury to neck,,,,
+Massachusetts,MCIS,2017,May,2017-05-30,,,Jason Costa,W105671,,,,,,Cardiovascular disease,,,,
+Massachusetts,NCCI,2017,June,2017-06-06,,,William Lorette,W86525,,,,,,Cirrhosis of Liver,,,,
+Massachusetts,SBCC,2017,June,2017-06-25,,,Kevin Robinson,W89235,,,,,,Cirrhosis of Liver,,,,
+Massachusetts,OCCC,2017,June,2017-06-30,,,Ronald Waterman,W46984,,,,,,Cardiovascular disease,,,,
+Massachusetts,NCCI,2017,July,2017-07-09,,,George Whitman,W34944,,,,,,Lung Cancer,,,,
+Massachusetts,MCIS,2017,July,2017-07-11,,,Thomas Lacava,W57612,,,,,,Multi organ system failure,,,,
+Massachusetts,MCIF,2017,July,2017-07-24,,,April O'Sullivan,A135123,,,,,,Hemmorrhage of undetermined etiology,,,,
+Massachusetts,MTC,2017,August,2017-08-31,,,Richard Gillis,M101056,,,,,,Suicide/Hanging,,,,
+Massachusetts,BSH,2017,September,2017-09-14,,,Bruno Battle,B23822,,,,,,Leukemia,,,,
+Massachusetts,MCIN,2017,September,2017-09-25,,,Russell Snyder,W53692,,,,,,Cancer,,,,
+Massachusetts,MASAC,2017,September,2017-09-29,,,David McKinley,M124566,,,,,,Suicide/Hanging,,,,
+Massachusetts,PCC,2017,October,2017-10-07,,,James Callahan,W100587,,,,,,Hypertensive Cardio Vascular Disease,,,,
+Massachusetts,MCIN,2017,October,2017-10-14,,,Luis Torres,W70340,,,,,,Pancreatic Cancer,,,,
+Massachusetts,MTC,2017,October,2017-10-19,,,Thomas Maimoni,W53997,,,,,,Myeloid Leukemia,,,,
+Massachusetts,OCCC,2017,November,2017-11-26,,,Gary Mackechnie,W109433,,,,,,Septix Shock/Ischemic Bowel,,,,
+Massachusetts,MCIS,2017,December,2017-12-04,,,William Horton,W104386,,,,,,Cardio Pulmonary Arrest,,,,
+Massachusetts,SBCC,2017,December,2017-12-12,,,Arturo Bravo,W108306,,,,,,Esophageal Squamos Cell Carcinoma,,,,
+Massachusetts,MTC,2017,December,2017-12-20,,,Charles Dinardo,M111820,,,,,,Respiratory Failure,,,,
+Massachusetts,MCIN,2017,December,2017-12-22,,,Russell Thibodeau,W37092,,,,,,Liver Cancer,,,,
+Massachusetts,MTC,2017,December,2017-12-22,,,Robert Martin,M95531,,,,,,Cardiovascular disease,,,,
+Massachusetts,MCIN,2018,January,2018-01-02,,,Knowell Greenwood,W88051,,,,,,Complications of Pulmonary Fibrosis,,,,
+Massachusetts,MCIN,2018,January,2018-01-03,,,Albert Rogers,W28478,,,,,,Ischemic Cerebral Infarct,,,,
+Massachusetts,MCIS,2018,January,2018-01-13,,,Robert Mains,W34751,,,,,,Cardiovascular Disease,,,,
+Massachusetts,MCIS,2018,January,2018-01-23,,,Thomas Bailey,W103349,,,,,,Complications of Glioblastoma Multiforme,,,,
+Massachusetts,MCIS,2018,January,2018-01-29,,,Daniel Dupont,W92361,,,,,,Chronic Obstructive Pulmonary Disease,,,,
+Massachusetts,MCIS,2018,February,2018-02-01,,,Ronald Johnson,W29696,,,,,,Congestive Heart Failure,,,,
+Massachusetts,NCCI,2018,February,2018-02-10,,,Gary Smith,W98168,,,,,,Cardiovascular Disease,,,,
+Massachusetts,MCIS,2018,February,2018-02-24,,,Leo Fugler,W106511,,,,,,Lung Cancer w/Mestastases to Spine,,,,
+Massachusetts,MCIS,2018,March,2018-03-10,,,Ronald Disciscio,W104452,,,,,,Pneumonia complicating congestive heart failure,,,,
+Massachusetts,MCIS,2018,March,2018-03-12,,,George Murphy,M03307,,,,,,Cardiovascular Disease,,,,
+Massachusetts,SBCC,2018,March,2018-03-22,,,Brandon Bottari,W109720,,,,,,(Per OME - report not distributed due to investigation),,,,
+Massachusetts,MCIS,2018,April,2018-04-12,,,Edward Julian,W36356,,,,,,Cardiovascular Disease/Diabetes/Kidney Disease,,,,
+Massachusetts,NCCI,2018,May,2018-05-16,,,Thomas Watson,W109468,,,,,,Complications of Recent Bilateral Pulmonary Thromboemboli,,,,
+Massachusetts,MCIC,2018,June,2018-06-07,,,Kevin Sullivan,W39740,,,,,,Gastric Adenocarcinoma,,,,
+Massachusetts,MCIS,2018,June,2018-06-08,,,Micah Gibson,W108001,,,,,,Metastatic Malignant Melanoma,,,,
+Massachusetts,SBCC,2018,June,2018-06-09,,,Michael Forte,W96437,,,,,,Advanced Cholangiocarcinoma,,,,
+Massachusetts,SBCC,2018,June,2018-06-15,,,Zachary Sherman,W109303,,,,,,Suicide/Hanging,,,,
+Massachusetts,MCIS,2018,June,2018-06-22,,,Michael Tuitt,W36499,,,,,,Sepsis following Cervical Laminectomy Fusion Surgery,,,,
+Massachusetts,MCIN,2018,July,2018-07-13,,,Richard Howard,W82194,,,,,,Intraparenchymal Hemorrhage,,,,
+Massachusetts,MCIS,2018,July,2018-07-25,,,Joseph Callahan,W38339,,,,,,Chronic Renal Failure/Heart Disease,,,,
+Massachusetts,MCIS,2018,July,2018-07-25,,,Donald Lennon,W40946,,,,,,Complications of Subarachnoid Hemorrhage,,,,
+Massachusetts,NCCI,2018,August,2018-08-01,,,Paul Hsia,W98804,,,,,,T-Cell Lymphoma,,,,
+Massachusetts,MCIC,2018,August,2018-08-14,,,Thomas Flanagan,W101820,,,,,,Metastatic Adencarcinoma of the Colon,,,,
+Massachusetts,MCIS,2018,September,2018-09-04,,,Brian Furtado,W110842,,,,,,Undetermined (Per OME),,,,
+Massachusetts,MTC,2019,September,2019-09-11,,,Augustus Costa,W39476,,,,,,Complications of B Cell Lymphoma,,,,
+Massachusetts,MCIF,2018,September,2018-09-26,,,Erin Colleran,F80251,,,,,,Asphyxia by Foreign Body in Upper Airway,,,,
+Massachusetts,NCCI,2018,September,2018-09-28,,,Patrick Staples,W83418,,,,,,Coronary Artery Atherosclerosis/Hypertension,,,,
+Massachusetts,SBCC,2018,October,2018-10-02,,,Joseph Barboza,W99422,,,,,,Complications of Cirrhosis and End State Liver Disease,,,,
+Massachusetts,PCC,2018,October,2018-10-04,,,Patrick Loughnane,W105282,,,,,,Gastroenteritis with Sepsis/Seizure Disorder,,,,
+Massachusetts,MCIS,2018,October,2018-10-05,,,Gary Guess,W29607,,,,,,Metastatic Colorectal Cancer,,,,
+Massachusetts,MCIC,2018,October,2018-10-15,,,Julius Bowles,W33862,,,,,,Metastatic Pulmonary Adenocarcinoma,,,,
+Massachusetts,MCIN,2018,October,2018-10-19,,,Robert Herbert,W50116,,,,,,Angiosarcoma of Liver/Metastic to Bone Marrow,,,,
+Massachusetts,NCCI,2018,October,2018-10-20,,,Clint Tefts,W37822,,,,,,Hemorrhagic Shock due to Liver Cancer,,,,
+Massachusetts,OCCC,2018,October,2018-10-21,,,Guillermo Hernandez,W97724,,,,,,Cardiovascular Disease,,,,
+Massachusetts,MCIF,2018,November,2018-11-16,,,Lucille Reid,F25420,,,,,,Hypertensive Cardiovascular Disease,,,,
+Massachusetts,MCIS,2018,November,2018-11-29,,,John Poe,W65369,,,,,,Non-Cell Adenocarcinoma of the Lung,,,,
+Massachusetts,SBCC,2018,November,2018-11-30,,,Jean Pluviose,W111209,,,,,,Hypertensive Cardiovascular Disease,,,,
+Massachusetts,SBCC,2018,November,2018-11-30,,,Mwangi Wambuku,W96705,,,,,,Hanging,,,,
+Massachusetts,MCIS,2018,December,2018-12-03,,,George Nassar,W23759,,,,,,Metastatic Prostrate Cancer,,,,
+Massachusetts,MCIS,2018,December,2018-12-14,,,James Lattimore,W39814,,,,,,Metastatic Squamous Cell Carcinoma,,,,
+Massachusetts,MTC,2018,December,2018-12-18,,,Juan Mendez,M108549,,,,,,Complications of Cirrhosis; chronic ethanol abuse,,,,
+Massachusetts,MCICJ,2018,December,2018-12-25,,,Kevin Boutet,W112208,,,,,,Asphyxia by Hanging,,,,
+Massachusetts,MCIN,2019,January,2019-01-16,,,Dennis Walsh,W94528,,,,,,Lung Carcinoma,,,,
+Massachusetts,MCIN,2019,February,2019-02-04,,,Michael Rosa,W63328,,,,,,Hypertensive Cardiovascular Disease,,,,
+Massachusetts,MTC,2019,February,2019-02-11,,,Richard Clifford,M96891,,,,,,Metastic Hepatocellular Carcinoma,,,,
+Massachusetts,MTC,2019,February,2019-02-20,,,Raymond Credle,W38013,,,,,,Diabestes Mellitus,,,,
+Massachusetts,OCCC,2019,February,2019-02-22,,,Shannon Ewing,W46305,,,,,,Metastatic Carcinoma of the Colon,,,,
+Massachusetts,MCIN,2019,March,2019-03-02,,,Kevin Hensley,W89895,,,,,,Prostrate Carcinoma with Bone/Liver Metastases,,,,
+Massachusetts,NCCI,2019,April,2019-04-30,,,David Herbele,W86852,,,,,,Lung Carcinoma,,,,
+Massachusetts,SBCC,2019,May,2019-05-06,,,Raymond Harmon,W50979,,,,,,Pancreatic Cancer,,,,
+Massachusetts,OCCC,2019,May,2019-05-14,,,Frank Nolet,W100719,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease,,,,
+Massachusetts,MTC,2019,May,2019-05-17,,,Donat Choinere,M94387,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease,,,,
+Massachusetts,MCICJ,2019,June,2019-06-21,,,Jonathan Rivera,W112712,,,,,,Suicide (Hanged Himself),,,,
+Massachusetts,MCIS,2019,June,2019-06-22,,,Robert Bond,W41965,,,,,,Bowel perforation due to Colon Tumor,,,,
+Massachusetts,MCIF,2019,June,2019-06-22,,,Devonrick Schouten,A128361,,,,,,,,,,
+Massachusetts,MCICJ,2019,July,2019-07-16,,,Reginald Boyd,A137791,,,,,,Arrhythmogenic Cardiomyopathy Biventricular,,,,
+Massachusetts,MCIS,2019,July,2019-07-19,,,Emil Petrla,W43504,,,,,,Ruptured Myocardial Infarction with Hemopericardium,,,,
+Massachusetts,MCIN,2019,July,2019-07-27,,,Augustine Charido,W53271,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease,,,,
+Massachusetts,MCIS,2019,August,2019-08-11,,,Osborne Sheppard,W37900,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease,,,,
+Massachusetts,MCIN,2019,August,2019-08-27,,,Paul Ramos,W42334,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease,,,,
+Massachusetts,MCIN,2019,August,2019-08-30,,,Thomas Buttimer,W107251,,,,,,"Hypoxic-ischemic encephalopathy following Cardiopulmonary arrest, Asphyxia by Hanging",,,,
+Massachusetts,MCIS,2019,September,2019-09-07,,,Strickler Brown,W82415,,,,,,Pancreatic Cancer,,,,
+Massachusetts,MCIS,2019,September,2019-09-09,,,Peter Cruz,W69698,,,,,,Atherosclerotic & Hypertensive Cardiovascular Disease/Diabetes Mellitus,,,,
+Massachusetts,BSH,2019,September,2019-09-19,,,Jeffrey Link,M129977,,,,,,Acute Fentanyl and Cocaine Intoxication,,,,
+Massachusetts,MCIS,2019,September,2019-09-19,,,Gustavo Rodriguez,W110136,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease,,,,
+Massachusetts,MCIS,2019,October,2019-10-14,,,Robert Lee,W36132,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease w/contributing condition of Dementia,,,,
+Massachusetts,NCCI,2019,October,2019-10-19,,,Gary Gray,W104148,,,,,,Sepsis/Metastatic Small Cell Carcinoma,,,,
+Massachusetts,NCCI,2019,October,2019-10-24,,,Christopher Cirillo,W46931,,,,,,Probable Cardio Dysrhythymia in person with history of poor control of other illness,,,,
+Massachusetts,SBCC,2019,October,2019-10-28,,,Scott Boyer,W989809,,,,,,Metastic Bladder Cancer,,,,
+Massachusetts,MCIS,2019,October,2019-10-29,,,Fernando Ribeiro,W89691,,,,,,Suicide (Hanging),,,,
+Massachusetts,MCIS,2019,November,2019-11-11,,,Albert Moore,W35602,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease,,,,
+Massachusetts,MCIS,2019,November,2019-11-15,,,Sebastiao Dasilva,W106465,,,,,,Complications of Choking,,,,
+Massachusetts,MCIS,2019,November,2019-11-17,,,Roger Anyon,W36083,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease,,,,
+Massachusetts,BSH,2019,November,2019-11-27,,,Malcolm Maker,M132017,,,,,,Congestive Heart Failure,,,,
+Massachusetts,MCICJ,2019,November,2019-11-27,,,Nathaniel Williams,W34781,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease,,,,
+Massachusetts,SBCC,2019,December,2019-12-22,,,Brian Racine,W98840,,,,,,End State Systolic Heart Failure/Atherosclerotic Cardiovascular Disease,,,,
+Massachusetts,MCIS,2020,January,2020-01-24,,,Stephen Blaney,W54642,,,,,,"Faiure to Thrive (Dementia, Pulmonary Disease, Pneumonia)",,,,
+Massachusetts,MCIN,2020,January,2020-01-30,,,James Gordon,W31634,,,,,,Prostrate Cancer,,,,
+Massachusetts,OCCC,2020,February,2020-02-06,,,Peter Yates,W103190,,,,,,Probable Seizure/ with history of seizure/Parkinson Disease,,,,
+Massachusetts,MCIS,2020,February,2020-02-24,,,Atencio Trinidad,W103142,,,,,,Hepatic Cirrhosis/Hepatocellular Carcinoma,,,,
+Massachusetts,MTC,2020,April,2020-04-02,,,Lawrence Reopel,W55513,,,,,,"Acute Respiratory Syndrome, Pneumonia, COVID 19 Infection",,,,
+Massachusetts,MTC,2020,April,2020-04-03,,,Richard McCormick,W105551,,,,,,"Brain Death, Uncal Herniation, Covid 19 Infection",,,,
+Massachusetts,MTC,2020,April,2020-04-04,,,Anthony McCaffrey,W112395,,,,,,"Pneumonia, Covid 19, Pulmonary Disease",,,,
+Massachusetts,MCIN,2020,April,2020-04-09,,,Thomas Carlino,W 58415,,,,,,Chronic Obstructive Pulmonary Disease,,,,
+Massachusetts,SBCC,2020,April,2020-04-09,,,Steven Bougeios,W89872,,,,,,Hanging,,,,
+Massachusetts,MTC,2020,April,2020-04-12,,,John Raynard,M129908,,,,,,"Hypoxic Respiratory Failure, COVID 19, Pneumonia",,,,
+Massachusetts,OCCC,2020,April,2020-04-15,,,Robert Dadja,W47221,,,,,,Aucte/Chronic Congestive Heart Failure,,,,
+Massachusetts,MCIS,2020,April,2020-04-16,,,Robert Scott,W97320,,,,,,Acute Hypoxemic Respiratory Failure due to COVID 19,,,,
+Massachusetts,MCIF,2020,April,2020-04-19,,,Linda Mayette,F81306,,,,,,"Pneumonia, Chronic Obstructive Pulmonary and Cardio Disease",,,,
+Massachusetts,MCIN,2020,April,2020-04-20,,,Robert Jenner,W56232,,,,,,Hypertensive & Atherosclerotic Cardiovascular Disease,,,,
+Massachusetts,MTC,2020,April,2020-04-21,,,Angel Diaz,W65533,,,,,,"Liver Failure, Hepatocellular Carcinoma",,,,
+Massachusetts,MCIS,2020,April,2020-04-22,,,Samuel Caines,W55863,,,,,,Complications of COVID Respiratory Infection,,,,
+Massachusetts,MCIS,2020,April,2020-04-25,,,Ronald LeClair,W70436,,,,,,Hypertensive & Atherosclerotic Cardiovasculr Disease,,,,
+Massachusetts,MCIS,2020,April,2020-04-29,,,David Turner,W43287,,,,,,Complications of Acute/Chronic Respiratory Failure,,,,
+Massachusetts,MCIS,2020,May,2020-05-13,,,George Cahoon,W99060,,,,,,Per OME - Cannot be Released/Referred to DA's Office,,,,
+Massachusetts,SBCC,2020,May,2020-05-15,,,Kevin Santos,W112923,,,,,,Hypertensive Cardiovascular Disease,,,,
+Massachusetts,LSH,2020,May,2020-05-01,,,Henry Sullivan,W33444,,,,,,Vascular Dementia/Cardiovascular Disease,,,,
+Massachusetts,LSH,2020,May,2020-05-26,,,Jose Silveira,M132242,,,,,,Metastatic Small Cell Lung Carcinoma,,,,
+Massachusetts,NCCI,2020,May,2020-05-30,,,Randall Counsman,W113546,,,,,,Esophagul Cancer,,,,
+Massachusetts,MCICJ,2020,June,2020-06-23,,,Carlos Colon,W99344,,,,,,Hanging,,,,
+Massachusetts,BSH,2020,July,2020-07-17,,,Christopher Chase,M132061,,,,,,Foreign Bodies in Abdomen,,,,
+Massachusetts,LSH,2020,August,2020-08-20,,,Paul Smith,M133468,,,,,,Osteomyelitis due to Decubitus Ulcers,,,,
+Massachusetts,LSH,2020,September,2020-09-12,,,John Kenniston,W50505,,,,,,Complications from Rectal Cancer,,,,
+Massachusetts,MCIN,2020,October,2020-10-01,,,Carlos Rivera,W105948,,,,,,,,,,
+Massachusetts,MCIN,2020,October,2020-10-10,,,Steven Palladino,W103923,,,,,,,,,,
+Massachusetts,MCIS,2020,October,2020-10-15,,,Hussain Harris,W91439,,,,,,,,,,
+Massachusetts,MCIS,2020,October,2020-10-28,,,David Newcomb,M133321,,,,,,,,,,
+Massachusetts,NCCI,2020,November,2020-11-04,,,Benjamin Laguer,W40280,,,,,,,,,,
+Massachusetts,MCIN,2020,November,2020-11-04,,,George Goodwin,W32142,,,,,,,,,,
+Massachusetts,OCCC,2020,December,2020-12-02,,,Imani Hakeem,W50935,,,,,,,,,,
+Massachusetts,MCIN,2020,December,2020-12-04,,,James White,W35561,,,,,,,,,,
+Massachusetts,BSH,2020,December,2020-12-07,,,Jeffrey Keller,M1288653,,,,,,,,,,
+Massachusetts,MTC,2020,December,2020-12-09,,,Edward Cunningham,W36062,,,,,,Obstructive Bacterial Pneumonia/Metastatic Non - Small Cell Lung Cancer,,,,
+Massachusetts,MCIS,2020,December,2020-12-13,,,Rafael Navedo-Maldonado,W113829,,,,,,,,,,
+Massachusetts,MCICJ,2020,December,2020-12-14,,,James Kelly,W32104,,,,,,,,,,
+Massachusetts,PCC,2020,December,2020-12-24,,,Joshua Pittochelli,W108501,,,,,,Leukemia,,,,
+Massachusetts,NCCI,2020,December,2020-12-28,,,Leo Farland,W34867,,,,,,,,,,
+Massachusetts,MCIN,2020,December,2020-12-31,,,Joseph Messere,W38304,,,,,,,,,,
+Massachusetts,MCIC,2021,January,2021-01-01,,,Edward Lynch,W58087,,,,,,"SARS-COV-2 Pneumonia with Contributors of Hypertension, Chronic Obstructive Pulmonary Disease",N,,,
+Massachusetts,NCCI,2021,January,2021-01-04,,,Allen Bilodeau,W34418,,,,,,COVID 19 with Contributory Conditions of Atherosclerotic and Cardiovascular Disease and Chronic Obstructive Pulmonary Disease,N,,,
+Massachusetts,OCCC,2021,January,2021-01-04,,,John Shine,W40918,,,,,,Pneumonia due to COVID 19 with Contributory Conditions of Atherosclerotic Cardiovascular Disease,N,,,
+Massachusetts,OCCC,2021,January,2021-01-08,,,Patrick Blackwell,W52667,,,,,,Acute Hypoxic Respiratory Failure due to COVID 19 Pneumonia,N,,,
+Massachusetts,OCCC,2021,January,2021-01-14,,,Michael Donovan,W68164,,,,,,Acute Bilateral Bronchopneumonia w/hyaline membranes due to COVID 19,N,,,
+Massachusetts,MCIN,2021,January,2021-01-18,,,Robert Beauchamp,W33990,,,,,,COVID 19,N,,,
+Massachusetts,NCCI,2021,February,2021-02-08,,,Mark Waite,W105300,,,,,,Complications of Diffuse Large B Cell Lymphoma,N,,,
+Massachusetts,MTC,2021,February,2021-02-15,,,Richard Jones,W100530,,,,,,Esophageal Adenocarcinoma with Metastases Including Lungs and Liver,N,,,
+Massachusetts,NCCI,2021,February,2021-02-15,,,Michael Cowan,W109367,,,,,,Respiratory Failure due to Complications of COVID 19,N,,,
+Massachusetts,MTC,2021,February,2021-02-17,,,Lee Lewellyn,W83189,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease/Diabetes/Obstrutive Pulmonary Disease,N,,,
+Massachusetts,SBCC,2021,February,2021-02-20,,,Dana Lopes,W80475,,,,,,"End Stage Liver Disease w/Encephalopathy & Ascites, Hepatic Cirrhosis & Hepatocellular Carcinoma, Hepatitis C Infection",N,,,
+Massachusetts,MCICJ,2021,February,2021-02-26,,,Robert Dufur,W114337,,,,,,Complications of Corona Virus 19 Viral Infection,N,,,
+Massachusetts,MTC,2021,March,2021-03-02,,,Lawrence McArthur,W107739,,,,,,Acute Respiratory Failure due to Sepsis/Complications of Treated Lung Carcinoma,N,,,
+Massachusetts,MCIS,2021,March,2021-03-10,,,Thomas Dejournette,W105505,,,,,,End-Stage Renal Disease with history of Hypertensive Cardovascular Disease/Congestive Heart Failure/Diabetes,N,,,
+Massachusetts,OCCC,2021,March,2021-03-10,,,Kurt Demello,W60337,,,,,,Complications of Ogilvie's Syndrome,N,,,
+Massachusetts,MTC,2021,March,2021-03-14,,,John Lynch,W46794,,,,,,Complications of Bowel Perforation due to Probable Colon Cancer,N,,,
+Massachusetts,MCIN,2021,March,2021-03-16,,,Paul Wojtanek,W44285,,,,,,Complications of Asphyxia due to Hanging,Y,,,
+Massachusetts,OCCC,2021,March,2021-03-19,,,Daniel Moran,W37878,,,,,,"COVID 19 with Contributory Conditions of Hypertensive/Atherosclerotic Cardiovascular Disease, Diabetes",N,,,
+Massachusetts,MCIS/LSH,2021,April,2021-04-13,,,Joseph Allen,W39941,,,,,,Metastatic Prostatic Carcinoma,N,,,
+Massachusetts,MTC,2021,April,2021-04-14,,,Scott Wonoski,W113185,,,,,,Clunt Force Injuries of the Head and Torso/Homocide,Y,,,
+Massachusetts,NCCI,2021,May,2021-05-04,,,Steven Odegard,W96042,,,,,,Cardiac Dysrhythmia of Uncertain Etiology,N,,,
+Massachusetts,MTC,2021,May,2021-05-06,,,Steven Currier,M40967,,,,,,"Acute Respiratory Failure due to Chronic Obstructive Pulmonary Disease Exacerbation with Contributory Conditions of Congestive Heart Failure, Pneumondia,End Stage Renal Disease on Dialysis, Acute Renal Failure, Type 2 Diabetes Mellitus & Asthma",N,,,
+Massachusetts,LSH,2021,May,2021-05-07,,,Edgar Bowser,W36627,,,,,,"Complications of COVID 19 w/conditions of Hypertension, Diabetes and Nasopharyngeal Carcinoma",N,,,
+Massachusetts,OCCC,2021,June,2021-06-14,,,James Young,W40344,,,,,,Atherosclerotic Cardiovascular Disease,N,,,
+Massachusetts,NCCI,2021,July,2021-07-08,,,Richard Rackliffe,W36344,,,,,,Complicationsof Intracerebral Hemorrhage due to Hyptertension,N,,,
+Massachusetts,MCIN,2021,July,2021-07-24,,,Leo Farrier,W43362,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease,N,,,
+Massachusetts,NCCI,2021,July,2021-07-31,,,Gregory Martino,W45374,,,,,,Hyperviscosity Syndrome,N,,,
+Massachusetts,MCIS,2021,August,2021-08-23,,,Walter (Wanda) Gould,W44293,,,,,,Complications of Hypertensive & Atherosclerotic Cardiovascular disease and End State Renal Disease,N,,,
+Massachusetts,MCIC,2021,September,2021-09-06,,,Charlene-Paige Fuller,W37413,,,,,,Hypertensive and Atherosclerotic Cardiovascular Disease,N,,,
+Massachusetts,MCIS,2021,September,2021-09-28,,,Dwight Holbrook,W66451,,,,,,Complications Following Sharp Forc eInjuries of the Right and Left Lower Extremities/Suicide,Y,,,
+Massachusetts,MCIS,2021,October,2021-10-28,,,Eugene Shade,W99280,,,,,,"Complications of End Stage Renal Failure incl, Staphylococcus Aureus Sepsis, Acute Chronic Kidney Disease, Diabetes Mellitus",N,,,
+Massachusetts,MTC,2021,October,2021-10-30,,,Muhammad Mahdi,W37388,,,,,,Hypertensive & Atherosclerotic Cardiovascular Disease w/ COPD and Diabetes Mellitus,N,,,
+Massachusetts,MCIS,2021,November,2021-11-03,,,Francis Mercado,W36119,,,,,,"Pneumonia, Multiple Myeloma with Contributing Conditions of Congestive Heart Failure, Diabetes Mellitus and Anemia",N,,,
+Massachusetts,MTC,2021,November,2021-11-22,,,Carlos Silva,W107029,,,,,,Acute Bronchopneumonia with Contributory Conditions of Parkinson's Disease and Hypertensive Cardiovascular Disease,N,,,
+Massachusetts,MCIS,2021,November,2021-11-23,,,Karol Simonton,W66428,,,,,,Complications of Aspiraton Pneumonia and Septic Shock in the Setting of Urinary Tract Infection,N,,,
+Massachusetts,SBCC,2021,December,2021-12-02,,,Daniel Prunty,W87138,,,,,,End Stage Liver Disease in a Person with History of hepatocellular Carcinoma,N,,,
+Massachusetts,MCIF,2021,December,2021-12-22,,,Elizabeth Daniels,F81805,,,,,,Acute Methadone Toxicity with a Contributory Condition of Hypertensive/Atherosclerotic Cardiovascular Disease,N,,,
+Massachusetts,NCCI,2021,December,2021-12-24,,,Robert Barclay,W61994,,,,,,Metastatic Renal Cell Carcinoma with Contributory Conditions of Hypertensive/Atherosclerotic Cardiovasculas Disease,N,,,
+,MCIS,2022,January,2022-01-13,,,Salvatore Basile,W114144,,Male,White,,,Gastrointestinal Hemorrhage in the setting of chronic substance abuse,,,,2022
+,NCCI,2022,January,2022-01-24,,,Frederick Leduc,W102427,,Male,White,,,Cardiac Dysrhthmia in the Setting of Hypertensive Cardiovascular Disease,,,,2022
+,NCCI,2022,February,2022-02-11,,,Pedro Torres,W103768,,Male,White,,,Asphyxia by Strangulation,,,,2022
+,MCIS,2022,February,2022-02-21,,,Howard Key,W36488,,Male,Black,,,Hypertensive/Atherosclerotic Cardiovascular Disease,,,,2022
+,MCIN,2022,February,2022-02-28,,,Beecher Clausson,W62964,,Male,White,,,"Complications of Congestive Heart Failure, Sepsis, Pneumonia and Failure to Thrive",,,,2022
+,OCCC,2022,March,2022-03-15,,,Glenn Mortimer,W58794,,Male,White,,,Acute Intraparenchal Hemorrhage Consistent with Hypertensive Cerebrovascular Disease,,,,2022
+,MCIF,2022,April,2022-04-09,,,Elizabeth Hutchinson,F26858,,Female,White,,,Chronic Kidney Disease with contributing factors (cardiovascular disease),,,,2022
+,NCCI,2022,April,2022-04-19,,,James Briere,W44044,,Male,White,,,"Pneumonia, Congestive Heart Failure and Lymphoma",,,,2022
+,OCCC,2022,April,2022-04-28,,,Keith Ericson,W99429,,Male,White,,,Hemopericardium due to Aortic Dissection with Hypertensive Vascular Disease,,,,2022
+,MTC,2022,May,2022-05-02,,,William Snow,M87272,,Male,White,,,Hypertensive/Atherosclerotic Cardiovascular Disease with Diabetes and Obesity,,,,2022
+,OCCC/BSH,2022,May,2022-05-09,,,Andrew Boyer,W114782,,Male,White,,,Acute Respiratory Failure Aspiration Pneumonia,,,,2022
+,MCIS,2022,June,2022-06-20,,,Luis Bonilla,W115403,,Male,White,,,Complications of End State Liver Disease,,,,2022
+,MCIN,2022,July,2022-07-09,,,William Fitzmeyer,W49409,,Male,White,,,Atrial Fibrillation and Hypertensive and Atherosclerotic Cardiovascular Disease,,,,2022
+,MCIS,2022,July,2022-07-25,,,James Doyle,W36348,,Male,White,,,Complications of Metastatic Renal Cell Carcinoma,,,,2022
+,MTC,2022,August,2022-08-01,,,Maurice Poitras,M01022,,Male,White,,,Stage IV Urothelial Carcinoma of Bladder/End State Renal Disease,,,,2022
+,MCIN,2022,August,2022-08-11,,,Thomas Benoit,W44193,,Male,White,,,Cardiac Arrest in setting of Acute Kidney Injury/Hypertensive & Atherosclerotic Cardio. Disease,,,,2022
+,OCCC,2022,August,2022-08-16,,,Richard White,W30775,,Male,White,,,End State renal Disease/Congestive Heart Failure/Hypertensive Cardiovascular Disease,,,,2022
+,SBCC,2022,August,2022-08-16,,,Thomas Glowacki,W41428,,Male,White,,,Complications of Necrotizing Pancreatitis/Hypertensive Heart Disease,,,,2022
+,PCC,2022,August,2022-08-22,,,Daniel Clark,W110644,,Male,White,,,"Liver Failure in person w/Hepatocellular Carcinoma, Cirrhosis of Liver and Hepatitis C",,,,2022
+,NECC,2022,September,2022-09-05,,,David Williams,W105858,,Male,Black,,,Acute Fentanyl Intoxication,,,,2022
+,LSH/MCIS,2022,September,2022-09-13,,,Bernard Sigh,W113010,,Male,Black,,,Acute Pulmonary Thromboembolism w/condition of Parkinson's Disease/Cardiovascular Disease,,,,2022
+,MCIC,2022,September,2022-09-23,,,Gualberto Cruz,W87881,,Male,White,,,,,,,2022
+,LSH/MCIS,2022,September,2022-09-24,,,William Locke,W55289,,Male,White,,,Squamous Cell Carcinoma of the Larynx,,,,2022
+,SBCC,2022,October,2022-10-26,,,Robert Reagan,W116340,,Male,White,,,Hypertensive &Atherosclerotic Cardiovascular Disease/Congestive Heart Failure/Diabetes,,,,2022
+,OCCC,2022,November,2022-11-27,,,Scott Almeida,W108932,,Male,White,,,Blunt Force Injures/Acute Promyelocytic Leukemia,,,,2022
+,MCIS,2022,December,2022-12-04,,,Saul Santana,W103510,,Male,White,,,Complications of Bowel Perforation/Urinary Tract infection/COVID 19,,,,2022
+,NCCI,2022,December,2022-12-12,,,Aristides Lopes,W113877,,Male,Black,,,Hypertensive and Atherosclerotic Cardiovascular Disease,,,,2022
+,LSH/OCCC,2022,December,2022-12-23,,,Charles Ingemi,W48453,,Male,White,,,Chronic Ischemic Stroke/Hypertensive & Atherosclerotic Cardiovascular Disease/Diabetes,,,,2022
+,MCIN,2023,January,2023-01-13,,,John Tammaro,W40009,,,,,,Metastic Pleomorphic Sarcoma,,,,2023
+,OCCC,2023,January,2023-01-21,,,Romano Ferraro,W83636,,,,,,Metastatic Colon Cancer,,,,2023
+,MCIN,2023,March,2023-03-20,,,Clarence Mouzone,T27139,,,,,,Methcillin-Sensitive Staph. Aureus due to Bacteremia/Acute Barterial Endocarditis,,,,2023
+,MCIF,2023,March,2023-03-26,,,Susan Dixon,F81826,,,,,,Glioblastoma,,,,2023
+,OCCC,2023,March,2023-03-28,,,William Morrill,W115311,,,,,,Complications of Sepsis due to Ernpyema of the left chest/esophageal cancer,,,,2023
+,NCCI,2023,May,2023-05-07,,,Adalberto Freitas,W115997,,,,,,Complications of Blioblastoma. WHO Grade IV,,,,2023
+,OCCC,2023,June,2023-06-22,,,Raymond Cooke,W88794,,,,,,Complications of Gastrointestinal hemorrhage,,,,2023
+,MCIS,2023,June,2023-06-24,,,John Wilborne,W36504,,,,,,Probable Cardiac Dysrhythmia in a person with history of hypertension,,,,2023
+,MTC,2023,June,2023-06-27,,,William McKinley,M108812,,,,,,"Multi Organ Failure with HIVI Type 2 Diabetes Mellitus, Hypertensive/Atherosclerotic Cardio. Disease",,,,2023
+,MTC,2023,July,2023-07-26,,,Ronald Scott,Ml 06094,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease and Metastatic Colorectal Carcinoma,,,,2023
+,MCIN,2023,July,2023-07-30,,,Dalin Huan,W96157,,,,,,Lobar Pheumonia,,,,2023
+,SBCC,2023,August,2023-08-16,,,Jose Rios,W115753,,,,,,Anoxic Brain Injury complicating Cardiac Arrest in setting of Bromazalam Use (Accident),,,,2023
+,MCIS,2023,September,2023-09-20,,,Steven Whalley,W116055,,,,,,Hypertensive/Atherosclerotic Cardiovascular Disease,,,,2023
+,NCCI,2023,October,2023-10-01,,,Gary Yetz,W70729,,,,,,"Small Celt Lung Carcinoma with Metastases to Brain, Liver, and Spine",,,,2023
+,MTC,2023,October,2023-10-05,,,Raphael Elison,W116748,,,,,,Adencarcinoma of the Lung contributed by Hypertensive/Atherosclerotic Cardiovascular Disease,,,,2023
+,NCCI,2023,October,2023-10-10,,,Reginald Downs,W117061,,,,,,End Stage Liver Disease due to Hepatic Cirrhosis and Hepatocellular Carcinoma,,,,2023
+,OCCC,2023,October,2023-10-24,,,Adder Salim,W38284,,,,,,Hypertensive and Atherosclerotic Cardiovascular Disease,,,,2023
+,MCIN,2023,November,2023-11-01,,,"Michael Bennett, Jr.",W55425,,,,,,Hypertensive and Atherosclerotic Cardiovascular Disease w/contr. of Diabetes Melitus/Hepatic Cirrhosis,,,,2023
+,NCCI,2023,November,2023-11-07,,,Kevin Dugggan,W54131,,,,,,Glioblastoma Multiforme,,,,2023
+,MCIN,2023,November,2023-11-17,,,Jorge Zuquera,T26786,,,,,,,,,,2023
+,BSH,2023,December,2023-12-08,,,John Almeida,M133089,,,,,,Aspiration Pneumonia in a Setting of Dysphagia w/Contributing Conditions of Gastroesophgeaf Reflux Disease,,,,2023
+,MCIS,2024,April,2024-04-23,,,Rao Manderville,W98203,,,,,,Acute Bronchopneumonia due to Chronic Obstructive Pulmonary Disease / Cardiovascular Disease,,,,2024
+,MCIS,2024,April,2024-04-26,,,Leo Perkins,W52747,,,,,,Spontaneous Intraparenchymal Intracerebral Hemorrhage,,,,2024
+,MCIN,2024,May,2024-05-20,,,William Berry,W31887,,,,,,Complications of Blunt Head Trauma with contributing condition of Hepatic Fibrosis,,,,2024
+,NCCI,2024,June,2024-06-10,,,Jaime Silva,W15583,,,,,,Myositis / Associated Connective Tissue Disease / Associated Interstitial Lung Disease,,,,2024
+,MCIS,2024,June,2024-06-24,,,Robert Coy,W35420,,,,,,Congestive Heart Failure / Chronic Kidney Disease Stage 3 / Type 2 Diabetes Mellitus,,,,2024
+,MCIF,2024,July,2024-07-11,,,Jamil Van Lier,W14036,,,,,,Adverse effects of Fentanyl & cocaine with contributing condition of possible Arnold Chiari Type I malformation of brain,,,,2024
+,NCCI,2024,July,2024-07-17,,,David Torrey,W10813,,,,,,Complication of Metastatic Pancreatic Adenocarcinoma with contributing condition of Diabetes / Cardiac disease,,,,2024
+,NCCI,2024,July,2024-07-26,,,Kevin Sharahan,W56855,,,,,,"Ischemic Cardiomyopathy with contributing conditions of diabetes, COPD, chronic kidney disease",,,,2024
+,OCCC,2024,September,2024-09-15,,,Euloge Gaston,W15625,,,,,,Blunt Force Injuries of Head/Homicide,,,,2024
+,MTC,2024,September,2024-09-29,,,Jose Diaz,W11827,,,,,,Blunt Force Injuries of Head and Neck/Homicide,,,,2024
+,MCIS,2024,October,2024-10-12,,,Thomas Halpern,W82876,,,,,,,,,,2024
+,MCIN,2024,October,2024-10-23,,,Jermain Perry,W33153,,,,,,,,,,2024
+,MCIS,2024,October,2024-10-29,,,Donald Johnson,W35921,,,,,,Hypertensive and Athorosclerotic Cardiovascular Disease,,,,2024
+,SBCC,2024,November,2024-11-05,,,Amos Sykes,W18544,,,,,,,,,,2024
+,NCCI,2024,November,2024-11-11,,,Steve Pierre,W16071,,,,,,Complications of Pulmonary Emboli due to Lower Extremity Deep Vein Thrombosis,,,,2024
+,SBCC,2024,November,2024-11-13,,,Nicholas Davis,W13450,,,,,,,,,,2024
+,MCIN,2024,December,2024-12-17,,,Robert Burnes,W33154,,,,,,,,,,2024
+,NCCI,2024,December,2024-12-19,,,Robert Liggon,W15543,,,,,,,,,,2024
+,MCIS,2024,December,2024-12-21,,,Robert Nickerson,W37257,,,,,,,,,,2024

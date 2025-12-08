@@ -1,0 +1,96 @@
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,DOB,Birth.Year,source_year
+New Mexico,CNMCF,2018,January,2018-01-21,Brian,Galbaldon,,,42,,,,Natural,,,,,
+New Mexico,CNMCF,2018,January,2018-01-30,Joe,Ross,,,71,,,,Natural,,,,,
+New Mexico,CNMCF,2018,February,2018-02-03,Frank,Latham,,,54,,,,Natural,,,,,
+New Mexico,WNMCF,2018,February,2018-02-18,Gloria,Bustos,,,71,,,,Natural,,,,,
+New Mexico,CNMCF,2018,March,2018-03-08,Brett,Choate,,,56,,,,Natural,,,,,
+New Mexico,CNMCF,2018,April,2018-04-05,James,Litteral,,,66,,,,Natural,,,,,
+New Mexico,CNMCF,2018,April,2018-04-22,Jose,Torres,,,60,,,,Natural,,,,,
+New Mexico,CNMCF,2018,May,2018-05-06,Richard,Lucero,,,55,,,,Natural,,,,,
+New Mexico,PNM,2018,July,2018-07-25,Isaiah,Cabrales,,,20,,,,Suicide,,,,,
+New Mexico,WNMCF,2018,August,2018-08-04,Inga,Gutierrez,,,65,,,,Natural,,,,,
+New Mexico,LCCF,2018,August,2018-08-23,Jesse Robert,Lopez,,,29,,,,Natural,,,,,
+New Mexico,CNMCF,2018,August,2018-08-18,Jon Henry,Hoppe,,,54,,,,Natural,,,,,
+New Mexico,CNMCF,2018,September,2018-09-17,Ronald,Perkins,,,77,,,,Natural,,,,,
+New Mexico,CNMCF,2018,October,2018-10-25,Christopher,Payton,,,48,,,,Natural,,,,,
+New Mexico,PNM,2018,October,2018-10-26,Dillion,Triplet,,,25,,,,Suicide,,,,,
+New Mexico,CNMCF,2018,November,2018-11-22,David,Torrez,,,62,,,,Natural,,,,,
+New Mexico,NMWCF,2018,November,2018-11-28,Judith,Neely,,,70,,,,Natural,,,,,
+New Mexico,CNMCF,2018,December,2018-12-02,Adonus,Encinias,,,23,,,,Suicide,,,,,
+New Mexico,CNMCF,2018,December,2018-12-02,Keith,Kosirog,,,39,,,,Suicide,,,,,
+New Mexico,CNMCF,2018,December,2018-12-09,John,Chitwood,,,80,,,,Natural,,,,,
+New Mexico,CNMCF,2018,December,2018-12-19,Javier,Mendez,,,67,,,,Natural,,,,,
+New Mexico,GCCF,2018,December,2018-12-20,Eddie,Adams,,,56,,,,Natural,,,,,
+New Mexico,CNMCF,2019,February,2019-02-14,Joel,Compton,,,65,,,,Natural,,,,,
+New Mexico,NENMDF,2019,April,2019-04-17,Gene,Cruz,,,65,,,,Natural,,,,,
+New Mexico,CNMCF,2019,January,2019-01-15,Bryce,Finley,,,73,,,,Natural,,,,,
+New Mexico,PNM,2019,January,2019-01-14,Efrain,Martinez,,,39,,,,Natural,,,,,
+New Mexico,CNMCF,2019,February,2019-02-23,Sebastian,Rogers,,,66,,,,Undetermined,,,,,
+New Mexico,CNMCF,2019,June,2019-06-05,Eugene,Gonzales,,,76,,,,Natural,,,,,
+New Mexico,LCCF,2019,June,2019-06-02,Johnny,Gutierrez,,,67,,,,Natural,,,,,
+New Mexico,PNM,2019,June,2019-06-18,Gary,Carter,,,60,,,,Natural,,,,,
+New Mexico,CNMCF,2019,June,2019-06-28,Michael,Orosco,,,52,,,,Natural,,,,,
+New Mexico,NWNMCF,2019,July,2019-07-09,Edward,Sedler,,,56,,,,Natural,,,,,
+New Mexico,CNMCF,2019,July,2019-07-28,William,Adams,,,63,,,,Natural,,,,,
+New Mexico,CNMCF,2019,July,2019-07-26,Marvin,Gash,,,62,,,,Natural,,,,,
+New Mexico,CNMCF,2019,August,2019-08-11,Damion,Hawk,,,75,,,,Natural,,,,,
+New Mexico,CNMCF,2019,August,2019-08-28,Michael,Brown,,,45,,,,Natural,,,,,
+New Mexico,GCCF,2019,October,2019-10-27,Richard,Chavez,,,67,,,,Natural,,,,,
+New Mexico,NENMDF,2019,October,2019-10-29,Michael,Maes,,,36,,,,,,,,,
+New Mexico,CNMCF,2019,November,2019-11-15,Joseph Rey,Chavez,,,61,,,,Natural,,,,,
+New Mexico,SNMCF,2019,November,2019-11-24,Michael,Perea,,,34,,,,Natural,,,,,
+New Mexico,CNMCF,2019,December,2019-12-23,Robert,Bertola,,,59,,,,Natural,,,,,
+New Mexico,LCFF,2022,,,,,,,,,,,Suicide,Hanging,,,,2022
+New Mexico,WMNCF-N,2022,,,,,,,,,,,Suicide,Hanging,,,,2022
+New Mexico,LCFF,2022,,,,,,,,,,,Homicide,Stab wounds of torso,,,,2022
+New Mexico,LCFF,2022,,,,,,,,,,,,Blunt Head Trauma,,,,2022
+New Mexico,SNMCF,2022,,,,,,,,,,,Suicide,Hanging,,,,2022
+New Mexico,PNM,2022,,,,,,,,,,,,Sepsis,,,,2022
+New Mexico,CNMS,2022,,,,,,,,,,,,Thyroid Cancer Stage 4,,,,2022
+New Mexico,CNMCF,2022,,,,,,,,,,,,Pulmonary Fibrosis HTN Lumbar stenosis anxiety chronic gastritis,,,,2022
+New Mexico,,2022,,,,,,,,,,,,Congestive Heart Failure,,,,2022
+New Mexico,CNMS,2022,,,,,,,,,,,,COPD,,,,2022
+New Mexico,CNMCF,2022,,,,,,,,,,,,Hepatic Cerrosis Hepatitis C,,,,2022
+New Mexico,CNMS,2022,,,,,,,,,,,,Cardiovascular Disease,,,,2022
+New Mexico,CNMF,2022,,,,,,,,,,,,Lung Cancer,,,,2022
+New Mexico,CNMCF,2022,,,,,,,,,,,,"Lung Cancer, Pulmonary Fibrosis, COPD, Arthritis, Diabetes",,,,2022
+New Mexico,CNMCF,2022,,,,,,,,,,,,Atheroscierotic and hypertensive Cardiovascular Disease,,,,2022
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Natural,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Suicide,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Suicide,,,,,2023
+New Mexico,,2023,,,,,,,,,,,Suicide,,,,,2023
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Natural,,,,,2024
+New Mexico,,2024,,,,,,,,,,,Suicide,,,,,2024

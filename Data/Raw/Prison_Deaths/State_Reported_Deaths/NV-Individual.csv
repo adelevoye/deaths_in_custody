@@ -1,0 +1,599 @@
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,DOB,Birth.Year,source_year
+Nevada,,2021,January,2021-01-02,,,"Keeney, David",34474,72,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-03,,,"Lloyd, Chauncey",1075113,89,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-03,,,"Leon, Rodolfo",19004,69,,Cuban,,,,,,,
+Nevada,,2021,January,2021-01-03,,,"D'Agostino, Frank",32883,58,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-05,,,"Ward, Jason",23686,77,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-05,,,"Pacheco, Louis",63926,75,,American Indian,,,,,,,
+Nevada,,2021,January,2021-01-05,,,"Bradley, Phillip",36193,63,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-09,,,"Zanghi, Philip",1121740,74,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-11,,,"Nelson, Michael",80313,64,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-12,,,"Luckett, Johnny",21832,54,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-12,,,"Bell, William",95551,74,,Black,,,,,,,
+Nevada,,2021,January,2021-01-13,,,"Lizares, Edward",1166011,74,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-19,,,"Wallis, Eddie",1078556,72,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-22,,,"Vega, Bernardo",1035322,80,,Hispanic,,,,,,,
+Nevada,,2021,January,2021-01-20,,,"Burkett, Nathaniel",83548,74,,Black,,,,,,,
+Nevada,,2021,January,2021-01-24,,,"Valez, Carlos",1056488,40,,Hispanic,,,,,,,
+Nevada,,2021,January,2021-01-29,,,"Morse, George",1044941,91,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-06,,,"Cruz, Rojillio",1091322,48,,Hispanic,,,,,,,
+Nevada,,2021,January,2021-01-19,,,"Egberto, Rickey",20632,65,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-21,,,"Daughtery, Henry",12751,68,,Caucasian,,,,,,,
+Nevada,,2021,February,2021-02-09,,,"Hardin, Dwayne",1171503,51,,Black,,,,,,,
+Nevada,,2021,February,2021-02-09,,,"Marshall, Robert",1089640,75,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-09,,,"Bennett, Gregory",89774,70,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-12,,,"League, Michael",67089,74,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-19,,,"Woodard, Wilbur",75121,77,,Caucasian,,,,,,,
+Nevada,,2021,February,2021-02-03,,,"Caralani, Alfred",49610,68,,Caucasian,,,,,,,
+Nevada,,2021,February,2021-02-14,,,"Ashman, David",82424,73,,Caucasian,,,,,,,
+Nevada,,2021,January,2021-01-24,,,"Dearing, Charles",37536,76,,Caucasian,,,,,,,
+Nevada,,2021,February,2021-02-27,,,"Snow, John",19598,78,,Black,,,,,,,
+Nevada,,2021,February,2021-02-27,,,"Hendricks, William",1017829,73,,Black,,,,,,,
+Nevada,,2021,March,2021-03-04,,,"Schnabl, Troy",72573,65,,Caucasian,,,,,,,
+Nevada,,2021,March,2021-03-06,,,"Dease, Wesley",21508,59,,Black,,,,,,,
+Nevada,,2021,March,2021-03-14,,,"Sharp, Isiah",1205404,21,,Caucasian,,,,,,,
+Nevada,,2021,April,2021-04-01,,,"Collins, Edward",45814,51,,Caucasian,,,,,,,
+Nevada,,2021,April,2021-04-05,,,"Harter, Harold",44629,56,,Caucasian,,,,,,,
+Nevada,,2021,April,2021-04-09,,,"Shafter, Kenneth",56107,49,,White,,,,,,,
+Nevada,,2021,April,2021-04-19,,,"McKenna, Patrick",14968,74,,Caucasian,,,,,,,
+Nevada,,2021,May,2021-05-03,,,"Lopez, Manuel",21235,62,,Hispanic,,,,,,,
+Nevada,,2021,April,2021-04-29,,,"Stallworth, Val",71238,67,,Black,,,,,,,
+Nevada,,2021,May,2021-05-15,,,"Hill, Paul",15508,62,,Caucasian,,,,,,,
+Nevada,,2021,May,2021-05-20,,,"Hayes, Joshua",1205810,33,,Caucasian,,,,,,,
+Nevada,,2021,May,2021-05-24,,,"Hernandez, Carlos",1218265,78,,Hispanic,,,,,,,
+Nevada,,2021,May,2021-05-31,,,"Snider, Michael",69932,77,,Caucasian,,,,,,,
+Nevada,,2021,June,2021-06-03,,,"Rogers, Anthony",1084748,70,,Caucasian,,,,,,,
+Nevada,,2021,June,2021-06-14,,,"Miles, Ralph",86275,54,,Caucasian,,,,,,,
+Nevada,,2021,June,2021-06-29,,,"Tutt, Evans",1148433,36,,Black,,,,,,,
+Nevada,,2021,July,2021-07-09,,,"Clark, Terry",89533,36,,Black,,,,,,,
+Nevada,,2021,July,2021-07-25,,,"Montgomery, Brad",1038563,66,,Caucasian,,,,,,,
+Nevada,,2021,July,2021-07-25,,,"Pinto, Liliana",1239033,35,,Black,,,,,,,
+Nevada,,2021,July,2021-07-26,,,"Hutchinson, Michael",1132571,28,,American Indian,,,,,,,
+Nevada,,2021,August,2021-08-05,,,"Burrows, Richard",55698,65,,Caucasian,,,,,,,
+Nevada,,2021,August,2021-08-09,,,"Hernandez, Rene",1197464,75,,Caucasian,,,,,,,
+Nevada,,2021,August,2021-08-27,,,"Gates, Andrew",12489,75,,Caucasian,,,,,,,
+Nevada,,2021,September,2021-09-05,,,"Newton, James",22812,67,,Caucasian,,,,,,,
+Nevada,,2021,September,2021-09-16,,,"Jenks, Ray",1029919,63,,Caucasian,,,,,,,
+Nevada,,2021,October,2021-10-06,,,"Hightower, Ernest",96084,61,,Black,,,,,,,
+Nevada,,2021,October,2021-10-06,,,"Quiles, Sergio",1218975,71,,Caucasian,,,,,,,
+Nevada,,2021,September,2021-09-16,,,"Cave, Hugh",1083569,63,,Caucasian,,,,,,,
+Nevada,,2021,October,2021-10-08,,,"Poelking, David",1224300,63,,Caucasian,,,,,,,
+Nevada,,2021,October,2021-10-17,,,"Armstead, Joe",85650,81,,Black,,,,,,,
+Nevada,,2021,October,2021-10-25,,,"Spraggins, Carlton",1241243,66,,Black,,,,,,,
+Nevada,,2021,November,2021-11-03,,,"Cawley, Shawn",89819,49,,White,,,,,,,
+Nevada,,2021,November,2021-11-06,,,"Weathers, Trevionte",1053318,28,,Black,,,,,,,
+Nevada,,2021,November,2021-11-07,,,"Magness, Michael",1250229,46,,White,,,,,,,
+Nevada,,2021,December,2021-12-05,,,"Gonzales, Cipriano",1233793,80,,Other,,,,,,,
+Nevada,,2021,December,2021-12-11,,,"Meissner, Justin",29914,58,,White,,,,,,,
+Nevada,,2021,December,2021-12-13,,,"Newman, Eric",1043673,45,,White,,,,,,,
+Nevada,,2021,December,2021-12-15,,,"Jackson, Marland",1184944,45,,Black,,,,,,,
+Nevada,NNCC,2020,December,2020-12-31,,,,,65,M,AI,,,"Complications of metastatic pancreatic cancer, presumed pneumonia due to COVID-19, hypertensive and atherosclerotic cardiovascular disease",,,,
+Nevada,LCC,2020,December,2020-12-31,,,,,62,M,H,,,,,,,
+Nevada,NNCC,2020,December,2020-12-31,,,,,76,M,B,,,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, hypertension, type 2 diabetes mellitus and hepatitis C",,,,
+Nevada,LCC,2020,December,2020-12-30,,,,,73,M,W,,,,,,,
+Nevada,LCC,2020,December,2020-12-30,,,,,69,M,AI,,,,,,,
+Nevada,NNCC,2020,December,2020-12-27,,,,,70,M,W,,,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, hypertension, diabetes mellitus, atherosclerotic cardiovascular disease, COPD",,,,
+Nevada,SDCC,2020,December,2020-12-26,,,,,66,M,A,,,,,,,
+Nevada,LCC,2020,December,2020-12-26,,,,,69,M,H,,,,,,,
+Nevada,NNCC,2020,December,2020-12-25,,,,,82,M,W,,,,,,,
+Nevada,NNCC,2020,December,2020-12-25,,,,,77,M,W,,,,,,,
+Nevada,LCC,2020,December,2020-12-24,,,,,62,M,B,,,,,,,
+Nevada,LCC,2020,December,2020-12-24,,,,,58,M,H,,,,,,,
+Nevada,NNCC,2020,December,2020-12-24,,,,,71,M,W,,,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, COPD, arterial fibrillation, hypertension, atherosclerotic cardiovascular disease",,,,
+Nevada,NNCC,2020,December,2020-12-23,,,,,50,M,W,,,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, hypertension, COPD, atrial fibrilllation, morbid obesity",,,,
+Nevada,NNCC,2020,December,2020-12-23,,,,,65,M,B,,,"Pneumonia due to COVID-19, hypertensive cardiovascular disease",,,,
+Nevada,NNCC,2020,December,2020-12-23,,,,,62,M,W,,,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, COPD, pulmonary fibrosis, Hepatitis C",,,,
+Nevada,LCC,2020,December,2020-12-22,,,,,44,M,H,,,,,,,
+Nevada,LCC,2020,December,2020-12-21,,,,,33,M,W,,,,,,,
+Nevada,NNCC,2020,December,2020-12-21,,,,,61,M,W,,,,,,,
+Nevada,LCC,2020,December,2020-12-20,,,,,72,M,W,,,,,,,
+Nevada,LCC,2020,December,2020-12-19,,,,,59,M,W,,,,,,,
+Nevada,HDSP,2020,December,2020-12-18,,,,,63,M,W,,,,,,,
+Nevada,NNCC,2020,December,2020-12-16,,,,,66,M,W,,,,,,,
+Nevada,SDCC,2020,December,2020-12-13,,,,,84,M,W,,,,,,,
+Nevada,NNCC,2020,December,2020-12-13,,,,,62,M,W,,,Acute respiratory distress syndrome due to pneumonia due to COVID-19,,,,
+Nevada,LCC,2020,December,2020-12-12,,,,,71,M,H,,,,,,,
+Nevada,NNCC,2020,December,2020-12-08,,,,,79,M,W,,,"Pneumonia due to COVID-19, diabetes mellitus, hypercholesterolemia, hypothyroidism",,,,
+Nevada,NNCC,2020,December,2020-12-07,,,,,71,M,A,,,Acute respiratory distress syndrome due to pneumonia due to COVID-19,,,,
+Nevada,LCC,2020,December,2020-12-05,,,,,68,M,W,,,,,,,
+Nevada,HDSP,2020,December,2020-12-03,,,,,56,M,B,,,,,,,
+Nevada,NNCC,2020,November,2020-11-30,,,,,58,M,B,,,"Hypertensive and atherosclerotic cardiovascular disease, end stage renal disease, diabetes mellitus",,,,
+Nevada,HDSP,2020,November,2020-11-27,,,,,37,M,B,,,,,,,
+Nevada,NNCC,2020,November,2020-11-27,,,,,61,M,H,,,"Acute respiratory distress syndrome due to pneumonia due to COVID-19, atherosclerotic and hypertensive cardiovascular disease",,,,
+Nevada,HDSP,2020,November,2020-11-24,,,,,49,M,H,,,,,,,
+Nevada,HDSP,2020,November,2020-11-22,,,,,30,M,W,,,,,,,
+Nevada,NNCC,2020,November,2020-11-12,,,,,84,M,W,,,"Pulmonary emboli, atherosclerotic and hypertensive cardiovascular disease, COPD, diabetes mellitus, chronic debility with frequent falls",,,,
+Nevada,HDSP,2020,November,2020-11-11,,,,,76,M,W,,,,,,,
+Nevada,NNCC,2020,November,2020-11-08,,,,,83,M,W,,,"Complications of metastatic lung adenocarcinoma, atherosclerotic cardiovascular disease",,,,
+Nevada,HDSP,2020,November,2020-11-08,,,,,58,M,W,,,,,,,
+Nevada,NNCC,2020,November,2020-11-02,,,,,40,M,W,,,Suicide by hanging,,,,
+Nevada,HDSP,2020,October,2020-10-30,,,,,55,M,W,,,,,,,
+Nevada,HDSP,2020,October,2020-10-25,,,,,20,M,H,,,,,,,
+Nevada,NNCC,2020,October,2020-10-19,,,,,56,M,W,,,,,,,
+Nevada,HDSP,2020,September,2020-09-13,,,,,61,M,W,,,,,,,
+Nevada,HDSP,2020,September,2020-09-12,,,,,65,M,H,,,,,,,
+Nevada,NNCC,2020,September,2020-09-03,,,,,75,M,B,,,"Complications of perfroated duodenal ulcer, hypertensive and atherosclerotic cardiovascular disease, emphysema, diabetes mellitus and obesity",,,,
+Nevada,LCC,2020,August,2020-08-29,,,,,46,M,B,,,,,,,
+Nevada,HDSP,2020,August,2020-08-22,,,,,50,M,W,,,,,,,
+Nevada,SDCC,2020,August,2020-08-19,,,,,41,M,B,,,,,,,
+Nevada,NNCC,2020,August,2020-08-17,,,,,79,M,A,,,,,,,
+Nevada,NNCC,2020,August,2020-08-04,,,,,55,M,W,,,Complications of metastatic colon cancer,,,,
+Nevada,HDSP,2020,July,2020-07-30,,,,,45,M,W,,,,,,,
+Nevada,SDCC,2020,July,2020-07-28,,,,,50,M,W,,,,,,,
+Nevada,HDSP,2020,July,2020-07-28,,,,,72,M,B,,,,,,,
+Nevada,HDSP,2020,July,2020-07-22,,,,,29,M,W,,,,,,,
+Nevada,NNCC,2020,July,2020-07-20,,,,,63,M,B,,,Atherosclerotic cardiovascular disease and diabetes mellitus,,,,
+Nevada,NNCC,2020,July,2020-07-15,,,,,77,M,B,,,"Atherosclerotic cardiovascular disease, prostatic adenocarcinoma, papillary urothelial carcinoma of the bladder, cachexia",,,,
+Nevada,NNCC,2020,July,2020-07-01,,,,,61,M,W,,,Complications of metastatic lung cancer,,,,
+Nevada,NNCC,2020,June,2020-06-16,,,,,70,M,W,,,"Complications of probable pancreatic cancer, hypertension and diabetes mellitus",,,,
+Nevada,NNCC,2020,June,2020-06-09,,,,,54,M,W,,,Complications of metastatic carcinoma,,,,
+Nevada,HDSP,2020,June,2020-06-09,,,,,52,M,B,,,"Bilateral pulmonary emboli due to obesity, and cardiomyopathy and cardiac valvular disease",,,,
+Nevada,SDCC,2020,June,2020-06-07,,,,,53,M,B,,,"Upper gastrointestinal hemorrhage due to chronic gastritis, hypertensive cardiovascular disease and renal insufficiency",,,,
+Nevada,NNCC,2020,May,2020-05-07,,,,,78,M,W,,,"Failure to thrive, arteriosclerotic cardiovascular disease",,,,
+Nevada,NNCC,2020,April,2020-04-30,,,,,60,M,W,,,Advanced bone cancer,,,,
+Nevada,NNCC,2020,April,2020-04-30,,,,,54,M,W,,,End stage liver disease due to Hepatitis C,,,,
+Nevada,NNCC,2020,April,2020-04-28,,,,,52,M,W,,,"Complications of cirrhosis due to Hepatitis C infection, acute bronchopneumonia, hypertensive cardiovascular disease",,,,
+Nevada,ESP,2020,April,2020-04-26,,,,,35,M,H,,,Inhalation of products of combustion,,,,
+Nevada,HDSP,2020,April,2020-04-19,,,,,32,M,W,,,Suicide by hanging,,,,
+Nevada,LCC,2020,April,2020-04-18,,,,,65,M,H,,,Complications of acute bacterial pneumonia due to staphylococcus aureus infection,,,,
+Nevada,NNCC,2020,April,2020-04-07,,,,,74,M,W,,,"Hypertensive cardiovascular disease, COPD, Parkinson's Disease and chronic debility",,,,
+Nevada,NNCC,2020,April,2020-04-04,,,,,82,M,W,,,Bacterial pneumnia due to COPD and diabetes mellitus and hypertension,,,,
+Nevada,HDSP,2020,March,2020-03-13,,,,,79,M,W,,,"Cerebral vascular accident and complications thereof, hypertensive and atherosclerotic cardiovascular disease and cardiac valvular disease",,,,
+Nevada,NNCC,2020,March,2020-03-08,,,,,87,M,W,,,"Atherosclerotic and hypertensive cardiovascular disease, pneumonia, dementia, acute pancreatitis",,,,
+Nevada,HDSP,2020,March,2020-03-06,,,,,55,M,B,,,Septic shock due to cellulitis and the sequelae thereof with hypertensive and atherosclerotic cardiovascular disease and sarcoidosis,,,,
+Nevada,HDSP,2020,February,2020-02-28,,,,,41,M,H,,,Suicide by hanging,,,,
+Nevada,NNCC,2020,February,2020-02-22,,,,,33,M,B,,,Suicide by acute amiodipine toxicity,,,,
+Nevada,NNCC,2020,February,2020-02-18,,,,,70,M,W,,,"Complications of COPD, also atherosclerotic cardiovascular disease",,,,
+Nevada,NNCC,2020,February,2020-02-13,,,,,72,M,W,,,"Acute bronchopneumonia complicating hepatocellular cancer, also hypertensive and atherosclerotic cardiovascular disease",,,,
+Nevada,HCC,2020,February,2020-02-06,,,,,49,M,H,,,"Myocardial infarction due to coronary artery thrombosis due to atherosclerotic and hypertensive cardiovascular disease, also obesity",,,,
+Nevada,NNCC,2020,January,2020-01-31,,,,,85,M,W,,,"Acute bronchopneumonia, also COPD, hypertensive and altherosclerotic cardiovascular disease",,,,
+Nevada,NNCC,2019,December,2019-12-28,,,,,58,M,H,,,"Acute bacterial peritonitis, also pancreatic adenocarcinoma",,,,
+Nevada,HDSP,2019,December,2019-12-24,,,,,76,M,W,,,Myocardial infarction due to hypertensive and atherosclerotic cardiovascular disease,,,,
+Nevada,NNCC,2019,December,2019-12-13,,,,,50,M,W,,,Complications of metastatic neuroendocrine carcinoma,,,,
+Nevada,NNCC,2019,December,2019-12-04,,,,,71,M,B,,,Acute bacterial pneumonia,,,,
+Nevada,SDCC,2019,November,2019-11-27,,,,,45,M,A,,,Hypertensive and arteriosclerotic cardiovascular disease,,,,
+Nevada,HDSP,2019,November,2019-11-25,,,,,38,M,B,,,"Pulmonary infarction due to pulmonary embolism with acute renal failure, sick cell trait and hypertension with recurrent atrial fibrillation and atrial flutter",,,,
+Nevada,NNCC,2019,November,2019-11-20,,,,,73,M,AI,,,"Complications of hepatocellular carcinoma, also Hepatitis C, remote hisotry of chronic alchol abuse",,,,
+Nevada,NNCC,2019,November,2019-11-06,,,,,69,M,W,,,"Complications of right hip fracture, also hypertensive -type and atherosclerotic cardiovascular disease",,,,
+Nevada,ESP,2019,October,2019-10-29,,,,,37,M,B,,,Homicide due to multiple stab and incised wounds,,,,
+Nevada,LCC,2019,October,2019-10-24,,,,,55,M,W,,,Complications of colonic obstruction due to colonic diverticulitis,,,,
+Nevada,HDSP,2019,October,2019-10-20,,,,,65,M,W,,,"Delayed complications from abdominal aortic aneurysm due to atherosclerotic and hypertensive cardiovascular disease, and COPD",,,,
+Nevada,NNCC,2019,October,2019-10-04,,,,,60,M,W,,,Severe acute pneumonia,,,,
+Nevada,HDSP,2019,September,2019-09-03,,,,,57,M,B,,,Myocardial infarction and schizophrenia,,,,
+Nevada,HDSP,2019,August,2019-08-30,,,,,78,M,B,,,Hypertensive and atherosclerotic cardiovascular disease and diabetes mellitus,,,,
+Nevada,NNCC,2019,August,2019-08-26,,,,,49,M,B,,,,,,,
+Nevada,NNCC,2019,August,2019-08-14,,,,,52,M,W,,,Atherosclerotic cardiovascular disease,,,,
+Nevada,NNCC,2019,August,2019-08-13,,,,,81,M,W,,,"Acute bronchopneumonia, also hypertensive and altherosclerotic cardiovascular disease",,,,
+Nevada,HDSP,2019,August,2019-08-01,,,,,58,M,W,,,Hepatorenal syndrome due to cirrhosis due to Hepatitis C viral infection with cholangiocarcinoma,,,,
+Nevada,HDSP,2019,July,2019-07-23,,,,,66,M,W,,,,,,,
+Nevada,HDSP,2019,July,2019-07-15,,,,,63,M,W,,,"Hepatocellular carcinoma and complications thereof, history of Hepatitis C virus infection and chronic ethanolism",,,,
+Nevada,NNCC,2019,July,2019-07-13,,,,,56,M,B,,,Complications of metastatic prostate carcinoma,,,,
+Nevada,HDSP,2019,July,2019-07-01,,,,,60,M,W,,,"Acute myocardial infarction due to hypertensive and atherosclerotic cardiovascular disease with peritonitis,, cirrhosis and Hepatitis C viral infection",,,,
+Nevada,NNCC,2019,May,2019-05-28,,,,,71,M,W,,,"Complications of metastatic lung carcinoma, acute bronchopneumonia, hypertensive/valvular/atherosclerotic cardiovascular disease, COPD and diabetes mellitus",,,,
+Nevada,NNCC,2019,April,2019-04-23,,,,,56,M,W,,,"Group A streptococcal sepsis due to pneumonia and retropharyngeal absceses, hepatic cirrhosis with chronic hepatitis and steatosis",,,,
+Nevada,HDSP,2019,April,2019-04-22,,,,,55,M,H,,,"Hypertensive and arteriosclerotic cardiovascular disease, diabetes mellitus, asthma, DOPD and cirrhosis",,,,
+Nevada,NNCC,2019,April,2019-04-21,,,,,64,M,AI,,,"Complications of urothelial carcinoma of the bladder, hypertensive and atherosclerotic cardiovascular disease and acute bronchopneumonia",,,,
+Nevada,NNCC,2019,March,2019-03-28,,,,,68,M,H,,,Hypertensive and atherosclerotic cardiovascular disease,,,,
+Nevada,NNCC,2019,March,2019-03-25,,,,,64,M,W,,,Complications of metastatic pancreatic carcinoma,,,,
+Nevada,NNCC,2019,March,2019-03-18,,,,,76,M,W,,,Metastatic adenocarcinoma of the lungs,,,,
+Nevada,NNCC,2019,March,2019-03-16,,,,,64,M,B,,,"Spontaneour non-traumatic intraperitoneal hemorrhage, remote cerebral infarcts, pulmonary emphysema, pneumonia, hepatic cirrhosis and cardiomegaly",,,,
+Nevada,NNCC,2019,March,2019-03-06,,,,,61,M,B,,,Complications of COPD,,,,
+Nevada,HDSP,2019,February,2019-02-23,,,,,71,M,B,,,Congestive heart failure due to myocardial infarction due to hypertensive and arteriosclerotic cardiovascular disease and emphysema,,,,
+Nevada,SDCC,2019,February,2019-02-19,,,,,29,M,B,,,Suicide by hanging,,,,
+Nevada,NNCC,2019,February,2019-02-16,,,,,73,M,W,,,Lobar pneumonia,,,,
+Nevada,NNCC,2019,February,2019-02-13,,,,,71,M,B,,,Metastatic adenocarcinoma of the prostate gland,,,,
+Nevada,HDSP,2019,February,2019-02-04,,,,,47,M,W,,,Pneumonia and COPD and cellulitus of lower extremities,,,,
+Nevada,NNCC,2019,January,2019-01-31,,,,,54,M,W,,,Complications of end stage renal disease due to membranous glomerulopathy,,,,
+Nevada,NNCC,2019,January,2019-01-28,,,,,72,M,B,,,Complications of hepatic cirrhosis due to hepatitis C infection,,,,
+Nevada,NNCC,2019,January,2019-01-26,,,,,57,M,H,,,"Upper gastronintestinal hemorrhage due to esophageal varices due to complications of cirrhosis, also hepatitis C and hepatocellular carcinoma.",,,,
+Nevada,NNCC,2019,January,2019-01-19,,,,,65,M,W,,,Arterioslcerotic cardiovascular disease,,,,
+Nevada,ESP,2019,January,2019-01-05,,,,,48,M,W,,,Suicide by hanging,,,,
+Nevada,NNCC,2018,December,2018-12-25,,,,,62,M,W,,,"Acute blood loss due to epistaxis and/or gastrointestinal intrluminal hemorrhage, also atherosclerotic and hyptertensive cardiovascular disease, COPD and diabetes",,,,
+Nevada,SDCC,2018,December,2018-12-19,,,,,76,M,H,,,Complications of hypertensive and atherosclerotic cardiovascular disease and diabetes mellitus,,,,
+Nevada,HDSP,2018,December,2018-12-18,,,,,34,M,B,,,Suicide by hanging,,,,
+Nevada,NNCC,2018,December,2018-12-10,,,,,47,M,B,,,Complications of malignant paraganglioma,,,,
+Nevada,NNCC,2018,December,2018-12-09,,,,,32,M,W,,,"Marked cardiomegaly, also thymoma, morbid obesity",,,,
+Nevada,NNCC,2018,December,2018-12-08,,,,,69,M,W,,,"Complications of pulmonary fibrosis, also COPD, atherosclerotic and hypertensive cardiovascular disease and diabetes mellitus",,,,
+Nevada,NNCC,2018,November,2018-11-21,,,,,37,M,H,,,Complications of metastatic osteosarcoma,,,,
+Nevada,HDSP,2018,November,2018-11-10,,,,,63,M,A,,,Metastatic colon adenocarcinoma,,,,
+Nevada,HDSP,2018,October,2018-10-12,,,,,55,M,B,,,Hypertensive and atherosclerotic cardiovascular disease and diabetes mellitus,,,,
+Nevada,NNCC,2018,September,2018-09-23,,,,,81,M,H,,,"Pneumonia, also atherosclerotic and hypertensive cardiovascular disease, diabetes mellitus and seizure disorder",,,,
+Nevada,NNCC,2018,September,2018-09-08,,,,,68,M,W,,,"Complications of squamous cell carcinoma of the lung, also hypertensive-type and atherosclerotic cardiovascular disease",,,,
+Nevada,NNCC,2018,August,2018-08-28,,,,,59,M,W,,,Atherosclerotic and hypertensive cardiovascular disease,,,,
+Nevada,NNCC,2018,August,2018-08-26,,,,,43,M,W,,,"Pulmonary thrombosis due to deep venous thrombosis of the lower extremities, also enterbacter aerogenes aspiration pneumonia due to leukodystrophy",,,,
+Nevada,NNCC,2018,August,2018-08-23,,,,,66,M,W,,,"Complications of metastatic carcinoma of the liver, also Hepatitis C",,,,
+Nevada,NNCC,2018,August,2018-08-20,,,,,65,M,B,,,"Complications of metastatic adenocarcinoma of the lung, also hypertensive and atherosclerotic cardiovascualar disease",,,,
+Nevada,HDSP,2018,August,2018-08-20,,,,,55,M,W,,,"Primary central nervous system lymphoma, also goodpasture syndrome, hypertensive and arteriosclerotic cardiovascular disease and pneumonia",,,,
+Nevada,HDSP,2018,July,2018-07-10,,,,,71,M,W,,,Pneumonia,,,,
+Nevada,NNCC,2018,June,2018-06-27,,,,,61,M,W,,,"Complications from hepatic cirrhosis due to hepatitis C, alson organizing pneumonia and atherosclerotic and hypertensive cardiovascular disease",,,,
+Nevada,NNCC,2018,June,2018-06-19,,,,,59,M,AI,,,Metastatic rectal adenocarcenoma,,,,
+Nevada,NNCC,2018,June,2018-06-15,,,,,78,M,W,,,Atherosclerotic and hypertensive cardiovascular disease,,,,
+Nevada,NNCC,2018,June,2018-06-13,,,,,70,M,W,,,Hepatocellular carcinoma,,,,
+Nevada,CGTH,2018,June,2018-06-03,,,,,27,M,B,,,Suicide by hanging,,,,
+Nevada,HDSP,2018,May,2018-05-29,,,,,41,M,B,,,"Poorly-differentiated malignancy, COPD and tabacco use",,,,
+Nevada,HDSP,2018,May,2018-05-29,,,,,37,M,W,,,Metastatic gern cell tumor of apparent retroperitoneal origin,,,,
+Nevada,HDSP,2018,May,2018-05-29,,,,,51,M,W,,,"Suicide by multiple blunt force injuries and complications, cirrhosis, hepatitis C viral infection",,,,
+Nevada,NNCC,2018,May,2018-05-25,,,,,70,M,W,,,"Myocardial infarction due to coronary artery thrombosis due to atherosclerotic and hypertensive cardiovascular disease, also COPD",,,,
+Nevada,NNCC,2018,May,2018-05-15,,,,,27,M,B,,,Homicide by stab wound to the neck,,,,
+Nevada,NNCC,2018,May,2018-05-11,,,,,61,M,W,,,Ruptured abdominal aoritic aneurysm due to hypertensive and atherosclerotic cardiovascular disease,,,,
+Nevada,HDSP,2018,May,2018-05-01,,,,,64,M,AI,,,"Complications of hypertensive vasculopathy, including vascular dementia, decubitus ulcers, malnutrition and debility, atherosclerotic cardiovascular disease and COPD",,,,
+Nevada,FMWCC,2018,April,2018-04-28,,,,,25,F,W,,,Suicide by hanging,,,,
+Nevada,NNCC,2018,April,2018-04-27,,,,,61,M,W,,,"Complications of aspiration pneumonia and incarcerated umbilical hernia, agnioedema secondary to administration of intravenous contrast, end-stage renal disease, ASCVD",,,,
+Nevada,ESP,2018,April,2018-04-17,,,,,32,M,H,,,Homicide by multiple stab wounds,,,,
+Nevada,HDSP,2018,April,2018-04-04,,,,,71,M,W,,,"Accident - complications of left femure fracture due to fall, congestive heart failure, cardiac valvular disease, cirrhosis, hypertension and chromic anemia due to thalassemia",,,,
+Nevada,NNCC,2018,April,2018-04-03,,,,,72,M,W,,,"Coronary artery graft thrombosis due to complications of recent coronary artery bypass surgery due to atherosclerotic and hypertensive cardiovascular disease, and unilateral pulmonary thromboembolism and type 2 diabetes mellitus",,,,
+Nevada,SDCC,2018,March,2018-03-26,,,,,54,M,A,,,Ruptured acute mocardial infarct due to coronary atherosclerosis,,,,
+Nevada,NNCC,2018,March,2018-03-08,,,,,77,M,W,,,"Metastatic squamous cell carcinoma of the skin, also atherosclerotic and hypertensive cardiovascular disease",,,,
+Nevada,NNCC,2018,March,2018-03-05,,,,,58,M,W,,,"Atherosclerotic cardiovascular disease with acute bronchopneumonia, hypertensive cardiovascular disease, hepatitis B and hepatitis C",,,,
+Nevada,HDSP,2018,March,2018-03-03,,,,,51,M,W,,,"Pneumonia with cirrhosis, hepatitis C infection and righty ventricular dilation",,,,
+Nevada,NNCC,2018,February,2018-02-27,,,,,49,M,W,,,Acute bronchopneumonia with atherosclerotic cardiovascular disease and a history ofself-injury to the head,,,,
+Nevada,HDSP,2018,February,2018-02-12,,,,,53,M,H,,,Hemoperitoneum due to coagulopathy due to cirrhosis and hepatitis C virus infection with gastrointestinal hemorrhage due to esophageal varicies,,,,
+Nevada,NNCC,2018,February,2018-02-09,,,,,66,M,W,,,Upper gastronintestinal hemorrhage due to probable ruptured esophageal varices due to hepatic cirrhosis due to hepatitis C and B infection.  Also ASCVD and COPD.,,,,
+Nevada,NNCC,2018,February,2018-02-02,,,,,83,M,W,,,"Complications of colon cancer, COPD and atherosclerotic cardiovascular disease",,,,
+Nevada,NNCC,2018,January,2018-01-25,,,,,87,M,W,,,Acute bronchopneumonia,,,,
+Nevada,HDSP,2018,January,2018-01-15,,,,,54,M,B,,,"Pulmonary embolism due to phlebothrombosis, also hypertensive cardiovascular disease",,,,
+Nevada,HDSP,2018,January,2018-01-14,,,,,62,M,B,,,"Pneumonia with hypertensive and atherosclerotic cardiovascular disease, cirrhosis and hepatocellular carcinoma",,,,
+Nevada,NNCC,2018,January,2018-01-09,,,,,76,M,W,,,"Complications of metastatic adenocarcinoma, acute bronchopneumonia, hepatitis C infection, hypertensive and atherosclerotic cv disease",,,,
+Nevada,HDSP,2017,December,2017-12-31,,,,,44,M,B,,,Acute myocardial infarction with multiple myeloma,,,,
+Nevada,NNCC,2017,December,2017-12-11,,,,,70,M,W,,,"E.coli sepsis due to acute peritonitis with Hepatitis C infection with hepatic cirrhosis, metastatic adenocarcinoma of the lung",,,,
+Nevada,NNCC,2017,December,2017-12-06,,,,,61,M,B,,,Complications of lobar pneumonia,,,,
+Nevada,NNCC,2017,December,2017-12-04,,,,,67,M,B,,,"End stage renal disease, hypertensive cardiovascular disease, diabetes and hepatitis C",,,,
+Nevada,NNCC,2017,November,2017-11-30,,,,,56,M,W,,,Hypertensive and atherosclerotic cardiovascular disease,,,,
+Nevada,LCC,2017,November,2017-11-16,,,,,48,M,B,,,Acute myocardial infarction due to thromobosis of left anterior descending coronary artery due to hypertensive and atherosclerotic cardiovascular disease,,,,
+Nevada,NNCC,2017,November,2017-11-05,,,,,46,M,W,,,Suicide by hanging,,,,
+Nevada,FMWCC,2017,October,2017-10-30,,,,,85,F,W,,,Metastatic primary pulmonary carcinoma (small cell variant),,,,
+Nevada,NNCC,2017,October,2017-10-26,,,,,74,M,W,,,Complications of acute pyelonephritis due to chronic obstructive uropathy and benign prostatic hyperplasia and bladder stones,,,,
+Nevada,NNCC,2017,October,2017-10-17,,,,,74,M,B,,,"Complications of metastatic gastric adenocarcinoma with lymphoma, hypertensive and atherosclerotic cardiovascular disease and COPD",,,,
+Nevada,SDCC,2017,September,2017-09-30,,,,,47,M,B,,,Sepsis due to peritonitis due to Non-Hodgkin's B cell lymphoma,,,,
+Nevada,CGTH,2017,September,2017-09-14,,,,,50,M,W,,,Suicide by hanging,,,,
+Nevada,HDSP,2017,September,2017-09-02,,,,,61,M,B,,,"Metastatic pulmonary adenocarcinoma with diabetes mellitus, hypertensive cardiovascular disease and renal failure",,,,
+Nevada,HDSP,2017,August,2017-08-30,,,,,63,M,W,,,Acute bronchopneumonia and metastatic squamous cell carcinoma (NOS),,,,
+Nevada,HDSP,2017,August,2017-08-03,,,,,55,M,W,,,Pneumonia with metastatic squamous cell carcinoma of the tongue and hypertensive and atherosclerotic cardiovascular disease,,,,
+Nevada,NNCC,2017,July,2017-07-27,,,,,75,M,W,,,"Complications of squamous cell carcinoma of the lung, COPD and atherosclerotic cardiovascular disease",,,,
+Nevada,NNCC,2017,July,2017-07-24,,,,,64,M,W,,,Atherosclerotic cardiovascular disease,,,,
+Nevada,HDSP,2017,July,2017-07-22,,,,,46,M,W,,,"Primary squamous cell carcinoma of the right lung, acute respiratory distress syndrome due to infectious pneumonia",,,,
+Nevada,FMWCC,2017,July,2017-07-14,,,,,51,F,W,,,Hemopericardium due to ruptured myocardial infarction (heart attack),,,,
+Nevada,NNCC,2017,June,2017-06-23,,,,,68,M,H,,,Blunt head trauma (homicide per autopsy),,,,
+Nevada,HDSP,2017,June,2017-06-21,,,,,48,M,W,,,Metastatic ampullary high grade neuroendocrine tumor of the pancreas,,,,
+Nevada,NNCC,2017,June,2017-06-19,,,,,64,M,W,,,"Acute peritonitis due to cecal perforation and colonic ileus, CHF, Cirrhosis and COPD",,,,
+Nevada,NNCC,2017,June,2017-06-19,,,,,63,M,B,,,Complications of pyelonephritis,,,,
+Nevada,HDSP,2017,May,2017-05-20,,,,,31,M,B,,,Pulmonary thromboembolism due to deep venous thrombosis,,,,
+Nevada,NNCC,2017,May,2017-05-20,,,,,58,M,W,,,Gastrointestinal hemorrhage due to esophageal varices due to hepatitis C-associated hepatic cirrhosis,,,,
+Nevada,LCC,2017,May,2017-05-10,,,,,65,M,W,,,Acute pneumonia with interstitial lung disease and atherosclerotic cardiovascular disease,,,,
+Nevada,NNCC,2017,May,2017-05-10,,,,,74,M,W,,,"Congestive heart failure, hypertensive and atherosclerotic cardiovascular disease, atrial fibrillation and chronic kidney disease",,,,
+Nevada,NNCC,2017,May,2017-05-09,,,,,77,M,W,,,Congestive heart failure due to aortic valvular heart disease with atherosclerotic and hypertensive cardiovascular disease and COPD,,,,
+Nevada,ESP,2017,April,2017-04-30,,,,,31,M,B,,,Embolic ischemic infarction of the right cerebral hemisphere and multiple mural thrombi of the left ventricle,,,,
+Nevada,NNCC,2017,April,2017-04-29,,,,,63,M,W,,,"Complications of infective endocarditis of the mitral valve and chronic alcoholism, hepatitis C viral infection and ASCVD",,,,
+Nevada,HDSP,2017,April,2017-04-18,,,,,43,M,B,,,"Nasopharyngeal carcinoma, COPD and HIV",,,,
+Nevada,NNCC,2017,April,2017-04-16,,,,,74,M,H,,,"Acute bronchopneumonia , also ASCVD and diabetes mellitus",,,,
+Nevada,NNCC,2017,April,2017-04-14,,,,,72,M,W,,,Complications of metastatic lung cancer,,,,
+Nevada,NNCC,2017,April,2017-04-10,,,,,67,M,A,,,"Massive stroke w/hemorrhagic transformation, acute respiratory failure, chronic systolic heart failure, coronary artery disease, upper GI bleed",,,,
+Nevada,SDCC,2017,March,2017-03-30,,,,,65,M,B,,,Myocardial infarction due to hypertensive and atherosclerotic cardiovascular disease,,,,
+Nevada,HDSP,2017,March,2017-03-27,,,,,56,M,W,,,Coronary atherosclerosis and hypertensive cardiovascular disease.,,,,
+Nevada,NNCC,2017,March,2017-03-21,,,,,84,M,W,,,"Cholangiocarcinoma, COPD,  ASCVD and multiple cerebral infarctions",,,,
+Nevada,NNCC,2017,March,2017-03-19,,,,,78,M,H,,,"Complications of dementia (family requested no autopsy, but autopsy was performed)",,,,
+Nevada,NNCC,2017,March,2017-03-15,,,,,67,M,H,,,"Complications of pulmonary emphysema, also malnutrition and dehydration, atherosclerotic and hypertensive cardiovascular disease",,,,
+Nevada,NNCC,2017,March,2017-03-06,,,,,24,M,H,,,Complications of testicular cancer,,,,
+Nevada,NNCC,2017,February,2017-02-22,,,,,75,M,W,,,"Complications of pneumonia, also atherosclerotic and hypertensive cardiovascular disease, pulmonary embolus and COPD",,,,
+Nevada,CGTH,2017,January,2017-01-30,,,,,53,M,W,,,Atherosclerotic cardiovasuclar disease,,,,
+Nevada,NNCC,2017,January,2017-01-28,,,,,63,M,B,,,"Intracerebral hemorrhage due to hypertensive cardiovascular disease, atherosclerotic cardiovascular disease and emphysema",,,,
+Nevada,HDSP,2017,January,2017-01-20,,,,,53,M,W,,,"Liver failure due to cirrhosis due to viral hepatitis, and hemorrhagic pancreatitis",,,,
+Nevada,NNCC,2017,January,2017-01-19,,,,,74,M,W,,,Complications of left hip fracture,,,,
+Nevada,NNCC,2017,January,2017-01-13,,,,,81,M,W,,,Liver cancer with COPD and hypertensive cardiovascular disease,,,,
+Nevada,ESP,2017,January,2017-01-10,,,,,36,M,B,,,Pneumonia,,,,
+Nevada,FMWCC,2016,December,2016-12-18,,,,,61,F,W,,,Metastatic carcinoma of the breast,,,,
+Nevada,NNCC,2016,December,2016-12-03,,,,,76,M,W,,,Metastatic prostate carcinoma,,,,
+Nevada,HDSP,2016,November,2016-11-19,,,,,56,M,W,,,Hepatic cirrhosis due to Hepatitis C,,,,
+Nevada,NNCC,2016,November,2016-11-10,,,,,73,M,W,,,Congestive heart failure due to arteriosclerotic and hypertensive cardiovascular disease,,,,
+Nevada,HDSP,2016,November,2016-11-10,,,,,72,M,W,,,Hypertensive and arteriosclerotic cardiovascular disease and diabetes mellitus,,,,
+Nevada,NNCC,2016,November,2016-11-02,,,,,57,M,H,,,"Septic shock (family requested no autopsy, but autopsy was performed)",,,,
+Nevada,NNCC,2016,October,2016-10-27,,,,,63,M,W,,,Complications of esophageal carcinoma,,,,
+Nevada,NNCC,2016,October,2016-10-15,,,,,75,M,W,,,Occlusion of right main coronary artery due to atherosclerosis and thrombosis in combination with severe diffuse arteriosclerotic and hypertensive cardiovascular disease,,,,
+Nevada,HDSP,2016,October,2016-10-04,,,,,52,M,W,,,Cirrhosis due to chronic alcoholism and hepatitis.,,,,
+Nevada,NNCC,2016,September,2016-09-28,,,,,28,M,W,,,Suicide by hanging,,,,
+Nevada,NNCC,2016,September,2016-09-20,,,,,59,M,A,,,Hypertensive and arteriosclerotic cardiovascular disease,,,,
+Nevada,CGTH,2016,August,2016-08-11,,,,,44,M,W,,,Hyperthermia/environmental heat stress and hypertensive cardiovascular disease,,,,
+Nevada,NNCC,2016,August,2016-08-05,,,,,44,M,W,,,Metastatic malignant melanoma,,,,
+Nevada,NNCC,2016,July,2016-07-25,,,,,56,M,H,,,Metastatic lung cancer (bronchogenic),,,,
+Nevada,NNCC,2016,July,2016-07-20,,,,,52,M,W,,,Complications of neuroleptic malignant syndrome due to pharmaceutical therapy for schizoaffective disorder,,,,
+Nevada,CGTH,2016,July,2016-07-10,,,,,38,M,AI,,,Methamphetamine intoxication with cardiomegaly and broncho pneumonia,,,,
+Nevada,OSC,2016,July,2016-07-01,,,,,53,M,B,,,,,,,
+Nevada,HDSP,2016,June,2016-06-20,,,,,64,M,W,,,Hypertensive and atherosclerotic cardiovascular disease with Wegener's granulomatosis and pulmonary emphysema,,,,
+Nevada,HDSP,2016,June,2016-06-06,,,,,62,M,W,,,Coronary artery atherosclerosis with poorly differentiated urothelial carcinoma and renal failure,,,,
+Nevada,NNCC,2016,May,2016-05-31,,,,,59,M,W,,,Micronodular hepatic cirrhosis due to chronic ethanol abuse,,,,
+Nevada,NNCC,2016,May,2016-05-25,,,,,35,M,H,,,Stage IV metastatic colon cancer,,,,
+Nevada,NNCC,2016,May,2016-05-17,,,,,43,M,H,,,Bilateral pneumonia,,,,
+Nevada,LCC,2016,May,2016-05-13,,,,,72,M,A,,,End stage liver disease and a severely enlarged and dialated heart,,,,
+Nevada,NNCC,2016,May,2016-05-05,,,,,73,M,W,,,Metastatic adenocarcinoma and squamous cell carcinoma of the lungs,,,,
+Nevada,NNCC,2016,April,2016-04-22,,,,,49,M,H,,,Sepsis due to peritonitis due to ruptured duodenal ulcers. Also hepatic cirrhosis and chronic Hep C.,,,,
+Nevada,NNCC,2016,April,2016-04-17,,,,,63,M,W,,,Metastatic liver cancer,,,,
+Nevada,HDSP,2016,April,2016-04-16,,,,,39,M,W,,,Homicide by multiple stab wounds,,,,
+Nevada,OSC,2016,April,2016-04-12,,,,,44,M,W,,,,,,,
+Nevada,HDSP,2016,March,2016-03-28,,,,,63,M,B,,,"Coronary atherosclerosis, acute myeloid leukemia and acute gram negative sepsis",,,,
+Nevada,HDSP,2016,March,2016-03-23,,,,,45,M,W,,,Suicide by hanging (by autopsy),,,,
+Nevada,NNCC,2016,March,2016-03-20,,,,,86,M,B,,,"Had multiple health issues, including cancer.  (Per Coroner - family requested that no autopsy be performed).",,,,
+Nevada,LCC,2016,March,2016-03-15,,,,,41,M,H,,,Suicide by hanging (by autopsy),,,,
+Nevada,LCC,2016,March,2016-03-05,,,,,61,M,W,,,Hypertensive heart disease,,,,
+Nevada,NNCC,2016,February,2016-02-27,,,,,48,M,W,,,Ulcerative colitis.  Also dilated non-ischermic cardiomyopathy.,,,,
+Nevada,HDSP,2016,February,2016-02-24,,,,,74,M,A,,,Hepatocellular carcinoma.  Also hypertensive cardiovascular disease with focal severe coronary arteriosclerosis.,,,,
+Nevada,NNCC,2016,February,2016-02-21,,,,,51,M,B,,,Renal failure due to polycystic kidney disease.  Also hypertensive heart disease and arteriosclerotic cardiovascular disease.,,,,
+Nevada,TLVCC,2016,February,2016-02-21,,,,,69,M,W,,,Hypertensive and atherosclerotic cardiovascular disease.,,,,
+Nevada,NNCC,2016,February,2016-02-13,,,,,27,M,W,,,Suicide by strangulation.,,,,
+Nevada,NNCC,2016,February,2016-02-12,,,,,65,M,W,,,Pneumonia and sepsis due to chronic obstructive pulmonary disease.  Also asthma.  Expected death.,,,,
+Nevada,LCC,2016,February,2016-02-06,,,,,72,M,AI,,,Cardiomegaly due to aortic valve stenosis and hypertensive cardiovascular disease,,,,
+Nevada,HDSP,2016,February,2016-02-01,,,,,26,M,W,,,Homicide by multiple stab wounds.,,,,
+Nevada,NNCC,2016,January,2016-01-18,,,,,58,M,W,,,Metastatic melanoma.  Expected death.  Had DNR.,,,,
+Nevada,NNCC,2016,January,2016-01-08,,,,,67,M,W,,,Atherosclerotic and hypertensive cardiovascular disease.  Also diabetes mellitus and morbid obesity.,,,,
+Nevada,NNCC,2016,January,2016-01-03,,,,,69,M,B,,,"Complications of metastatic prostate cancer.  Expected death, had DNR.",,,,
+Nevada,NNCC,2015,December,2015-12-29,,,,,72,M,W,,,Atherosclerotic and hypertensive cardiovascular disease.  Also COPD and diabetes. Had DNR.,,,,
+Nevada,HDSP,2015,December,2015-12-26,,,,,35,M,W,,,Systemic sepsis due to chronic sacral decubitus ulceration due to bedrest with fluphenazine tranquilization due to schizophrenia and fetal alcohol syndrome,,,,
+Nevada,NNCC,2015,December,2015-12-26,,,,,42,M,W,,,"Complications of colon cancer.  Expected death, had DNR.",,,,
+Nevada,NNCC,2015,December,2015-12-22,,,,,55,M,W,,,Cardiomegaly associated with arteriosclerotic and hypertensive cardiovascular disease,,,,
+Nevada,SDCC,2015,December,2015-12-19,,,,,63,M,W,,,Coronary Atherosclerosis and dilated cardiomyopathy,,,,
+Nevada,NNCC,2015,December,2015-12-19,,,,,53,M,B,,,Bronchogenic carcinoma in the left lung with metastases to multiple organs.  Had DNR.,,,,
+Nevada,OSC,2015,December,2015-12-18,,,,,85,M,W,,,Out of state confinement.,,,,
+Nevada,NNCC,2015,December,2015-12-12,,,,,64,M,W,,,Stage IV pancreatic cancer.  Also cirrhosis of the liver due to hepatitis C.  Verbal DNR at hospital.,,,,
+Nevada,HDSP,2015,November,2015-11-28,,,,,50,M,W,,,Metastatic urothelial carcinoma,,,,
+Nevada,NNCC,2015,November,2015-11-23,,,,,29,M,B,,,T-cell lymphoma per Death Record. (Family requested no autopsy.  Received death record from WCME).,,,,
+Nevada,NNCC RMF,2015,October,2015-10-23,,,,,31,M,W,,,"Malignant melanoma with numerous metastases.  Expected death, had DNR.",,,,
+Nevada,NNCC RMF,2015,October,2015-10-20,,,,,79,M,H,,,"Atherosclerotic and hypertensive cardiovascular disease.  Also pulmonary emphysema and hepatic cirrhosis contributing.  History of stroke, had pneumonia.  Expected death, had DNR.",,,,
+Nevada,NNCC,2015,October,2015-10-15,,,,,72,M,W,,,Hypertensive cardiovascular disease.  No known medical issues.  Failure to thrive.  Had DNR.,,,,
+Nevada,OSC,2015,October,2015-10-15,,,,,48,M,W,,,Out of state confinement.,,,,
+Nevada,HDSP,2015,October,2015-10-06,,,,,39,M,H,,,Suicide by hanging.,,,,
+Nevada,HDSP,2015,September,2015-09-30,,,,,46,M,B,,,Diabetic ketoacidosis.,,,,
+Nevada,SCC,2015,September,2015-09-29,,,,,55,M,W,,,Heroin intoxication,,,,
+Nevada,NNCC,2015,September,2015-09-24,,,,,67,M,W,,,Acute bronchopneumonia due to emphysema and chronic granulomatous lung disease.,,,,
+Nevada,NNCC MIC,2015,September,2015-09-21,,,,,59,M,W,,,Arteriosclerotic cardiovascular disease with severe coronary artery atherosclerosis.,,,,
+Nevada,NNCC,2015,September,2015-09-14,,,,,69,M,W,,,Hypertensive and arteriosclerotic cardiovascular disease.,,,,
+Nevada,FMWCC,2015,August,2015-08-30,,,,,78,F,W,,,Hypertensive and atherosclerotic cardiovascular disease.,,,,
+Nevada,NNCC RMF,2015,August,2015-08-17,,,,,80,M,W,,,"Metastatic lung cancer.  Also arteriosclerotic cardiovascular disease and COPD. Expected death, had DNR.",,,,
+Nevada,HDSP,2015,August,2015-08-09,,,,,44,M,B,,,"Hypertensive and atherosclerotic cardiovascular disease.  Found unresponsive in cell. Unexpected death, no DNR.",,,,
+Nevada,FMWCC,2015,August,2015-08-04,,,,,45,F,W,,,Metastatic non-small cell pulmonary carcinoma--lung cancer.,,,,
+Nevada,NNCC RMF,2015,July,2015-07-27,,,,,63,M,W,,,Metastatic poorly-differentiated carcinoma involving the esophagus and subcarinal area.,,,,
+Nevada,NNCC,2015,July,2015-07-21,,,,,72,M,W,,,"Chronic obstructive pulmonary disease exacerbated by bilateral necrotizing pneumonia. Failure to thrive.  Expected death, had DNR.",,,,
+Nevada,LCC,2015,June,2015-06-29,,,,,55,M,W,,,Suicide by salicylate intoxication,,,,
+Nevada,NNCC,2015,June,2015-06-19,,,,,28,M,B,,,Asphyxia due to hanging by ligature.,,,,
+Nevada,NNCC RMF,2015,June,2015-06-18,,,,,67,M,B,,,"Liver failure due to liver cirrhosis due to Hep C, and COPD.",,,,
+Nevada,NNCC RMF,2015,June,2015-06-14,,,,,52,M,W,,,"Pulmonary carcinoma with distant metastases, pulmonary emphysema.",,,,
+Nevada,NNCC RMF,2015,June,2015-06-06,,,,,76,M,W,,,"Arteriosclerotic and hypertensive cardiovascular disease.  Unknown at time of death.  Failure to thrive.  Unexpected death, had DNR.",,,,
+Nevada,NNCC RMF,2015,June,2015-06-05,,,,,54,M,W,,,"End Stage Liver Disease due to cirrhosis due to chronic hepatitis. Hepatic encephylopathy. Expected death, had DNR.",,,,
+Nevada,NNCC RMF,2015,June,2015-06-03,,,,,54,M,W,,,Endocarditis of the mitral and aortic valve,,,,
+Nevada,NNCC,2015,May,2015-05-31,,,,,64,M,W,,,Anoxic encephalolopathy due to cardiopulmonary arrest due to cardiomegaly.  Mixed edema.  No DNR.,,,,
+Nevada,NNCC,2015,May,2015-05-27,,,,,77,M,W,,,"Hypertensive cardiovascular disease.  GI bleed, comfort care at CTH, had DNR.",,,,
+Nevada,HDSP,2015,May,2015-05-25,,,,,68,M,W,,,"Stage IV Hodgkins lymphoma, expected death, had DNR.",,,,
+Nevada,SDCC,2015,May,2015-05-24,,,,,56,M,H,,,"Atherosclerotic cardiovascular disease.  Hep C +, unexpected death, no DNR.",,,,
+Nevada,HDSP,2015,May,2015-05-22,,,,,47,M,B,,,Anaplastic thyroid carcinoma.,,,,
+Nevada,NNCC RMF,2015,April,2015-04-15,,,,,84,M,W,,,"Arteriosclerotic cardiovascular disease, failure to thrive and dehydration.  Expected death, had DNR.",,,,
+Nevada,NNCC RMF,2015,April,2015-04-10,,,,,64,M,W,,,Cirrhosis due to hepatitis C.,,,,
+Nevada,NNCC RMF,2015,April,2015-04-08,,,,,60,M,W,,,Cirrhosis due to hepatitis C.,,,,
+Nevada,NNCC,2015,April,2015-04-03,,,,,54,M,W,,,Colorectal carcinoma with metastasis to liver.,,,,
+Nevada,NNCC,2015,March,2015-03-21,,,,,56,M,W,,,Carcinomatosis due to pancreatic cancer.,,,,
+Nevada,NNCC,2015,March,2015-03-17,,,,,49,M,W,,,Liver failure due to liver cirrhosis due to Hepatitis C.,,,,
+Nevada,ESP,2015,March,2015-03-07,,,,,45,M,W,,,"Hanging per autopsy, suicide.",,,,
+Nevada,NNCC,2015,February,2015-02-26,,,,,52,M,W,,,"Met. Prostate cancer, had DNR, expected death.",,,,
+Nevada,HDSP,2015,February,2015-02-05,,,,,60,M,W,,,"Pulmonary emboli due to deep vein thrombosis, multiple squamous cell carcinomas. No DNR.",,,,
+Nevada,HDSP,2015,February,2015-02-02,,,,,60,M,W,,,Metastatic squamous cell carcinoma of the tongue. Organizing pneumonia.,,,,
+Nevada,NNCC,2015,January,2015-01-01,,,,,78,M,W,,,"Hypertensive and arteriosclerotic cardiovascular disease.  Natural causes, failure to thrive, had DNR.",,,,
+Nevada,CLARK,2021,January,2021-01-03,,,"KEENEY, DAVID",,72,M,CAUCASIAN,,,,,,,
+Nevada,WASHOE,2021,January,2021-01-03,,,"LLOYD, CHAUNCHEY",,89,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,January,2021-01-03,,,"LEON, RODOLFO",,69,M,CUBAN,,,,,,,
+Nevada,CLARK,2021,January,2021-01-03,,,"D'AGOSTINO, FRANK",,58,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,January,2021-01-03,,,"DREWRY, WILLIAM",,62,M,AMERICAN INDIAN/ALASKAN NATIVE,,,,,,,
+Nevada,CLARK,2021,January,2021-01-05,,,"WARD, JASON",,77,M,CAUCASIAN,,,,,,,
+Nevada,WASHOE,2021,January,2021-01-05,,,"PACHECO, LOUIS",,75,M,AMERICAN INDIAN/ALASKAN NATIVE,,,,,,,
+Nevada,CLARK,2021,January,2021-01-05,,,"BRADLEY, PHILLIP",,63,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,January,2021-01-09,,,"ZANGHI, PHILIP",,74,M,CAUCASIAN,,,,,,,
+Nevada,WASHOE,2021,January,2021-01-09,,,"BENNETT, GREGORY",,70,M,WHITE,,,,,,,
+Nevada,WASHOE,2021,January,2021-01-10,,,"GATES, RICHARD",,59,M,WHITE,,,,,,,
+Nevada,CLARK,2021,January,2021-01-11,,,"NELSON, MICHAEL",,64,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,January,2021-01-12,,,"LUCKETT, JOHNNY",,54,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,January,2021-01-12,,,"BELL, WILLIAM",,74,M,BLACK,,,,,,,
+Nevada,WASHOE,2021,January,2021-01-13,,,"LIZARES, EDWARD",,74,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,January,2021-01-19,,,"WALLIS, EDDIE",,72,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,January,2021-01-22,,,"VEGA, BERNARDO",,80,M,HISPANIC,,,,,,,
+Nevada,CLARK,2021,January,2021-01-20,,,"BURKETT, NATHANIEL",,74,M,BLACK,,,,,,,
+Nevada,CLARK,2021,January,2021-01-24,,,"VALEZ, CARLOS",,40,M,HISPANIC,,,,,,,
+Nevada,CLARK,2021,January,2021-01-29,,,"MORSE, GEORGE",,91,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,January,2021-01-06,,,"CRUZ, ROJILLIO",,48,M,HISPANIC,,,,,,,
+Nevada,WASHOE,2021,January,2021-01-19,,,"EGBERTO, RICKEY",,65,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,January,2021-01-21,,,"DAUGHTERY, HENRY",,68,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,February,2021-02-09,,,"HARDIN, DWAYNE",,51,M,BLACK,,,,,,,
+Nevada,CLARK,2021,February,2021-02-09,,,"MARSHALL, ROBERT",,75,M,CAUCASIAN,,,,,,,
+Nevada,WASHOE,2021,January,2021-01-12,,,"LEAGUE, MICHAEL",,74,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,January,2021-01-19,,,"WOODARD, WILBUR",,77,M,CAUCASIAN,,,,,,,
+Nevada,WASHOE,2021,February,2021-02-03,,,"CATALANI, ALFRED",,68,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,February,2021-02-14,,,"ASHMAN, DAVID",,73,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,January,2021-01-24,,,"DEARING, CHARLES",,76,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,February,2021-02-27,,,"SNOW, JOHN",,78,M,BLACK,,,,,,,
+Nevada,CLARK,2021,February,2021-02-27,,,"HENDRICKS, WILLIAM",,73,M,BLACK,,,,,,,
+Nevada,CLARK,2021,March,2021-03-04,,,"SCHNABL, TROY",,65,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,March,2021-03-06,,,"DEASE, WESLEY",,59,M,BLACK,,,,,,,
+Nevada,WASHOE,2021,March,2021-03-14,,,"SHARP, ISIAH",,21,M,CAUCASIAN,,,,,,,
+Nevada,LYON,2021,April,2021-04-01,,,"COLLINS, EDWARD",,51,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,April,2021-04-05,,,"HARTER, HAROLD",,56,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,April,2021-04-09,,,"SHAFTER, KENNETH",,49,M,WHITE,,,,,,,
+Nevada,CLARK,2021,April,2021-04-19,,,"MCKENNA, PATRICK",,74,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,May,2021-05-03,,,"LOPEZ, MANUEL",,62,M,HISPANIC,,,,,,,
+Nevada,CLARK,2021,April,2021-04-29,,,"STALLWORTH, VAL",,67,M,BLACK,,,,,,,
+Nevada,CLARK,2021,May,2021-05-15,,,"HILL, PAUL",,62,M,CAUCASIAN,,,,,,,
+Nevada,WASHOE,2021,May,2021-05-20,,,"HAYES, JOSHUA",,33,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,May,2021-05-24,,,"HERNANDEZ, CARLOS",,78,M,HISPANIC,,,,,,,
+Nevada,CLARK,2021,May,2021-05-31,,,"SNIDER, MICHAEL",,77,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,June,2021-06-03,,,"ROGERS, ANTHONY",,70,M,CAUCASIAN,,,,,,,
+Nevada,WASHOE,2021,June,2021-06-14,,,"MILES, RALPH",,54,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,June,2021-06-29,,,"TUTT, EVANS",,36,M,BLACK,,,,,,,
+Nevada,CLARK,2021,July,2021-07-09,,,"CLARK, TERRY",,36,M,BLACK,,,,,,,
+Nevada,CHURCHILL,2021,July,2021-07-25,,,"MONTGOMERY, BRAD",,66,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,July,2021-07-25,,,"PINTO, LILIANA",,35,F,BLACK,,,,,,,
+Nevada,DOUGLAS,2021,July,2021-07-26,,,"HUTCHINSON, MICHAEL",,28,M,AMERICAN INDIAN/ALASKAN NATIVE,,,,,,,
+Nevada,WASHOE,2021,August,2021-08-05,,,"BURROWS, RICHARD",,65,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,August,2021-08-09,,,"HERNANDEZ, RENE",,75,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,August,2021-08-27,,,"GATES, ANDREW",,75,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,September,2021-09-05,,,"NEWTON, JAMES",,67,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,September,2021-09-16,,,"JENKS, RAY",,63,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,October,2021-10-06,,,"HIGHTOWER, ERNEST",,61,M,BLACK,,,,,,,
+Nevada,CLARK,2021,October,2021-10-06,,,"QUILES, SERGIO",,71,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,September,2021-09-16,,,"CAVE, HUGH",,63,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,October,2021-10-08,,,"POELKING, DAVID",,63,M,CAUCASIAN,,,,,,,
+Nevada,CLARK,2021,October,2021-10-17,,,"ARMSTEAD, JOE",,81,M,BLACK,,,,,,,
+Nevada,CLARK,2021,October,2021-10-25,,,"SPRAGGINS, CARLTON",,66,M,BLACK,,,,,,,
+Nevada,WASHOE,2021,November,2021-11-03,,,"CAWLEY, SHAWN",,49,M,WHITE,,,,,,,
+Nevada,CLARK,2021,November,2021-11-06,,,"WEATHERS, TREVIONTE",,28,M,BLACK,,,,,,,
+Nevada,WASHOE,2021,November,2021-11-07,,,"MAGNESS, MICHAEL",,46,M,WHITE,,,,,,,
+Nevada,CLARK,2021,December,2021-12-05,,,"GONZALES, CIPRIANO",,80,M,OTHER,,,,,,,
+Nevada,WASHOE,2021,December,2021-12-11,,,"MEISSNER, JUSTIN",,58,M,WHITE,,,,,,,
+Nevada,CLARK,2021,December,2021-12-13,,,"NEWMAN, ERIC",,45,M,WHITE,,,,,,,
+Nevada,CLARK,2021,December,2021-12-15,,,"JACKSON, MARLAND",,45,M,BLACK,,,,,,,
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,January,2022-01-07,,,"PASCOE, MIGUEL",1243091,,M,WHITE,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,January,2022-01-10,,,"GOICOECHEA, TARIK",79759,,M,WHITE,,,,,,,2022
+,LOVELOCK CORRECTIONAL CENTER,2022,January,2022-01-21,,,"DOZIER, CLARENCE",70664,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,February,2022-02-07,,,"VIRAY, BENJARDI",78787,,M,ASIAN,,,,,,,2022
+,WARM SPRINGS CORRECTIONAL CENTER,2022,February,2022-02-09,,,"NICHOLS, KODY",1241660,,M,WHITE,,,,,,,2022
+,CARSON TAHOE HOSPITAL,2022,February,2022-02-25,,,"MILES, ROBIN",1057676,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,February,2022-02-27,,,"CANTRELL, HERMAN",81065,,M,WHITE,,,,,,,2022
+,OUT OF STATE DEATH,2022,March,2022-03-14,,,"LAURIA,MARK",1066456,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,March,2022-03-17,,,"REXROAT, DENNIS",16509,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,March,2022-03-24,,,"MARINACCIO, JOHN",1145429,,M,WHITE,,,,,,,2022
+,LOVELOCK CORRECTIONAL CENTER,2022,March,2022-03-27,,,"HERMAN,WILLIE",80754,,M,AFRICAN AMERICAN,,,,,,,2022
+,VALLEY HOSPITAL,2022,April,2022-04-07,,,"PHAM, SONY",1247499,,M,ASIAN,,,,,,,2022
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2022,April,2022-04-11,,,"WARREN, JOHN",1201909,,M,WHITE,,,,,,,2022
+,SOUTHERN HILLS HOSPITAL,2022,April,2022-04-22,,,"HERNANDEZ, ESTEBAN",1248671,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,May,2022-05-01,,,"SELZER, KURT",1251361,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,May,2022-05-10,,,"ADORNO, RICHARD",18847,,M,WHITE,,,,,,,2022
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2022,May,2022-05-14,,,"CONWAY, GARY",1093140,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,May,2022-05-15,,,"TAYAG, ALBERTO",53720,,M,ASIAN,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,May,2022-05-15,,,"RANGEL, JAMES",88512,,M,WHITE,,,,,,,2022
+,SUNRISE HOSPITAL,2022,May,2022-05-18,,,"WEBER, TIMMY",76884,,M,WHITE,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,May,2022-05-23,,,"CANO, DANIEL",1057500,,M,AMERICAN INDIAN,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,May,2022-05-26,,,"JEFFERSON, CHRIS",1143085,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,May,2022-05-27,,,"RECKTENWALD, PAUL",56726,,M,WHITE,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,May,2022-05-28,,,"TOM,MICHAEL",1211390,,M,ASIAN,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,May,2022-05-29,,,"RIDOUT, JOHN",54362,,M,WHITE,,,,,,,2022
+,LAKE MEAD HOSPITAL AND MEDICAL CENTER,2022,June,2022-06-08,,,"PINNA,PATRICIA",1030454,,F,WHITE,,,,,,,2022
+,LOVELOCK CORRECTIONAL CENTER,2022,June,2022-06-11,,,"HERMANSEN, BRANDEN",71709,,M,WHITE,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,July,2022-07-02,,,"MILLER, BENJAMIN",1181962,,M,WHITE,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,July,2022-07-08,,,"CASTILLO-ROMERO, JUAN",1254711,,M,WHITE,,,,,,,2022
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2022,July,2022-07-11,,,"SMITH, MICHAEL",1214069,,M,AFRICAN AMERICAN,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,July,2022-07-26,,,"BREWER,ARTHUR",92603,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,August,2022-08-09,,,"AMEZCUA, ERNESTO",1076344,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,August,2022-08-15,,,"DECASTRO, CASTRO",1044526,,M,ASIAN,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,August,2022-08-30,,,"ROBINSON, CASEY",1255312,,M,WHITE,,,,,,,2022
+,SUMMERLIN HOSPITAL,2022,September,2022-09-01,,,"HABERSTROH, RICHARD",25189,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,September,2022-09-06,,,"STEWART, ERNEST",19747,,M,AFRICAN-AMERICAN,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,September,2022-09-07,,,"THOMPSON, DAVID",1188363,,M,WHITE,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,September,2022-09-07,,,"DENT, DERYL",1240216,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,September,2022-09-24,,,"BRIMAGE,DANIEL",12192,,M,WHITE,,,,,,,2022
+,WILLIAM B RIRIE HOSPITAL,2022,September,2022-09-25,,,"ARCHANIAN, AVETIS",85018,,M,WHITE,,,,,,,2022
+,LOVELOCK CORRECTIONAL CENTER,2022,September,2022-09-26,,,"BEAN, ALLEN",42298,,M,WHITE,,,,,,,2022
+,CENTENNIAL HILLS HOSPITAL,2022,September,2022-09-28,,,"AVERY,SHANNON",1246529,,M,AFRICAN AMERICAN,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,September,2022-09-29,,,"HARRIS,MITCHELL",31249,,M,AFRICAN-AMERICAN,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,October,2022-10-09,,,"CAMBA, BENITO",1251621,,M,ASIAN,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,October,2022-10-17,,,"MOSS, PIERRE",1255590,,M,AFRICAN-AMERICAN,,,,,,,2022
+,UMC HOSPITAL,2022,October,2022-10-23,,,"FINGER, FREDERICK",58151,,M,WHITE,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,November,2022-11-03,,,"MILLER, IVAN",18732,,M,WHITE,,,,,,,2022
+,RENOWN REGIONAL MEDICAL CENTER,2022,November,2022-11-12,,,"MATTHEWS, BERT",82220,,M,WHITE,,,,,,,2022
+,CENTENNIAL HILLS HOSPITAL,2022,November,2022-11-27,,,"BURSON, STEVEN",1259968,,M,WHITE,,,,,,,2022
+,NORTHERN NEVADA CORRECTIONAL CENTER,2022,December,2022-12-03,,,"HUFF, EDDIE",88210,,M,WHITE,,,,,,,2022
+,HIGH DESERT STATE PRISON,2022,December,2022-12-05,,,"CANO, MIGUEL",67921,,M,WHITE,,,,,,,2022
+,WILLIAM B RIRIE HOSPITAL,2022,December,2022-12-09,,,"SETTLES, TYREK",1248335,,M,AFRICAN-AMERICAN,,,,,,,2022
+,CENTENNIAL HILLS HOSPITAL,2022,December,2022-12-25,,,"RICH, DUANE",1199609,,M,WHITE,,,,,,,2022
+,HIGH DESERT STATE PRISON,2023,January,2023-01-01,,,"OLIVER, ERNEST",17966,,M,BLACK/AFRICAN AMERICAN,,,,,,,2023
+,INFINITY HOSPICE CARE,2023,January,2023-01-12,,,"FARMER, BILLY",13498,,M,WHITE,,,,,,,2023
+,CENTENNIAL HILLS HOSPITAL,2023,January,2023-01-15,,,"GARCIA, PEDRO",81578,,M,WHITE,,,,,,,2023
+,HIGH DESERT STATE PRISON,2023,January,2023-01-18,,,"CHAVEZ, JAMES",95095,,M,AMERICAN INDIAN/ALASKAN NATIVE,,,,,,,2023
+,SOUTHERN DESERT CORRECTIONAL CENTER,2023,February,2023-02-07,,,"VERDUZCO, VALENTIN",1261889,,M,WHITE,,,,,,,2023
+,LOVELOCK CORRECTIONAL CENTER,2023,February,2023-02-07,,,"SPICHER, PAUL",63640,,M,WHITE,,,,,,,2023
+,HIGH DESERT STATE PRISON,2023,February,2023-02-13,,,"ROSAS, FABIAN",56119,,M,WHITE,,,,,,,2023
+,NORTHERN NEVADA CORRECTIONAL CENTER,2023,February,2023-02-17,,,"STERLING, DANIEL",33465,,M,WHITE,,,,,,,2023
+,NORTHERN NEVADA CORRECTIONAL CENTER,2023,February,2023-02-20,,,"HARDIN, RANDY",73963,,M,WHITE,,,,,,,2023
+,HIGH DESERT STATE PRISON,2023,March,2023-03-02,,,"CAMPIS, FRANK",1199221,,M,WHITE,,,,,,,2023
+,NORTHERN NEVADA CORRECTIONAL CENTER,2023,March,2023-03-06,,,"PITTENGER, PHIL",52739,,M,WHITE,,,,,,,2023
+,NORTHERN NEVADA CORRECTIONAL CENTER,2023,March,2023-03-09,,,"PANCAKE,DANIEL",1169428,,M,WHITE,,,,,,,2023
+,CARSON TAHOE HOSPITAL,2023,March,2023-03-28,,,"STAPP, JAMES",1250378,,M,WHITE,,,,,,,2023
+,HIGH DESERT STATE PRISON,2023,March,2023-03-06,,,"CORWIN, MICHAEL",1264026,,M,WHITE,,,,,,,2023
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2023,April,2023-04-04,,,"SPRINGMAN, STANLEY",53975,,M,WHITE,,,,,,,2023
+,HIGH DESERT STATE PRISON,2023,April,2023-04-14,,,"PACHECO, JASSON",1267608,,M,WHITE,,,,,,,2023
+,NORTHERN NEVADA CORRECTIONAL CENTER,2023,April,2023-04-15,,,"BRATCHER, HAROLD",62028,,M,WHITE,,,,,,,2023
+,HIGH DESERT STATE PRISON,2023,April,2023-04-15,,,"WALKER, CHRISTIAN",60225,,M,WHITE,,,,,,,2023
+,NORTHERN NEVADA CORRECTIONAL CENTER,2023,April,2023-04-25,,,"ZAKOUTO, VITALY",77564,,M,WHITE,,,,,,,2023
+,HIGH DESERT STATE PRISON,2023,May,2023-05-15,,,"BLANKENSHIP,DONALD",74456,,M,WHITE,,,,,,,2023
+,HIGH DESERT STATE PRISON,2023,May,2023-05-19,,,"CAPERONIS,BRIAN",76716,,M,WHITE,,,,,,,2023
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2023,May,2023-05-20,,,"SMITH, JOSEPH",38840,,M,BLACK/AFRICAN AMERICAN,,,,,,,2023
+,WASHOE MEDICAL CENTER,2023,May,2023-05-21,,,"FLOYD, CHRISTOPHER",1046070,,M,WHITE,,,,,,,2023
+,SOUTHERN DESERT CORRECTIONAL CENTER,2023,May,2023-05-23,,,"MCLAUGHLIN, BOBBY",83784,,M,BLACK/AFRICAN AMERICAN,,,,,,,2023
+,HIGH DESERT STATE PRISON,2023,June,2023-06-08,,,"BURNS, JUSTIN",1185693,,M,BLACK/AFRICAN AMERICAN,,,,,,,2023
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2023,June,2023-06-13,,,"BRANHAM, WILLIAM",39519,,M,WHITE,,,,,,,2023
+,CENTENNIAL HILLS HOSPITAL,2023,June,2023-06-22,,,"GARCIA, MICHAEL",1176608,,M,AMERICAN INDIAN/ALASKAN NATIVE,,,,,,,2023
+,ELY STATE PRISON,2023,July,2023-07-11,,,"RUMBLE, MICHAEL",1161135,,M,WHITE,,,,,,,2023
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2023,July,2023-07-28,,,"WHETSTONE, BRANDT",79111,,M,WHITE,,,,,,,2023
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2023,August,2023-08-11,,,"HUNZIKER, MARK",74020,,M,WHITE,,,,,,,2023
+,UNIVERSITY MEDICAL CENTER SOUTHERN NEVADA,2023,August,2023-08-11,,,"BENNETT, HOLLIE",1263420,,M,BLACK/AFRICAN AMERICAN,,,,,,,2023
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2023,August,2023-08-15,,,"THOMAS, DANIEL",77987,,M,WHITE,,,,,,,2023
+,HIGH DESERT STATE PRISON,2023,August,2023-08-20,,,"HUTCHERSON, LATHANIEL",1201660,,M,BLACK/AFRICAN AMERICAN,,,,,,,2023
+,NORTHERN NEVADA CORRECTIONAL CENTER,2023,August,2023-08-27,,,"BUENO, ERIC",1272631,,M,HISPANIC/LATINO,,,,,,,2023
+,PERSHING GENERAL HOSPITAL,2023,August,2023-08-31,,,"JOSEPH, MARTIN",79343,,M,WHITE,,,,,,,2023
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2023,August,2023-08-31,,,"DURRANT, LYNN",1241163,,M,WHITE,,,,,,,2023
+,SOUTHERN DESERT CORRECTIONAL CENTER,2023,September,2023-09-08,,,"LOPEZ-PACHECO, ISMAEL",1262506,,M,WHITE,,,,,,,2023
+,ELY STATE PRISON,2023,September,2023-09-11,,,"MARTIN, WESLIE",1157084,,M,BLACK/AFRICAN AMERICAN,,,,,,,2023
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2023,September,2023-09-21,,,"HODGES, STEVEN",73224,,M,WHITE,,,,,,,2023
+,LOVELOCK CORRECTIONAL CENTER,2023,October,2023-10-21,,,"GALLEGOS, FRANCISCO",1116183,,M,WHITE,,,,,,,2023
+,UNIVERSITY MEDICAL CENTER,2023,October,2023-10-26,,,"VANISI, SIAOSI",63376,,M,PACIFIC ISLANDER/NATIVE  HAWAIIAN,,,,,,,2023
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2023,November,2023-11-12,,,"NAVAS, JULIO",78666,,M,WHITE,,,,,,,2023
+,HIGH DESERT STATE PRISON,2023,November,2023-11-15,,,"CULTON,KYLE",1172259,,M,WHITE,,,,,,,2023
+,UNIVERSITY MEDICAL CENTER,2023,December,2023-12-12,,,"JIMENEZ, CESAR",1237978,,M,WHITE,,,,,,,2023
+,SOUTHERN DESERT CORRECTIONAL CENTER,2023,December,2023-12-28,,,"ODALE, PATRICK",1266243,,M,WHITE,,,,,,,2023
+,NORTHERN NEVADA CORRECTIONAL CENTER,2023,December,2023-12-28,,,"ROBUSTELLI, JOSEPH",1110634,,M,WHITE,,,,,,,2023
+,SUNRISE HOSPITAL,2024,January,2024-01-08,,,"MCNAIR, DEANDRE",1223825,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,January,2024-01-08,,,"FRANCISCO, WESLEY",1262895,,M,WHITE,,,,,,,2024
+,HIGH DESERT STATE PRISON,2024,January,2024-01-12,,,"HINES, TERRY",27397,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,SOUTHERN HILLS HOSPITAL,2024,January,2024-01-14,,,"LOPEZ, KENNETH",1231554,,M,AMERICAN INDIAN/ ALASKAN NATIVE,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,January,2024-01-19,,,"SKROPETA, MARTIN",1153252,,M,WHITE,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,January,2024-01-24,,,"KING, MICHAEL",1202271,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,SUNRISE HOSPITAL,2024,January,2024-01-26,,,"CORLETT, MARK",1257281,,M,WHITE,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,February,2024-02-03,,,"ROSENBERG, DANIEL",80078,,M,WHITE,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,February,2024-02-04,,,"JACOBSON, ANDREW",14241,,M,WHITE,,,,,,,2024
+,CENTENNIAL HILLS HOSPITAL,2024,February,2024-02-06,,,"STRADLEY, MARK",75367,,M,WHITE,,,,,,,2024
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2024,February,2024-02-27,,,"BUMPUS, JAMES",1236410,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2024,March,2024-03-09,,,"TREADWAY, KENNETH",1174078,,M,WHITE,,,,,,,2024
+,HIGH DESERT STATE PRISON,2024,March,2024-03-14,,,"ENRIQUE, MIGUEL",87839,,M,WHITE,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,March,2024-03-17,,,"MAPEL, RONALD",48463,,M,WHITE,,,,,,,2024
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2024,March,2024-03-21,,,"BROWN, JEFFREY",1200868,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,UNIVERSITY MEDICAL CENTER,2024,March,2024-03-25,,,"VONTOBEL, GERALD",86814,,M,WHITE,,,,,,,2024
+,UNIVERSITY MEDICAL CENTER,2024,March,2024-03-25,,,"DAY, ROBERT",69140,,M,WHITE,,,,,,,2024
+,ELY STATE PRISON,2024,April,2024-04-16,,,"TALAVERA, ANTONIO",1278912,,M,WHITE,,,,,,,2024
+,HIGH DESERT STATE PRISON,2024,April,2024-04-17,,,"POSEY, ANTHONY",1091115,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,NARCISCO CENTENNIAL HILLS  HOSPITAL,2024,April,2024-04-24,,,"TORRES,  NARCISCO",87862,,M,OTHER/ UNKNOWN,,,,,,,2024
+,SOUTHERN HILLS HOSPITAL,2024,May,2024-05-01,,,"RICHARD, ROY",78779,,M,WHITE,,,,,,,2024
+,SUNRISE HOSPITAL,2024,May,2024-05-13,,,"PATTON, KENNETH",1039982,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,ELY STATE PRISON,2024,May,2024-05-30,,,"BELCHER, NORMAN",86113,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2024,June,2024-06-07,,,"PUTNEY, DAVID",1246585,,M,WHITE,,,,,,,2024
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2024,June,2024-06-09,,,"MINARD, CRAIG",61046,,M,WHITE,,,,,,,2024
+,HIGH DESERT STATE PRISON,2024,June,2024-06-14,,,"LAMBETH, JACOB",77414,,M,WHITE,,,,,,,2024
+,FLORENCE MCCLURE WOMENS CORRECTIONAL CENTER,2024,June,2024-06-20,,,"CORNISH, ANGELIQUE",65457,,F,WHITE,,,,,,,2024
+,THREE LAKES VALLEY CONSERVATION CAMP,2024,July,2024-07-02,,,"CALDERON, JAIME",86561,,M,WHITE,,,,,,,2024
+,HIGH DESERT STATE PRISON,2024,,,,,"ORLANDO, JAIME",17433,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,July,2024-07-20,,,"GUARDADO, JOSE",1149185,,M,WHITE,,,,,,,2024
+,FLORENCE MCCLURE WOMENS CORRECTIONAL CENTER,2024,July,2024-07-30,,,"CHAPLIN, BRIDGETTE",90155,,F,WHITE,,,,,,,2024
+,ELY STATE PRISON,2024,July,2024-07-30,,,"BROWN, CONNOR",1244055,,M,WHITE,,,,,,,2024
+,ELY STATE PRISON,2024,July,2024-07-30,,,"LUZ, ZACKARIA",1061930,,M,WHITE,,,,,,,2024
+,ELY STATE PRISON,2024,July,2024-07-30,,,"WILLIAMS, ANTHONY",1011920,,M,WHITE,,,,,,,2024
+,FLORENCE MCCLURE WOMENS CORRECTIONAL CENTER,2024,August,2024-08-02,,,"EMSLANDER, KASANDRA",1236798,,F,WHITE,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,August,2024-08-30,,,"GASTON, GARY",1108611,,M,WHITE,,,,,,,2024
+,INFINITY HOSPICE,2024,September,2024-09-06,,,"MOORE, LAKETHA",1118267,,F,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,HIGH DESERT STATE PRISON,2024,September,2024-09-16,,,"CRUZ, JOSE",1077626,,M,OTHER,,,,,,,2024
+,SOUTHERN DESERT CORRECTIONAL CENTER,2024,September,2024-09-17,,,"HARRIS, MICHAEL",77863,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,N/A,2024,September,2024-09-23,,,"WATSON, JOHN",1056286,,M,WHITE,,,,,,,2024
+,INFINITY HOSPICE,2024,October,2024-10-03,,,"PALMER, STEPHEN",1070812,,M,WHITE,,,,,,,2024
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2024,October,2024-10-04,,,"HARKINS, JERRY",85126,,M,WHITE,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,October,2024-10-07,,,"WRIGHT, VICTOR",28963,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,October,2024-10-20,,,"TELLIS, CALVIN",24466,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,UNIVERSITY MEDICAL CENTER,2024,November,2024-11-05,,,"BONAVITA, STEVEN",1277166,,M,WHITE,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,November,2024-11-06,,,"HOLLETT, DAVID",50285,,M,WHITE,,,,,,,2024
+,HIGH DESERT STATE PRISON,2024,November,2024-11-07,,,"URBAN, HAWK",1225009,,M,AMERICAN INDIAN/ ALASKAN NATIVE,,,,,,,2024
+,HIGH DESERT STATE PRISON,2024,November,2024-11-29,,,"BORDEN, FREDRICK",55252,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,HIGH DESERT STATE PRISON,2024,December,2024-12-04,,,"ROBERSON, NHIYJE",1233039,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2024,December,2024-12-04,,,"REESE, QUINTON",1206165,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,December,2024-12-12,,,"LEWIS, JOHNATHAN",1154344,,M,BLACK/ AFRICAN AMERICAN,,,,,,,2024
+,LOVELOCK CORRECTIONAL CENTER,2024,December,2024-12-14,,,"QUINONES, ANTHONY",1020365,,M,WHITE,,,,,,,2024
+,CARSON TAHOE REGIONAL MEDICAL CENTER,2024,December,2024-12-24,,,"REDMAN, WILLIAM",1068064,,M,WHITE,,,,,,,2024
+,NORTHERN NEVADA CORRECTIONAL CENTER,2024,December,2024-12-30,,,"DUNCAN, TOMMY",48951,,M,WHITE,,,,,,,2024

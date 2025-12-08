@@ -1,0 +1,117 @@
+State,Facility,Year,Month,Death.Date,First.Name,Last.Name,Full.Name,ID.No,Death.Age,Sex,Race,Ethnicity,Circumstance.General,Circumstance.Specific,Circumstance.Other,DOB,Birth.Year,source_year
+South Dakota,SDP,2013,March,2013-03-09,,,,,48,M,White,,Natural,,,,,
+South Dakota,SDP,2013,May,2013-05-15,,,,,64,M,White,,Natural,,,,,
+South Dakota,SDP,2013,August,2013-08-22,,,,,65,M,White,,Natural,,,,,
+South Dakota,PIR,2013,August,2013-08-23,,,,,63,F,White,,Natural,,,,,
+South Dakota,JPA,2013,September,2013-09-25,,,,,45,M,Hispanic,,Accidental,,,,,
+South Dakota,JPA,2013,December,2013-12-01,,,,,53,M,Black,,Natural,,,,,
+South Dakota,JPA,2013,December,2013-12-05,,,,,75,M,White,,Natural,,,,,
+South Dakota,JPA,2013,December,2013-12-17,,,,,43,M,White,,Natural,,,,,
+South Dakota,SDP,2014,January,2014-01-22,,,,,54,M,Hispanic,,Natural,,,,,
+South Dakota,PIR,2014,February,2014-02-23,,,,,33,F,White,,Suicide,,,,,
+South Dakota,SDP,2014,July,2014-07-14,,,,,46,M,White,,Natural,,,,,
+South Dakota,DSP,2014,September,2014-09-03,,,,,59,M,White,,Natural,,,,,
+South Dakota,JPA,2014,September,2014-09-04,,,,,44,M,White,,Suicide,,,,,
+South Dakota,JPA,2014,September,2014-09-08,,,,,37,M,White,,Homicide,,,,,
+South Dakota,YKT,2014,September,2014-09-18,,,,,72,M,White,,Natural,,,,,
+South Dakota,SDP,2015,February,2015-02-16,,,,,60,M,White,,NATURAL,,,,,
+South Dakota,JPA,2015,March,2015-03-26,,,,,56,M,White,,NATURAL,,,,,
+South Dakota,DSP,2015,April,2015-04-15,,,,,73,M,White,,NATURAL,,,,,
+South Dakota,JPA,2015,July,2015-07-30,,,,,69,M,White,,NATURAL,,,,,
+South Dakota,DSP,2015,September,2015-09-01,,,,,67,M,White,,NATURAL,,,,,
+South Dakota,JPA,2015,November,2015-11-07,,,,,23,M,Native American,,SUICIDE,,,,,
+South Dakota,JPA,2015,December,2015-12-14,,,,,70,M,White,,NATURAL,,,,,
+South Dakota,JPA,2016,April,2016-04-29,,,,,63,M,White,,NATURAL,,,,,
+South Dakota,PIR,2016,May,2016-05-05,,,,,38,F,Native American,,NATURAL,,,,,
+South Dakota,JPA,2016,May,2016-05-27,,,,,54,M,White,,NATURAL,,,,,
+South Dakota,SDP,2016,September,2016-09-09,,,,,25,M,White,,SUICIDE,,,,,
+South Dakota,JPA,2016,October,2016-10-24,,,,,55,M,White,,NATURAL,,,,,
+South Dakota,JPA,2017,January,2017-01-06,,,,,56,M,White,,NATURAL,,,,,
+South Dakota,JPA,2017,January,2017-01-12,,,,,46,M,Native American,,SUICIDE,,,,,
+South Dakota,SDP,2017,March,2017-03-12,,,,,71,M,Native American,,NATURAL,,,,,
+South Dakota,DSP,2017,March,2017-03-19,,,,,62,M,White,,NATURAL,,,,,
+South Dakota,DSP,2017,May,2017-05-21,,,,,58,M,White,,NATURAL,,,,,
+South Dakota,JPA,2017,May,2017-05-28,,,,,26,M,Native American,,NATURAL,,,,,
+South Dakota,JPA,2017,October,2017-10-07,,,,,82,M,White,,NATURAL,,,,,
+South Dakota,JPA,2017,October,2017-10-14,,,,,54,M,Native American,,ACCIDENT,,,,,
+South Dakota,JPA,2017,December,2017-12-01,,,,,72,M,White,,NATURAL,,,,,
+South Dakota,JPA,2017,December,2017-12-21,,,,,75,M,White,,NATURAL,,,,,
+South Dakota,JPA,2017,December,2017-12-24,,,,,46,M,Native American,,NATURAL,,,,,
+South Dakota,JPA,2017,December,2017-12-28,,,,,45,M,Native American,,NATURAL,,,,,
+South Dakota,SDP,2018,January,2018-01-07,,,,,79,M,White,,NATURAL,,,,,
+South Dakota,JPA,2018,January,2018-01-24,,,,,65,M,Native American,,NATURAL,,,,,
+South Dakota,SDP,2018,February,2018-02-22,,,,,26,M,Hispanic or Latino,,SUICIDE,,,,,
+South Dakota,DSP,2018,June,2018-06-18,,,,,63,M,White,,NATURAL,,,,,
+South Dakota,SDP,2018,June,2018-06-22,,,,,46,M,Native American,,NATURAL,,,,,
+South Dakota,JPA,2018,September,2018-09-18,,,,,73,F,White,,NATURAL,,,,,
+South Dakota,SDP,2018,October,2018-10-29,,,,,56,M,White,,EXECUTION,,,,,
+South Dakota,JPA,2018,November,2018-11-19,,,,,72,M,White,,NATURAL,,,,,
+South Dakota,PRE,2019,March,2019-03-18,,,,,41,F,Native American,,NATURAL,,,,,
+South Dakota,SDP,2019,April,2019-04-12,,,,,63,M,White,,NATURAL,,,,,
+South Dakota,YKT,2019,April,2019-04-16,,,,,52,M,White,,NATURAL,,,,,
+South Dakota,JPA,2019,April,2019-04-17,,,,,67,M,White,,NATURAL,,,,,
+South Dakota,JPA,2019,June,2019-06-22,,,,,45,M,White,,NATURAL,,,,,
+South Dakota,JPA,2019,August,2019-08-06,,,,,55,M,White,,NATURAL,,,,,
+South Dakota,JPA,2019,August,2019-08-18,,,,,65,M,White,,NATURAL,,,,,
+South Dakota,JPA,2019,September,2019-09-15,,,,,60,M,Native American,,NATURAL,,,,,
+South Dakota,SDP,2019,September,2019-09-29,,,,,42,M,White,,NATURAL,,,,,
+South Dakota,JPA,2019,October,2019-10-17,,,,,64,M,White,,NATURAL,,,,,
+South Dakota,JPA,2019,October,2019-10-23,,,,,49,M,White,,NATURAL,,,,,
+South Dakota,SDP,2019,November,2019-11-04,,,,,63,M,White,,EXECUTION,,,,,
+South Dakota,JPA,2019,December,2019-12-01,,,,,82,M,White,,NATURAL,,,,,
+South Dakota,JPA,2019,December,2019-12-16,,,,,46,M,Native American,,NATURAL,,,,,
+South Dakota,SDP,2020,January,2020-01-03,,,,,67,M,White,,SUICIDE,,,,,
+South Dakota,SDP,2020,February,2020-02-01,,,,,68,M,White,,NATURAL,,,,,
+South Dakota,JPA,2020,May,2020-05-31,,,,,44,M,Native American,,NATURAL,,,,,
+South Dakota,JPA,2020,August,2020-08-14,,,,,67,M,White,,NATURAL,,,,,
+South Dakota,DSP,2020,October,2020-10-30,,,,,60,M,White,,NATURAL,,,,,
+South Dakota,DSP,2020,November,2020-11-04,,,,,62,M,White,,NATURAL,,,,,
+South Dakota,DSP,2020,November,2020-11-08,,,,,73,M,White,,NATURAL,,,,,
+South Dakota,JPA,2020,November,2020-11-17,,,,,78,M,White,,NATURAL,,,,,
+South Dakota,JPA,2020,November,2020-11-21,,,,,69,M,Native American,,NATURAL,,,,,
+South Dakota,SDP,2020,December,2020-12-10,,,,,55,M,Native American,,NATURAL,,,,,
+South Dakota,SFC,2020,December,2020-12-12,,,,,52,M,Native American,,NATURAL,,,,,
+South Dakota,PRE,2021,March,2021-03-16,,,,,32,F,White,,SUICIDE,,,,,
+South Dakota,SDP,2021,March,2021-03-27,,,,,23,M,White,,SUICIDE,,,,,
+South Dakota,SDP,2021,March,2021-03-30,,,,,70,M,White,,NATURAL,,,,,
+South Dakota,SDP,2021,April,2021-04-03,,,,,25,M,Native American,,SUICIDE,,,,,
+South Dakota,YKT,2021,April,2021-04-11,,,,,58,M,White,,NATURAL,,,,,
+South Dakota,JPA,2021,July,2021-07-01,,,,,56,M,White,,NATURAL,,,,,
+South Dakota,SFC,2021,September,2021-09-16,,,,,70,M,White,,NATURAL,,,,,
+South Dakota,JPA,2021,November,2021-11-12,,,,,61,M,Native American,,NATURAL,,,,,
+South Dakota,SDP,2021,December,2021-12-06,,,,,65,M,White,,NATURAL,,,,,
+South Dakota,DSP,2021,December,2021-12-26,,,,,71,M,White,,NATURAL,,,,,
+South Dakota,JPA,2022,February,2022-02-12,,,,,30,,Native American,,DEATH - NATURAL/MEDICAL,,,,,2022
+South Dakota,SDP,2022,March,2022-03-12,,,,,68,,White,,DEATH - NATURAL/MEDICAL,,,,,2022
+South Dakota,SFC,2022,April,2022-04-01,,,,,42,,White,,DEATH - NATURAL/MEDICAL,,,,,2022
+South Dakota,DSP,2022,June,2022-06-20,,,,,51,,White,,DEATH - NATURAL/MEDICAL,,,,,2022
+South Dakota,SDP,2022,June,2022-06-22,,,,,60,,White,,DEATH - NATURAL/MEDICAL,,,,,2022
+South Dakota,JPA,2022,July,2022-07-14,,,,,60,,White,,DEATH - SUICIDE,,,,,2022
+South Dakota,DSP,2022,July,2022-07-31,,,,,56,,White,,DEATH - NATURAL/MEDICAL,,,,,2022
+South Dakota,SDP,2022,August,2022-08-04,,,,,30,,White,,DEATH - ACCIDENTAL,,,,,2022
+South Dakota,DSP,2022,September,2022-09-19,,,,,40,,Native American,,DEATH - SUICIDE,,,,,2022
+South Dakota,JPA,2022,October,2022-10-20,,,,,31,,Native American,,DEATH - SUICIDE,,,,,2022
+South Dakota,DSP,2022,November,2022-11-26,,,,,68,,White,,DEATH - NATURAL/MEDICAL,,,,,2022
+South Dakota,SDP,2022,December,2022-12-08,,,,,78,,White,,DEATH - ACCIDENTAL,,,,,2022
+South Dakota,SDP,2022,December,2022-12-19,,,,,63,,White,,DEATH - NATURAL/MEDICAL,,,,,2022
+South Dakota,JPA,2022,December,2022-12-23,,,,,79,,White,,DEATH - NATURAL/MEDICAL,,,,,2022
+South Dakota,JPA,2023,January,2023-01-29,,,,,61,,White,,DEATH - NATURAL/MEDICAL,,,,,2023
+South Dakota,SDP,2023,July,2023-07-01,,,,,76,,White,,DEATH - NATURAL/MEDICAL,,,,,2023
+South Dakota,JPA,2023,July,2023-07-07,,,,,41,,Black,,DEATH - NATURAL/MEDICAL,,,,,2023
+South Dakota,JPA,2023,July,2023-07-17,,,,,57,,White,,DEATH - NATURAL/MEDICAL,,,,,2023
+South Dakota,JPA,2023,July,2023-07-29,,,,,60,,White,,DEATH-NATURAL/MEDICAL,,,,,2023
+South Dakota,JPA,2023,August,2023-08-19,,,,,64,,Native American,,DEATH-NATURAL/MEDICAL,,,,,2023
+South Dakota,JPA,2023,October,2023-10-10,,,,,79,,White,,DEATH-NATURAL/MEDICAL,,,,,2023
+South Dakota,JPA,2023,November,2023-11-05,,,,,66,,White,,DEATH-NATURAL/MEDICAL,,,,,2023
+South Dakota,SDSP,2024,January,2024-01-10,,,,,30,,W,,Suicide,,,,,2024
+South Dakota,JPA,2024,February,2024-02-18,,,,,64,,W,,Natural,,,,,2024
+South Dakota,JPA,2024,March,2024-03-22,,,,,77,,W,,Natural,,,,,2024
+South Dakota,SDSP,2024,April,2024-04-13,,,,,51,,,,Natural,,,,,2024
+South Dakota,SDSP,2024,April,2024-04-22,,,,,47,,W,,Natural,,,,,2024
+South Dakota,JPA,2024,May,2024-05-26,,,,,69,,W,,Natural,,,,,2024
+South Dakota,JPA,2024,July,2024-07-13,,,,,70,,W,,Accident,,,,,2024
+South Dakota,MDSP,2024,July,2024-07-24,,,,,67,,W,,Natural,,,,,2024
+South Dakota,MDSP,2024,August,2024-08-18,,,,,86,,W,,Natural,,,,,2024
+South Dakota,JPA,2024,September,2024-09-09,,,,,66,,W,,Natural,,,,,2024
+South Dakota,JPA,2024,October,2024-10-29,,,,,26,,,,Suicide,,,,,2024
+South Dakota,SDSP,2024,December,2024-12-19,,,,,67,,W,,Natural,,,,,2024
