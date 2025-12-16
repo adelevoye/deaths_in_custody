@@ -27,7 +27,6 @@ These datasets expand upon prior 2019–2021 data, adding standardized counts an
 -   Open **Crosswalks/** to see how facility names and IDs were standardized across states.
 -   Go to **Documents/** for state-by-state source guides and example records.
 -   Each state folder in **Documents/** includes a short **source guide** and **example files** showing what the data looks like.
--   Open **deaths_in_custody.Rproj** to launch the project in RStudio.
 
 # Methodology
 
