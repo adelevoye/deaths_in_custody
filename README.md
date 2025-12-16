@@ -167,12 +167,16 @@ Because several states and federal agencies require attribution when their data 
 ------------------------------------------------------------------------
 
 ### Alabama
-Alabama Department of Corrections. (2021–2024). *Code of Alabama §14-1-24—Quarterly reports (Fiscal Years 2021–2024).*  
+Alabama Department of Corrections. (2021). *Code of Alabama §14-1-24—Monthly reports (Fiscal Year 2021).*  
+Research and Planning Division, Joint Legislative Prison Oversight Committee.  
+https://doc.alabama.gov/statreports.aspx
+
+Alabama Department of Corrections. (2022–2025). *Code of Alabama §14-1-24—Quarterly reports (Fiscal Years 2022–2025).*  
 Research and Planning Division, Joint Legislative Prison Oversight Committee.  
 https://doc.alabama.gov/statreports.aspx
 
 ### Florida
-Florida Department of Corrections. (2020). *Inmate mortality statistics.*  
+Florida Department of Corrections. (2025). *Inmate mortality statistics.*  
 https://www.fdc.myflorida.com/statistics-and-publications/inmate-mortality#mortality_graph
 
 ### Hawaii
@@ -195,6 +199,10 @@ Minnesota Department of Corrections.
   https://mn.gov/doc/assets/2023%20Health%20and%20Safety%20in%20Correctional%20Facilities_tcm1089-609949.pdf
 - 2024 report:  
   https://www.lrl.mn.gov/docs/2025/mandated/250306.pdf
+
+### Missouri 
+Scott, I. (2025, December 12). *Missouri prison system comprehensive death data release: How to access the state prison death dataset*. 
+The Marshall Project. https://www.themarshallproject.org/2025/12/12/missouri-state-prison-death-data-access
 
 ### New York
 Correctional Association of New York. (n.d.).  
