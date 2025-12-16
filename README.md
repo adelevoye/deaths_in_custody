@@ -46,26 +46,6 @@ Where information on deaths in prisons was not publicly available through an age
 -   Type of death (e.g., suicide, homicide, accident, drugs/alcohol, illness, other);
 -   Additional details about death including circumstances, cause of death, and/or details of illness (if illness is listed as type of death).
 
-### External Data
-
-| Dataset | Source | Description |
-|------------------|-----------------------|-------------------------------|
-| `msfp0119stt14.csv` | BJS, MCI Reports (2000-2019) | Totals of deaths of state and federal prisoners (unprocessed) |
-| `msfp0119stt14_cleaned.csv` | BJS, MCI Reports (2000-2019) | Same as above, processed for easy loading and comparison |
-| `p20stt09.csv` | BJS, NPS Reports (2019-2020) | Releases of state and federal sentenced prisoners (unprocessed) |
-| `p222stt09.csv` | BJS, NPS Reports (2022-2023) | Releases of state and federal sentenced prisoners (unprocessed) |
-| `p20stt09_cleaned.csv` | BJS, NPS Reports (2019-2020) | Same as above, processed for easy loading and comparison |
-| `vera_pjp_s2021_appendix.csv` | Vera, People in Prisons and Jails Spr 2021 | Counts of state and federal prisoners |
-| `hifld_prison_boundaries_2022.csv` | DHS, HIFLD Prison Boundaries Data | DHS ensus of carceral facilities conducted |
-
-### Documents
-
-This folder contains documentation for how the project obtained data for each state prison system. 
-Sub-folders for each state contain a R Markdown file describing how it obtained the data, what variables are present in the data, 
-and how to load and compare annual aggregates from the data with past MCI reports from BJS.
-
-`Example` folders contain raw unprocessed versions of the documents / data sources used to create the datasets in the `Raw` folder.
-
 ### Potential Death Variables
 
 | Variable | Description |
@@ -105,6 +85,26 @@ custodial death investigations please see the following resources.
 > Nick Shapiro, Terrence Keel. *Natural Causes? 58 Autopsies Prove Otherwise*. UCLA Carceral Ecologies Lab, <https://ucla.app.box.com/s/sv54jmxhmq19kqifpakh4jfu3vnmhbqt/file/974263270262>
 
 > Roger Mitchell Jr., Jay Aronson. *Death in Custody: How America Ignores the Truth and What We Can Do About It*. Johns Hopkins University Press, <https://www.press.jhu.edu/books/title/12925/death-custody>
+
+### Documents
+
+This folder contains documentation for how the project obtained data for each state prison system. 
+Sub-folders for each state contain a R Markdown file describing how it obtained the data, what variables are present in the data, 
+and how to load and compare annual aggregates from the data with past MCI reports from BJS.
+
+`Example` folders contain raw unprocessed versions of the documents / data sources used to create the datasets in the `Raw` folder.
+
+### External Data
+
+| Dataset | Source | Description |
+|------------------|-----------------------|-------------------------------|
+| `msfp0119stt14.csv` | BJS, MCI Reports (2000-2019) | Totals of deaths of state and federal prisoners (unprocessed) |
+| `msfp0119stt14_cleaned.csv` | BJS, MCI Reports (2000-2019) | Same as above, processed for easy loading and comparison |
+| `p20stt09.csv` | BJS, NPS Reports (2019-2020) | Releases of state and federal sentenced prisoners (unprocessed) |
+| `p222stt09.csv` | BJS, NPS Reports (2022-2023) | Releases of state and federal sentenced prisoners (unprocessed) |
+| `p20stt09_cleaned.csv` | BJS, NPS Reports (2019-2020) | Same as above, processed for easy loading and comparison |
+| `vera_pjp_s2021_appendix.csv` | Vera, People in Prisons and Jails Spr 2021 | Counts of state and federal prisoners |
+| `hifld_prison_boundaries_2022.csv` | DHS, HIFLD Prison Boundaries Data | DHS ensus of carceral facilities conducted |
 
 ## Citations
 
