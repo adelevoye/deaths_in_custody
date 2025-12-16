@@ -46,77 +46,17 @@ Where information on deaths in prisons was not publicly available through an age
 -   Type of death (e.g., suicide, homicide, accident, drugs/alcohol, illness, other);
 -   Additional details about death including circumstances, cause of death, and/or details of illness (if illness is listed as type of death).
 
-As of December 2022, the project has gathered records on all-cause deaths in all state prison systems and the Bureau of Prisons (BoP). The project has gathered complete data up to the end of 2020 for 49 states and the BoP. Agencies provided different intervals of data on deaths in their facilities. Most state agencies, 42 in total, and the BoP, provided ‘individual-level’ data, meaning records that provide a specific date for each death. In many cases, other variables are tied to that death, like the name, race, or housing facility of the individual. Six states provided data on prison deaths that were aggregated on a monthly basis. Two agencies provided data that were aggregated on an annual basis.
-
-Agencies also provided different variables for reported prison deaths. Twenty-seven states provided a name for individual deaths in their prisons. Forty-three states provided the facilities in which deaths occurred. Twenty-nine states provided the sex of decedents, and twenty-three states provided the race of decedents. Thirty-seven states provided descriptions of circumstances of deaths. The project has created a [summary sheet](https://docs.google.com/spreadsheets/d/10STQkTWb3uW_CXVLmVZ5GQ6ppsRmMBZ2y1yd5_eclSI/edit#gid=0) demonstrating which variables are available by prison agency. As the project collects more data, it will update this sheet accordingly.
-
-## Types of Manipulation Conducted on Raw Data During Standardization and Analysis (2019-2021 Data)
-
-Agency records on deaths in custody were processed from pdfs, xlsx, csv, and jpgs. Records were made machine-readable using R and Adobe. Unprocessed records are maintained in the `Documents` folder.
-
-As the project conducted data validation efforts it made decisions as to how to present data that may include differences with prior BJS reports due to the type of data provided to the project, issues with agency reporting to BJS, and agencies managing facilities other than prisons (e.g. jails in a unified system).
-
-Reasons for differences and manipulation steps:
-
-| Prison Agency | Reasons for Differences | Manipulation Made |
-|------------------|-------------------------------------|------------------|
-| California | Undetermined | None |
-| Colorado | CDOC reported more types of deaths to BJS than deaths in CO prisons (i.e. fugitives, supervision programs) | None |
-| Florida | Problem with listed date of death for roster data source | Different data source used |
-| Georgia | Undetermined | None |
-| Hawaii | Issue in agency reporting to BJS - Agency is correcting this issue | None |
-| Louisiana | Potentially differences in LDPS reporting post-conviction deaths in jails - see Incarceration Transparency | None |
-| Maryland | MDPS also provided deaths in 'Home Detention Units' and pre-trial facilities | Observations removed |
-| Missouri | Undetermined | None |
-| Nevada | Undetermined | None |
-| Oklahoma | Undetermined | None |
-| Oregon | Issue in agency reporting to BJS | None |
-| Pennsylvania | Undetermined | None |
-| Texas | Potentially differences in which facility deaths are reported to BJS - see Texas Justice Initiative | None |
-| West Virginia | WVDCR oversees prisons and jails - when jails are removed, annual totals are more similar | Jail observations removed |
-
-Other manipulation steps taken to limit primary repository data to prison / post-conviction facilities:
-
-| Prison Agency | Reasons for Manipulation | Mainuplation Made |
-|------------------|-------------------------------------|------------------|
-| California | Deaths in California Jails are available from the CA DoJ | Observations removed |
-| New Hampshire | Deaths in Secure Psychiatric Facilities Included | Observations removed |
-| New Jersey | Deaths in Special Treatment Units Included | Observations removed |
-
-Note on deaths due to executions: Reported deaths due to execution are not removed from prepared data files and are included in summary statistics for agencies located in the `Output` folder. For more information on deaths due to execution in the U.S., please see the Death Penalty Information Center [(link to database)](https://deathpenaltyinfo.org/executions/execution-database), which is also reproduced in the `Other` sub-folder in the `Data` folder.
-
-### Data
-
-This folder contains four sub-folders: `External`, `Other`, `Output`, and `Raw`.
-
-The `External` sub-folder contains archived datasets from the Bureau of Justice Statistics and the Vera Institute of Justice.
+### External Data
 
 | Dataset | Source | Description |
 |------------------|-----------------------|-------------------------------|
 | `msfp0119stt14.csv` | BJS, MCI Reports (2000-2019) | Totals of deaths of state and federal prisoners (unprocessed) |
 | `msfp0119stt14_cleaned.csv` | BJS, MCI Reports (2000-2019) | Same as above, processed for easy loading and comparison |
 | `p20stt09.csv` | BJS, NPS Reports (2019-2020) | Releases of state and federal sentenced prisoners (unprocessed) |
+| `p222stt09.csv` | BJS, NPS Reports (2022-2023) | Releases of state and federal sentenced prisoners (unprocessed) |
 | `p20stt09_cleaned.csv` | BJS, NPS Reports (2019-2020) | Same as above, processed for easy loading and comparison |
 | `vera_pjp_s2021_appendix.csv` | Vera, People in Prisons and Jails Spr 2021 | Counts of state and federal prisoners |
 | `hifld_prison_boundaries_2022.csv` | DHS, HIFLD Prison Boundaries Data | DHS ensus of carceral facilities conducted |
-
-The `Other` sub-folder contains data on deaths in custody which are not from state prisons (e.g. recorded deaths in county and local facilities), data on executions for comparison with reported mortality data, and data on deaths in federal prisons and detention centers (e.g. deaths in BoP and ICE facilities). Since this dataset is currently focused on recording custodial deaths and demographics in state prisons, these files are located in a separate folder from the repository's primary data.
-
-The `Output` sub-folder contains current aggregate summary tables for mortality in state prisons which the project has produced using the data in the `Raw` sub-folder.
-
-The `Output` sub-folder also contains state-wide aggregates that came from scraped data from the BoP website. The total sum of the state-wide population counts differs from the count listed under `BoP - All Locations` because they were taken from different sources. Below is a table of the difference.
-
-|                       | Population.2019 | Population.2020 | Population.2021 |
-|-----------------------|-----------------|-----------------|-----------------|
-| Vera Institute        | 177906          | 161640          | 153683          |
-| BoP Website           | 169696          | 144363          | 139006          |
-| Aggregated Difference | 8210            | 17277           | 14677           |
-
-The `Raw` sub-folder contains data files on `Deaths` in state prisons that the project has collected and standardized. There are four types of `Raw` death data: `Annual`, `Monthly`, `Individual`, and `Additional`. The `Annual` sub-folder contains data files from state prison systems for which the project has gathered data reported as annual aggregates. The `Monthly` sub-folder contains data files from state prison systems for which the project has gathered data reported as monthly aggregates. The `Individual` sub-folder contains data files from state prison systems for which the project has gathered data with an individual date of death for each reported death. The `Additional` sub-folder contains data files from state prisons for which the project has separated observations on deaths in custody due to discrepancy inquiries or the inclusion of non-prison / pre-trial facilities. Each `Raw` file is titled by the state abbrevation for the state prison system it covers and the name of the time interval of reporting.
-
-The `Raw` sub-folder also contains data files on `Demographics` in state prisons that the project has collected and standardized. There are two types of of `Raw` demographics data: `Combined` and `Distinct`. The `Combined` sub-folder contains data files from state prisons that report information on the total population by age group and sex. The `Distinct` sub-folder contains data files from state prisons that report information on the total population by age group and the total population by sex separately. Population totals for state prison agencies that provide `Distinct` demographic data are calculated in functions described below (i.e. read_CMP_dem) by applying the population sex ratio for the prison system uniformly across each reported age group. Population totals from these functions for states that provide `Distinct` demographic data therefore do not represent numbers reported directly by prison agencies.
-
-The `Raw` sub-folder also contains data files on `Population` in federal prison that the project web-scraped using the Wayback Machine and BoP prisons population data website. The dataset was used to create the aggregate output file for state counts.
 
 ### Documents
 
