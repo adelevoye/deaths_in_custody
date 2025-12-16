@@ -1,14 +1,12 @@
 # UCLA Law CBBDP Custodial Mortality Project Data
 
+> <https://uclaprisondata.org/>
+
 ## Purpose of Data Collection
 
-To better monitor the public health conditions behind bars, the project began gathering data on all-cause deaths in U.S. prisons in June 2020. 
-Because prison agencies report different records on deaths in custody, the project has attempted to standardize records into similar variables so the public can compare what information agencies make available and study the data they do release. 
+To better monitor the public health conditions behind bars, the project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, the project has attempted to standardize records into similar variables so the public can compare what information agencies make available and study the data they do release.
 
-The project intends this repository to function as a tool for the public and researchers to better understand the drivers of deaths in custody and assist policymakers in developing strategies to reduce their occurence. 
-In particular, the project hopes this database helps support the full implementation of the Death in Custody Reporting Act [(link to bill)](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional 
-Institutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study (1) how this data may be used to reduce the number of deaths in custody, and (2) how carceral facility management 
-practices may contribute to deaths in custody.
+The project intends this repository to function as a tool for the public and researchers to better understand the drivers of deaths in custody and assist policymakers in developing strategies to reduce their occurence. In particular, the project hopes this database helps support the full implementation of the Death in Custody Reporting Act [(link to bill)](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional Institutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study (1) how this data may be used to reduce the number of deaths in custody, and (2) how carceral facility management practices may contribute to deaths in custody.
 
 ## Accessing the Data (2019-2024)
 
@@ -22,18 +20,17 @@ These datasets expand upon prior 2019–2021 data, adding standardized counts an
 
 ## How to Navigate This Repository
 
-- Start in **Data/** if you are looking for the actual death records and counts.
-- Use **Data/Raw/** to view individual-level files received from states or agencies. Missingness varies across states.  
-- Check **Data/Aggregated_by_State/** for state-level totals that are ready to use.
-- Look in **Data/External/** for supporting datasets used for validation or context.
-- Open **Crosswalks/** to see how facility names and IDs were standardized across states.
-- Go to **Documents/** for state-by-state source guides and example records.
-- Each state folder in **Documents/** includes a short **source guide** and **example files** showing what the data looks like.
-- Open **deaths_in_custody.Rproj** to launch the project in RStudio.
-
-
+-   Start in **Data/** if you are looking for the actual death records and counts.
+-   Use **Data/Raw/** to view individual-level files received from states or agencies. Missingness varies across states.
+-   Check **Data/Aggregated_by_State/** for state-level totals that are ready to use.
+-   Look in **Data/External/** for supporting datasets used for validation or context.
+-   Open **Crosswalks/** to see how facility names and IDs were standardized across states.
+-   Go to **Documents/** for state-by-state source guides and example records.
+-   Each state folder in **Documents/** includes a short **source guide** and **example files** showing what the data looks like.
+-   Open **deaths_in_custody.Rproj** to launch the project in RStudio.
 
 # Methodology
+
 ## Data Collection Procedures
 
 Data on deaths in prisons and prison demographics comes from a variety of sources. Where prison death data is listed publicly on an agency website or where another organization has already collected and processed records on deaths in custody for a particular agency, the project has gathered, standardized, and reproduced those records here.
@@ -63,7 +60,7 @@ As the project conducted data validation efforts it made decisions as to how to 
 Reasons for differences and manipulation steps:
 
 | Prison Agency | Reasons for Differences | Manipulation Made |
-|---------------|------------------------------------------|---------------|
+|------------------|-------------------------------------|------------------|
 | California | Undetermined | None |
 | Colorado | CDOC reported more types of deaths to BJS than deaths in CO prisons (i.e. fugitives, supervision programs) | None |
 | Florida | Problem with listed date of death for roster data source | Different data source used |
@@ -82,7 +79,7 @@ Reasons for differences and manipulation steps:
 Other manipulation steps taken to limit primary repository data to prison / post-conviction facilities:
 
 | Prison Agency | Reasons for Manipulation | Mainuplation Made |
-|---------------|------------------------------------------|---------------|
+|------------------|-------------------------------------|------------------|
 | California | Deaths in California Jails are available from the CA DoJ | Observations removed |
 | New Hampshire | Deaths in Secure Psychiatric Facilities Included | Observations removed |
 | New Jersey | Deaths in Special Treatment Units Included | Observations removed |
@@ -131,7 +128,7 @@ This folder contains documentation for how the project obtained data for each st
 ### Potential Death Variables
 
 | Variable | Description |
-|------------------|------------------------------------------------------|
+|--------------------|----------------------------------------------------|
 | `State` | State prison system |
 | `Year` | Year of death(s) |
 | `Month` | Month of death(s) |
@@ -164,85 +161,68 @@ The project only reproduces records provided to it and other projects. The proje
 
 ## Citations
 
-### Academic Publications and Research Reports
+For most states, data in this repository were obtained **directly from state Departments of Corrections (DOCs)** through public records requests or direct agency sharing. In some cases, states publish custodial death data publicly or through legislative, oversight, or research organizations; in those instances, publicly available data were used and standardized for inclusion here.
 
-> Sharon Dolovich, Aaron Littman, Michael Everett, Lauren Woyczynski, Victoria Rossi, Baji Tumendemberel, Kalind Parish, Grace DiLaura, Chase Hommeyer, Hope Johnson, Neal Marquez, Erika Tyagi, and Megan Arellano.\
-> *UCLA Law Covid-19 Behind Bars Data Project: Prison Mortality Dataset* [date you downloaded the data]. UCLA Law, 2023.\
-> <https://uclacovidbehindbars.org/>
-
-### Media Outlets, Policy Briefs, and Online Resources
-
-> UCLA Law Covid-19 Behind Bars Data Project.\
-> <https://uclacovidbehindbars.org/>
-
-If you use any data in this repository from **Alabama, Florida, Hawaii, Louisiana, Minnesota, Ohio, New York, Texas, Virginia, Washington,** or the **Bureau of Prisons**, please also cite the appropriate original source of that data.
+Because several states and federal agencies require attribution when their data are reused, users must also cite the **original source** listed below when using data from those jurisdictions.
 
 ------------------------------------------------------------------------
 
-#### Alabama
+**Alabama**\
+Alabama Department of Corrections. (2022–2024). *Code of Alabama §14-1-24—Quarterly Reports (Fiscal Years 2022–2024).*\
+Research and Planning Division, Joint Legislative Prison Oversight Committee.\
+<https://doc.alabama.gov/statreports.aspx>
 
-> Alabama Department of Corrections. (2022–2024). *Code of Alabama §14-1-24—Quarterly Reports (Fiscal Years 2022–2024).*\
-> Research and Planning Division, Joint Legislative Prison Oversight Committee.\
-> <https://doc.alabama.gov/statreports.aspx>
+**Florida**\
+Florida Department of Corrections. (2020). *Inmate Mortality Statistics.*\
+<https://www.fdc.myflorida.com/statistics-and-publications/inmate-mortality#mortality_graph>
 
-#### Florida
+**Hawaii**\
+Hawaii Correctional System Oversight Commission. (2025). *Hawaii correctional system mortality data (2022–2024).*\
+235 S. Beretania Street, 16th Floor, Honolulu, HI 96813
 
-> Florida Department of Corrections. (2020). *Inmate Mortality Statistics.*\
-> <https://www.fdc.myflorida.com/statistics-and-publications/inmate-mortality#mortality_graph>
+**Louisiana**\
+Armstrong, A., Mitchell, J., Navalance, E., & Farris, S.\
+*Incarceration Transparency: Louisiana Deaths Behind Bars.*\
+Loyola University New Orleans, College of Law.\
+<https://www.incarcerationtransparency.org/>
 
-#### Hawaii
+**Minnesota**\
+Minnesota Department of Corrections.\
+*Health & Safety in Correctional Facilities: Legislative Reports (2022–2024).*\
+- 2022: <https://mn.gov/doc/assets/2022%20Health%20and%20Safety%20in%20Correctional%20Facilities_tcm1089-565603.pdf>\
+- 2023: <https://mn.gov/doc/assets/2023%20Health%20and%20Safety%20in%20Correctional%20Facilities_tcm1089-609949.pdf>\
+- 2024: <https://www.lrl.mn.gov/docs/2025/mandated/250306.pdf>
 
-> Hawaii Correctional System Oversight Commission. (2025). *Hawaii correctional system mortality data (2022–2024).*  
-235 S. Beretania Street, 16th Floor, Honolulu, HI 96813.  
+**Ohio**\
+Harland, A. (2022). *Ohio Deaths in Custody – 2022.*\
+Ohio Office of Criminal Justice Services.\
+<https://ocjs.ohio.gov>
 
-#### Louisiana
+**New York**\
+Correctional Association of New York.\
+*Deaths in Custody Dashboard.*\
+<https://www.correctionalassociation.org/data/dashboard-deaths-in-custody>
 
-> Andrea Armstrong, Judson Mitchell, Erica Navalance, Shanita Farris.\
-> *Incarceration Transparency: Louisiana Deaths Behind Bars.*\
-> Loyola University New Orleans, College of Law.\
-> <https://www.incarcerationtransparency.org/>
+**Texas**\
+Texas Justice Initiative.\
+*Texas Deaths in Custody.*\
+<https://texasjusticeinitiative.org/data>
 
-#### Minnesota
+**Virginia**\
+Virginia Department of Criminal Justice Services. (2025, July).\
+*Virginia Civilian Deaths in Custody in 2024.*\
+Commonwealth of Virginia.\
+<https://www.dcjs.virginia.gov>
 
-> Minnesota Department of Corrections. *Health & Safety in Correctional Facilities: 2022 Legislative Report.*\
-> <https://mn.gov/doc/assets/2022%20Health%20and%20Safety%20in%20Correctional%20Facilities_tcm1089-565603.pdf>
->
-> Minnesota Department of Corrections. *Health & Safety in Correctional Facilities: 2023 Legislative Report.*\
-> <https://mn.gov/doc/assets/2023%20Health%20and%20Safety%20in%20Correctional%20Facilities_tcm1089-609949.pdf>
->
-> Minnesota Department of Corrections. *Health & Safety in Correctional Facilities: 2024 Legislative Report.*\
-> <https://www.lrl.mn.gov/docs/2025/mandated/250306.pdf>
+**Washington**\
+Washington State Department of Corrections. (2025, October).\
+*Death Statistics for DOC Incarcerated Individuals.*\
+<https://doc.wa.gov/corrections/services/health-services>
 
-#### Ohio
-> Harland, A. (2022). *Ohio Deaths in Custody – 2022.*  
-> Office of Criminal Justice Services.  
-> https://ocjs.ohio.gov
-
-#### New York
-> Correctional Association of New York. *Deaths in Custody Dashboard.*  
-> https://www.correctionalassociation.org/data/dashboard-deaths-in-custody
-
-#### Texas
-
-> Texas Justice Initiative. *Texas Deaths in Custody.*\
-> <https://texasjusticeinitiative.org/data>
-
-#### Virginia
-> Virginia Department of Criminal Justice Services. (2025, July). *Virginia Civilian Deaths in Custody in 2024.*  
-> Richmond, VA: Commonwealth of Virginia, Department of Criminal Justice Services.  
-> https://www.dcjs.virginia.gov :contentReference[oaicite:0]{index=0}
-
-#### Washington
-
-> Washington State Department of Corrections. (2025, October).\
-> *Death Statistics for DOC Incarcerated Individuals.*\
-> <https://doc.wa.gov/corrections/services/health-services>
-
-#### Bureau of Prisons (BoP)
-
-> Meg Anderson, Huo Jingnan, Neal Marquez, Erika Tyagi, Alison Guernsey, Robert Benincasa, Nick McMillan.\
-> *NPR Investigations: BOP Excess Deaths.*\
-> <https://github.com/NPR-investigations/BOP_all_cause_mortality>
+**Federal – Bureau of Prisons (BOP)**\
+Anderson, M., Jingnan, H., Marquez, N., Tyagi, E., Guernsey, A., Benincasa, R., & McMillan, N.\
+*NPR Investigations: BOP Excess Deaths.*\
+<https://github.com/NPR-investigations/BOP_all_cause_mortality>
 
 ------------------------------------------------------------------------
 
@@ -275,8 +255,3 @@ Our data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAl
 ## Contributors
 
 For questions or feedback about the data, please reach out to [bbdp.data\@law.ucla.edu](mailto:bbdp.data@law.ucla.edu){.email}.
-
-
-
-
-
