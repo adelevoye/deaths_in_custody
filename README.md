@@ -166,62 +166,70 @@ Because several states and federal agencies require attribution when their data 
 
 ------------------------------------------------------------------------
 
-**Alabama**\
-Alabama Department of Corrections. (2022–2024). *Code of Alabama §14-1-24—Quarterly Reports (Fiscal Years 2022–2024).*\
-Research and Planning Division, Joint Legislative Prison Oversight Committee.\
-<https://doc.alabama.gov/statreports.aspx>
+### Alabama
+Alabama Department of Corrections. (2021–2024). *Code of Alabama §14-1-24—Quarterly reports (Fiscal Years 2021–2024).*  
+Research and Planning Division, Joint Legislative Prison Oversight Committee.  
+https://doc.alabama.gov/statreports.aspx
 
-**Florida**\
-Florida Department of Corrections. (2020). *Inmate Mortality Statistics.*\
-<https://www.fdc.myflorida.com/statistics-and-publications/inmate-mortality#mortality_graph>
+### Florida
+Florida Department of Corrections. (2020). *Inmate mortality statistics.*  
+https://www.fdc.myflorida.com/statistics-and-publications/inmate-mortality#mortality_graph
 
-**Hawaii**\
-Hawaii Correctional System Oversight Commission. (2025). *Hawaii correctional system mortality data (2022–2024).*\
-235 S. Beretania Street, 16th Floor, Honolulu, HI 96813
+### Hawaii
+Hawaii Correctional System Oversight Commission. (2025). *Hawaii correctional system mortality data (2019–2024).*  
+235 S. Beretania Street, 16th Floor, Honolulu, HI 96813.
 
-**Louisiana**\
-Armstrong, A., Mitchell, J., Navalance, E., & Farris, S.\
-*Incarceration Transparency: Louisiana Deaths Behind Bars.*\
-Loyola University New Orleans, College of Law.\
-<https://www.incarcerationtransparency.org/>
+### Louisiana
+Armstrong, A., Mitchell, J., Navalance, E., & Farris, S. (n.d.).  
+*Incarceration transparency: Louisiana deaths behind bars.*  
+Loyola University New Orleans, College of Law.  
+https://www.incarcerationtransparency.org/
 
-**Minnesota**\
-Minnesota Department of Corrections.\
-*Health & Safety in Correctional Facilities: Legislative Reports (2022–2024).*\
-- 2022: <https://mn.gov/doc/assets/2022%20Health%20and%20Safety%20in%20Correctional%20Facilities_tcm1089-565603.pdf>\
-- 2023: <https://mn.gov/doc/assets/2023%20Health%20and%20Safety%20in%20Correctional%20Facilities_tcm1089-609949.pdf>\
-- 2024: <https://www.lrl.mn.gov/docs/2025/mandated/250306.pdf>
+### Minnesota
+Minnesota Department of Corrections.  
+*Health & safety in correctional facilities: Legislative reports.*
 
-**Ohio**\
-Harland, A. (2022). *Ohio Deaths in Custody – 2022.*\
-Ohio Office of Criminal Justice Services.\
-<https://ocjs.ohio.gov>
+- 2022 report:  
+  https://mn.gov/doc/assets/2022%20Health%20and%20Safety%20in%20Correctional%20Facilities_tcm1089-565603.pdf
+- 2023 report:  
+  https://mn.gov/doc/assets/2023%20Health%20and%20Safety%20in%20Correctional%20Facilities_tcm1089-609949.pdf
+- 2024 report:  
+  https://www.lrl.mn.gov/docs/2025/mandated/250306.pdf
 
-**New York**\
-Correctional Association of New York.\
-*Deaths in Custody Dashboard.*\
-<https://www.correctionalassociation.org/data/dashboard-deaths-in-custody>
+### New York
+Correctional Association of New York. (n.d.).  
+*Deaths in custody dashboard.*  
+https://www.correctionalassociation.org/data/dashboard-deaths-in-custody
 
-**Texas**\
-Texas Justice Initiative.\
-*Texas Deaths in Custody.*\
-<https://texasjusticeinitiative.org/data>
+### Ohio
+Harland, A. (2022). *Ohio deaths in custody – 2022.*  
+Ohio Office of Criminal Justice Services.  
+https://ocjs.ohio.gov
 
-**Virginia**\
-Virginia Department of Criminal Justice Services. (2025, July).\
-*Virginia Civilian Deaths in Custody in 2024.*\
-Commonwealth of Virginia.\
-<https://www.dcjs.virginia.gov>
+### Tennessee
+Tennessee Department of Correction.  
+*Statistical abstracts.*
 
-**Washington**\
-Washington State Department of Corrections. (2025, October).\
-*Death Statistics for DOC Incarcerated Individuals.*\
-<https://doc.wa.gov/corrections/services/health-services>
+- Fiscal Year 2020–2021:  
+  https://www.tn.gov/correction/statistics/annual-reports.html
+- Fiscal Year 2021–2022:  
+  https://www.tn.gov/correction/statistics/annual-reports.html
 
-**Federal – Bureau of Prisons (BOP)**\
-Anderson, M., Jingnan, H., Marquez, N., Tyagi, E., Guernsey, A., Benincasa, R., & McMillan, N.\
-*NPR Investigations: BOP Excess Deaths.*\
-<https://github.com/NPR-investigations/BOP_all_cause_mortality>
+### Texas
+Texas Justice Initiative. (2022–2024).  
+*Deaths in custody dataset* [Data set].  
+https://www.texasjusticeinitiative.org
+
+### Virginia
+Virginia Department of Criminal Justice Services. (2025, July).  
+*Virginia civilian deaths in custody in 2024.*  
+Commonwealth of Virginia.  
+https://www.dcjs.virginia.gov
+
+### Washington
+Washington State Department of Corrections. (2025, October).  
+*Death statistics for DOC incarcerated individuals.*  
+https://doc.wa.gov/corrections/services/health-services
 
 ------------------------------------------------------------------------
 
@@ -251,6 +259,6 @@ Additionally, the **ACLU of Delaware** assisted with the collection of death rec
 
 Our data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). That means that you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use our work for commercial purposes, which means anything primarily intended for or directed toward commercial advantage or monetary compensation.
 
-## Contributors
+## Contact Us
 
 For questions or feedback about the data, please reach out to [bbdp.data\@law.ucla.edu](mailto:bbdp.data@law.ucla.edu){.email}.
