@@ -10,7 +10,7 @@ The project intends this repository to function as a tool for the public and res
 
 ## Accessing the Data (2019-2024)
 
-As of November 3, 2025, this repository incorporates custodial mortality data through 2024.
+As of December 16, 2025, this repository incorporates custodial mortality data through 2024.
 
 **National aggregate data by state (2019–2024):** [prison_agency_counts.csv](https://github.com/uclalawcovid19behindbars/custodial_mortality_project/blob/main/Data/Output/prison_agency_counts_2019_2024.csv)
 
