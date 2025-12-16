@@ -60,7 +60,9 @@ Where information on deaths in prisons was not publicly available through an age
 
 ### Documents
 
-This folder contains documentation for how the project obtained data for each state prison system. Sub-folders for each state contain a R Markdown file describing how it obtained the data, what variables are present in the data, and how to load and compare annual aggregates from the data with past MCI reports from BJS.
+This folder contains documentation for how the project obtained data for each state prison system. 
+Sub-folders for each state contain a R Markdown file describing how it obtained the data, what variables are present in the data, 
+and how to load and compare annual aggregates from the data with past MCI reports from BJS.
 
 `Example` folders contain raw unprocessed versions of the documents / data sources used to create the datasets in the `Raw` folder.
 
@@ -79,6 +81,7 @@ This folder contains documentation for how the project obtained data for each st
 | `First.Name` | First name of decedent |
 | `ID.No` | Agency-assigned ID number of decedent |
 | `Sex` | Sex of decedent |
+| `Gender` | Gender of decedent |
 | `Race` | Race of decedent |
 | `Ethnicity` | Agency-listed ethnicity |
 | `DoB` | Date of birth of decedent |
@@ -92,7 +95,12 @@ This folder contains documentation for how the project obtained data for each st
 
 ### Context Notes on Potential Death Variables
 
-The project only reproduces records provided to it and other projects. The project does not correct or investigate records for accuracy aside from data validation efforts to ensure total counts of deaths match or are similar to reporting for that agency produced by the Bureau of Justice Statistics. As such, there may be errors or issues with information contained within these variables. In particular, circumstances of death were reported differently across prison agencies and do not always reflect actual causes of death. Many death records are labeled as 'Natural' and 'Undetermined,' which provide little detail on the circumstances of death. For more context on issues with custodial death investigations please see the following resources.
+The project only reproduces records provided to it and other projects. The project does not correct or investigate records for accuracy aside from data 
+validation efforts to ensure total counts of deaths match or are similar to reporting for that agency produced by the Bureau of Justice Statistics. 
+As such, there may be errors or issues with information contained within these variables. 
+In particular, circumstances of death were reported differently across prison agencies and do not always reflect actual causes of death. 
+Many death records are labeled as 'Natural' and 'Undetermined,' which provide little detail on the circumstances of death. For more context on issues with 
+custodial death investigations please see the following resources.
 
 > Nick Shapiro, Terrence Keel. *Natural Causes? 58 Autopsies Prove Otherwise*. UCLA Carceral Ecologies Lab, <https://ucla.app.box.com/s/sv54jmxhmq19kqifpakh4jfu3vnmhbqt/file/974263270262>
 
@@ -100,7 +108,8 @@ The project only reproduces records provided to it and other projects. The proje
 
 ## Citations
 
-For most states, data in this repository were obtained **directly from state Departments of Corrections (DOCs)** through public records requests or direct agency sharing. In some cases, states publish custodial death data publicly or through legislative, oversight, or research organizations; in those instances, publicly available data were used and standardized for inclusion here.
+For most states, data in this repository were obtained **directly from state Departments of Corrections (DOCs)** through public records requests or direct agency sharing. 
+In some cases, states publish custodial death data publicly or through legislative, oversight, or research organizations; in those instances, publicly available data were used and standardized for inclusion here.
 
 Because several states and federal agencies require attribution when their data are reused, users must also cite the **original source** listed below when using data from those jurisdictions.
 
@@ -192,8 +201,9 @@ If you use any of the **execution data** in this repository from the **Death Pen
 > Death Penalty Information Center.\
 > <https://deathpenaltyinfo.org/executions/execution-database>
 
-Additionally, the **ACLU of Delaware** assisted with the collection of death records for Delaware state prisons.\
+Additionally, the **ACLU of Delaware** and **ACLU of Tennessee** assisted with the collection of death records for Delaware state prisons.\
 <https://www.aclu-de.org/>
+<https://www.aclu-tn.org/>
 
 ## Data Notes
 
