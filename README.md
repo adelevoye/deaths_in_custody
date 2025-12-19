@@ -99,10 +99,9 @@ and how to load and compare annual aggregates from the data with past MCI report
 | Dataset | Source | Description |
 |------------------|-----------------------|-------------------------------|
 | `msfp0119stt14.csv` | BJS, MCI Reports (2000-2019) | Totals of deaths of state and federal prisoners (unprocessed) |
-| `msfp0119stt14_cleaned.csv` | BJS, MCI Reports (2000-2019) | Same as above, processed for easy loading and comparison |
 | `p20stt09.csv` | BJS, NPS Reports (2019-2020) | Releases of state and federal sentenced prisoners (unprocessed) |
-| `p222stt09.csv` | BJS, NPS Reports (2022-2023) | Releases of state and federal sentenced prisoners (unprocessed) |
-| `p20stt09_cleaned.csv` | BJS, NPS Reports (2019-2020) | Same as above, processed for easy loading and comparison |
+| `p21stt09.csv` | BJS, NPS Reports (2020-2021) | Releases of state and federal sentenced prisoners (unprocessed) |
+| `p23stt09.csv` | BJS, NPS Reports (2022-2023) | Releases of state and federal sentenced prisoners (unprocessed) |
 | `vera_pjp_s2021_appendix.csv` | Vera, People in Prisons and Jails Spr 2021 | Counts of state and federal prisoners |
 | `hifld_prison_boundaries_2022.csv` | DHS, HIFLD Prison Boundaries Data | DHS ensus of carceral facilities conducted |
 

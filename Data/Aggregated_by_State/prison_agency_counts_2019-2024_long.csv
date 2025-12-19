@@ -1,0 +1,2581 @@
+State.Name,Variable,Year,Value
+Alabama,Deaths,2019,130
+Alabama,Deaths,2020,189
+Alabama,Deaths,2021,171
+Alabama,Deaths,2022,271
+Alabama,Deaths,2023,328
+Alabama,Deaths,2024,277
+Alabama,Pop.Jul,2019,27590
+Alabama,Pop.Jul,2020,27207.5
+Alabama,Pop.Jul,2021,25214.5
+Alabama,Pop.Jul,2022,25975
+Alabama,Pop.Jul,2023,26731.5
+Alabama,Pop.Jul,2024,27208
+Alabama,NA,NA,47.11852120333454
+Alabama,NA,NA,69.46613985114399
+Alabama,NA,NA,67.81812052588788
+Alabama,NA,NA,104.3310875842156
+Alabama,NA,NA,122.70168153676376
+Alabama,NA,NA,101.80829167891797
+Alabama,NA,NA,45.38461538461539
+Alabama,NA,NA,-9.523809523809524
+Alabama,NA,NA,58.47953216374269
+Alabama,NA,NA,21.033210332103323
+Alabama,NA,NA,-15.548780487804878
+Alabama,NA,NA,113.07692307692308
+Alabama,NA,NA,-1.3863718738673432
+Alabama,NA,NA,-7.325186070017459
+Alabama,NA,NA,3.0161216760197505
+Alabama,NA,NA,2.912415784408085
+Alabama,NA,NA,1.7825411967154856
+Alabama,NA,NA,-1.3845596230518304
+Alaska,Deaths,2019,4
+Alaska,Deaths,2020,14
+Alaska,Deaths,2021,8
+Alaska,Deaths,2022,18
+Alaska,Deaths,2023,10
+Alaska,Deaths,2024,15
+Alaska,Pop.Jul,2019,4415
+Alaska,Pop.Jul,2020,4250.5
+Alaska,Pop.Jul,2021,4278
+Alaska,Pop.Jul,2022,4497
+Alaska,Pop.Jul,2023,4510
+Alaska,Pop.Jul,2024,4444
+Alaska,NA,NA,9.060022650056625
+Alaska,NA,NA,32.93730149394189
+Alaska,NA,NA,18.700327255726975
+Alaska,NA,NA,40.0266844563042
+Alaska,NA,NA,22.172949002217294
+Alaska,NA,NA,33.753375337533754
+Alaska,NA,NA,250
+Alaska,NA,NA,-42.857142857142854
+Alaska,NA,NA,125
+Alaska,NA,NA,-44.44444444444444
+Alaska,NA,NA,50
+Alaska,NA,NA,275
+Alaska,NA,NA,-3.725934314835787
+Alaska,NA,NA,0.6469827079167156
+Alaska,NA,NA,5.119214586255259
+Alaska,NA,NA,0.289081609962197
+Alaska,NA,NA,-1.4634146341463417
+Alaska,NA,NA,0.6568516421291053
+Arizona,Deaths,2019,113
+Arizona,Deaths,2020,156
+Arizona,Deaths,2021,146
+Arizona,Deaths,2022,154
+Arizona,Deaths,2023,109
+Arizona,Deaths,2024,110
+Arizona,Pop.Jul,2019,42123.5
+Arizona,Pop.Jul,2020,41381
+Arizona,Pop.Jul,2021,36693
+Arizona,Pop.Jul,2022,34412
+Arizona,Pop.Jul,2023,34197
+Arizona,Pop.Jul,2024,34787
+Arizona,NA,NA,26.825881040274428
+Arizona,NA,NA,37.69846064619028
+Arizona,NA,NA,39.78960564685362
+Arizona,NA,NA,44.75183075671277
+Arizona,NA,NA,31.87414100652104
+Arizona,NA,NA,31.62100784775922
+Arizona,NA,NA,38.05309734513274
+Arizona,NA,NA,-6.41025641025641
+Arizona,NA,NA,5.47945205479452
+Arizona,NA,NA,-29.22077922077922
+Arizona,NA,NA,0.9174311926605505
+Arizona,NA,NA,-2.6548672566371683
+Arizona,NA,NA,-1.7626740418056428
+Arizona,NA,NA,-11.328870737778207
+Arizona,NA,NA,-6.216444553457063
+Arizona,NA,NA,-0.6247820527722887
+Arizona,NA,NA,1.7252975407199462
+Arizona,NA,NA,-17.416643916103837
+Arkansas,Deaths,2019,76
+Arkansas,Deaths,2020,122
+Arkansas,Deaths,2021,68
+Arkansas,Deaths,2022,64
+Arkansas,Deaths,2023,92
+Arkansas,Deaths,2024,94
+Arkansas,Pop.Jul,2019,17784
+Arkansas,Pop.Jul,2020,17403.5
+Arkansas,Pop.Jul,2021,16165.5
+Arkansas,Pop.Jul,2022,17074
+Arkansas,Pop.Jul,2023,18144
+Arkansas,Pop.Jul,2024,18806
+Arkansas,NA,NA,42.73504273504274
+Arkansas,NA,NA,70.10084178469847
+Arkansas,NA,NA,42.06489128081408
+Arkansas,NA,NA,37.4838936394518
+Arkansas,NA,NA,50.70546737213404
+Arkansas,NA,NA,49.984047644368815
+Arkansas,NA,NA,60.526315789473685
+Arkansas,NA,NA,-44.26229508196721
+Arkansas,NA,NA,-5.88235294117647
+Arkansas,NA,NA,43.75
+Arkansas,NA,NA,2.1739130434782608
+Arkansas,NA,NA,23.684210526315788
+Arkansas,NA,NA,-2.1395636527215474
+Arkansas,NA,NA,-7.113511649955469
+Arkansas,NA,NA,5.619993195385234
+Arkansas,NA,NA,6.266838467845847
+Arkansas,NA,NA,3.6485890652557322
+Arkansas,NA,NA,5.746738641475484
+BoP - Alabama,Deaths,2019,4
+BoP - Alabama,Deaths,2020,7
+BoP - Alabama,Deaths,2021,10
+BoP - Alabama,Deaths,2022,4
+BoP - Alabama,Deaths,2023,7
+BoP - Alabama,Deaths,2024,NA
+BoP - Alabama,Pop.Jul,2019,3399
+BoP - Alabama,Pop.Jul,2020,2648
+BoP - Alabama,Pop.Jul,2021,2538
+BoP - Alabama,Pop.Jul,2022,3001
+BoP - Alabama,Pop.Jul,2023,3160
+BoP - Alabama,Pop.Jul,2024,3544
+BoP - Alabama,NA,NA,11.768167107972932
+BoP - Alabama,NA,NA,26.435045317220546
+BoP - Alabama,NA,NA,39.40110323089046
+BoP - Alabama,NA,NA,13.328890369876708
+BoP - Alabama,NA,NA,22.151898734177216
+BoP - Alabama,NA,NA,NA
+BoP - Alabama,NA,NA,75
+BoP - Alabama,NA,NA,42.857142857142854
+BoP - Alabama,NA,NA,-60
+BoP - Alabama,NA,NA,75
+BoP - Alabama,NA,NA,NA
+BoP - Alabama,NA,NA,NA
+BoP - Alabama,NA,NA,-22.094733745219184
+BoP - Alabama,NA,NA,-4.1540785498489425
+BoP - Alabama,NA,NA,18.242710795902287
+BoP - Alabama,NA,NA,5.298233922025991
+BoP - Alabama,NA,NA,12.151898734177214
+BoP - Alabama,NA,NA,4.265960576640189
+BoP - Arizona,Deaths,2019,7
+BoP - Arizona,Deaths,2020,20
+BoP - Arizona,Deaths,2021,12
+BoP - Arizona,Deaths,2022,10
+BoP - Arizona,Deaths,2023,9
+BoP - Arizona,Deaths,2024,NA
+BoP - Arizona,Pop.Jul,2019,4079
+BoP - Arizona,Pop.Jul,2020,3506
+BoP - Arizona,Pop.Jul,2021,3430
+BoP - Arizona,Pop.Jul,2022,3616
+BoP - Arizona,Pop.Jul,2023,3679
+BoP - Arizona,Pop.Jul,2024,3450
+BoP - Arizona,NA,NA,17.161068889433686
+BoP - Arizona,NA,NA,57.04506560182544
+BoP - Arizona,NA,NA,34.98542274052478
+BoP - Arizona,NA,NA,27.654867256637168
+BoP - Arizona,NA,NA,24.46316933949443
+BoP - Arizona,NA,NA,NA
+BoP - Arizona,NA,NA,185.71428571428572
+BoP - Arizona,NA,NA,-40
+BoP - Arizona,NA,NA,-16.666666666666664
+BoP - Arizona,NA,NA,-10
+BoP - Arizona,NA,NA,NA
+BoP - Arizona,NA,NA,NA
+BoP - Arizona,NA,NA,-14.047560676636431
+BoP - Arizona,NA,NA,-2.167712492869367
+BoP - Arizona,NA,NA,5.422740524781341
+BoP - Arizona,NA,NA,1.7422566371681416
+BoP - Arizona,NA,NA,-6.224517531938027
+BoP - Arizona,NA,NA,-15.420446187791125
+BoP - Arkansas,Deaths,2019,4
+BoP - Arkansas,Deaths,2020,6
+BoP - Arkansas,Deaths,2021,7
+BoP - Arkansas,Deaths,2022,5
+BoP - Arkansas,Deaths,2023,9
+BoP - Arkansas,Deaths,2024,NA
+BoP - Arkansas,Pop.Jul,2019,3079
+BoP - Arkansas,Pop.Jul,2020,2956
+BoP - Arkansas,Pop.Jul,2021,2863
+BoP - Arkansas,Pop.Jul,2022,3351
+BoP - Arkansas,Pop.Jul,2023,3455
+BoP - Arkansas,Pop.Jul,2024,3470
+BoP - Arkansas,NA,NA,12.991230919129586
+BoP - Arkansas,NA,NA,20.29769959404601
+BoP - Arkansas,NA,NA,24.449877750611247
+BoP - Arkansas,NA,NA,14.920919128618323
+BoP - Arkansas,NA,NA,26.049204052098407
+BoP - Arkansas,NA,NA,NA
+BoP - Arkansas,NA,NA,50
+BoP - Arkansas,NA,NA,16.666666666666664
+BoP - Arkansas,NA,NA,-28.57142857142857
+BoP - Arkansas,NA,NA,80
+BoP - Arkansas,NA,NA,NA
+BoP - Arkansas,NA,NA,NA
+BoP - Arkansas,NA,NA,-3.9948035076323483
+BoP - Arkansas,NA,NA,-3.1461434370771313
+BoP - Arkansas,NA,NA,17.0450576318547
+BoP - Arkansas,NA,NA,3.1035511787526113
+BoP - Arkansas,NA,NA,0.43415340086830684
+BoP - Arkansas,NA,NA,12.69892822344917
+BoP - California,Deaths,2019,13
+BoP - California,Deaths,2020,35
+BoP - California,Deaths,2021,17
+BoP - California,Deaths,2022,22
+BoP - California,Deaths,2023,31
+BoP - California,Deaths,2024,NA
+BoP - California,Pop.Jul,2019,16449
+BoP - California,Pop.Jul,2020,11802
+BoP - California,Pop.Jul,2021,11654
+BoP - California,Pop.Jul,2022,14360
+BoP - California,Pop.Jul,2023,13770
+BoP - California,Pop.Jul,2024,13179
+BoP - California,NA,NA,7.903216000972703
+BoP - California,NA,NA,29.655990510083036
+BoP - California,NA,NA,14.587266174703965
+BoP - California,NA,NA,15.32033426183844
+BoP - California,NA,NA,22.512708787218592
+BoP - California,NA,NA,NA
+BoP - California,NA,NA,169.23076923076923
+BoP - California,NA,NA,-51.42857142857142
+BoP - California,NA,NA,29.411764705882355
+BoP - California,NA,NA,40.909090909090914
+BoP - California,NA,NA,NA
+BoP - California,NA,NA,NA
+BoP - California,NA,NA,-28.2509575050155
+BoP - California,NA,NA,-1.2540247415692256
+BoP - California,NA,NA,23.21949545220525
+BoP - California,NA,NA,-4.108635097493036
+BoP - California,NA,NA,-4.291938997821351
+BoP - California,NA,NA,-19.87962794090826
+BoP - Colorado,Deaths,2019,15
+BoP - Colorado,Deaths,2020,9
+BoP - Colorado,Deaths,2021,12
+BoP - Colorado,Deaths,2022,7
+BoP - Colorado,Deaths,2023,8
+BoP - Colorado,Deaths,2024,NA
+BoP - Colorado,Pop.Jul,2019,3690
+BoP - Colorado,Pop.Jul,2020,3262
+BoP - Colorado,Pop.Jul,2021,3254
+BoP - Colorado,Pop.Jul,2022,3485
+BoP - Colorado,Pop.Jul,2023,3491
+BoP - Colorado,Pop.Jul,2024,3475
+BoP - Colorado,NA,NA,40.650406504065046
+BoP - Colorado,NA,NA,27.590435315757205
+BoP - Colorado,NA,NA,36.87768899815612
+BoP - Colorado,NA,NA,20.086083213773314
+BoP - Colorado,NA,NA,22.916069894013177
+BoP - Colorado,NA,NA,NA
+BoP - Colorado,NA,NA,-40
+BoP - Colorado,NA,NA,33.33333333333333
+BoP - Colorado,NA,NA,-41.66666666666667
+BoP - Colorado,NA,NA,14.285714285714285
+BoP - Colorado,NA,NA,NA
+BoP - Colorado,NA,NA,NA
+BoP - Colorado,NA,NA,-11.598915989159892
+BoP - Colorado,NA,NA,-0.2452483139178418
+BoP - Colorado,NA,NA,7.0989551321450515
+BoP - Colorado,NA,NA,0.1721664275466284
+BoP - Colorado,NA,NA,-0.45832139788026355
+BoP - Colorado,NA,NA,-5.826558265582656
+BoP - Connecticut,Deaths,2019,NA
+BoP - Connecticut,Deaths,2020,2
+BoP - Connecticut,Deaths,2021,NA
+BoP - Connecticut,Deaths,2022,1
+BoP - Connecticut,Deaths,2023,2
+BoP - Connecticut,Deaths,2024,NA
+BoP - Connecticut,Pop.Jul,2019,1006
+BoP - Connecticut,Pop.Jul,2020,817
+BoP - Connecticut,Pop.Jul,2021,927
+BoP - Connecticut,Pop.Jul,2022,1027
+BoP - Connecticut,Pop.Jul,2023,997
+BoP - Connecticut,Pop.Jul,2024,1167
+BoP - Connecticut,NA,NA,NA
+BoP - Connecticut,NA,NA,24.479804161566705
+BoP - Connecticut,NA,NA,NA
+BoP - Connecticut,NA,NA,9.737098344693282
+BoP - Connecticut,NA,NA,20.060180541624874
+BoP - Connecticut,NA,NA,NA
+BoP - Connecticut,NA,NA,NA
+BoP - Connecticut,NA,NA,NA
+BoP - Connecticut,NA,NA,NA
+BoP - Connecticut,NA,NA,100
+BoP - Connecticut,NA,NA,NA
+BoP - Connecticut,NA,NA,NA
+BoP - Connecticut,NA,NA,-18.78727634194831
+BoP - Connecticut,NA,NA,13.46389228886169
+BoP - Connecticut,NA,NA,10.787486515641856
+BoP - Connecticut,NA,NA,-2.9211295034079843
+BoP - Connecticut,NA,NA,17.051153460381144
+BoP - Connecticut,NA,NA,16.003976143141152
+BoP - Florida,Deaths,2019,24
+BoP - Florida,Deaths,2020,34
+BoP - Florida,Deaths,2021,27
+BoP - Florida,Deaths,2022,28
+BoP - Florida,Deaths,2023,29
+BoP - Florida,Deaths,2024,NA
+BoP - Florida,Pop.Jul,2019,10443
+BoP - Florida,Pop.Jul,2020,9048
+BoP - Florida,Pop.Jul,2021,9533
+BoP - Florida,Pop.Jul,2022,10319
+BoP - Florida,Pop.Jul,2023,10815
+BoP - Florida,Pop.Jul,2024,11069
+BoP - Florida,NA,NA,22.98190175237001
+BoP - Florida,NA,NA,37.57736516357206
+BoP - Florida,NA,NA,28.32266862477709
+BoP - Florida,NA,NA,27.13441224924896
+BoP - Florida,NA,NA,26.814609338881183
+BoP - Florida,NA,NA,NA
+BoP - Florida,NA,NA,41.66666666666667
+BoP - Florida,NA,NA,-20.588235294117645
+BoP - Florida,NA,NA,3.7037037037037033
+BoP - Florida,NA,NA,3.571428571428571
+BoP - Florida,NA,NA,NA
+BoP - Florida,NA,NA,NA
+BoP - Florida,NA,NA,-13.358230393565067
+BoP - Florida,NA,NA,5.3603006189213085
+BoP - Florida,NA,NA,8.245043532990664
+BoP - Florida,NA,NA,4.806667312724102
+BoP - Florida,NA,NA,2.348589921405455
+BoP - Florida,NA,NA,5.994446040409844
+BoP - Georgia,Deaths,2019,8
+BoP - Georgia,Deaths,2020,18
+BoP - Georgia,Deaths,2021,15
+BoP - Georgia,Deaths,2022,7
+BoP - Georgia,Deaths,2023,5
+BoP - Georgia,Deaths,2024,NA
+BoP - Georgia,Pop.Jul,2019,7035
+BoP - Georgia,Pop.Jul,2020,5982
+BoP - Georgia,Pop.Jul,2021,4781
+BoP - Georgia,Pop.Jul,2022,4172
+BoP - Georgia,Pop.Jul,2023,3413
+BoP - Georgia,Pop.Jul,2024,3400
+BoP - Georgia,NA,NA,11.371712864250178
+BoP - Georgia,NA,NA,30.09027081243731
+BoP - Georgia,NA,NA,31.37418950010458
+BoP - Georgia,NA,NA,16.778523489932887
+BoP - Georgia,NA,NA,14.64986815118664
+BoP - Georgia,NA,NA,NA
+BoP - Georgia,NA,NA,125
+BoP - Georgia,NA,NA,-16.666666666666664
+BoP - Georgia,NA,NA,-53.333333333333336
+BoP - Georgia,NA,NA,-28.57142857142857
+BoP - Georgia,NA,NA,NA
+BoP - Georgia,NA,NA,NA
+BoP - Georgia,NA,NA,-14.968017057569297
+BoP - Georgia,NA,NA,-20.076897358742897
+BoP - Georgia,NA,NA,-12.73792093704246
+BoP - Georgia,NA,NA,-18.192713326941515
+BoP - Georgia,NA,NA,-0.3808965719308526
+BoP - Georgia,NA,NA,-51.67022032693674
+BoP - Hawaii,Deaths,2019,NA
+BoP - Hawaii,Deaths,2020,2
+BoP - Hawaii,Deaths,2021,2
+BoP - Hawaii,Deaths,2022,NA
+BoP - Hawaii,Deaths,2023,NA
+BoP - Hawaii,Deaths,2024,NA
+BoP - Hawaii,Pop.Jul,2019,453
+BoP - Hawaii,Pop.Jul,2020,327
+BoP - Hawaii,Pop.Jul,2021,313
+BoP - Hawaii,Pop.Jul,2022,348
+BoP - Hawaii,Pop.Jul,2023,270
+BoP - Hawaii,Pop.Jul,2024,220
+BoP - Hawaii,NA,NA,NA
+BoP - Hawaii,NA,NA,61.162079510703364
+BoP - Hawaii,NA,NA,63.897763578274756
+BoP - Hawaii,NA,NA,NA
+BoP - Hawaii,NA,NA,NA
+BoP - Hawaii,NA,NA,NA
+BoP - Hawaii,NA,NA,NA
+BoP - Hawaii,NA,NA,0
+BoP - Hawaii,NA,NA,NA
+BoP - Hawaii,NA,NA,NA
+BoP - Hawaii,NA,NA,NA
+BoP - Hawaii,NA,NA,NA
+BoP - Hawaii,NA,NA,-27.81456953642384
+BoP - Hawaii,NA,NA,-4.281345565749235
+BoP - Hawaii,NA,NA,11.182108626198083
+BoP - Hawaii,NA,NA,-22.413793103448278
+BoP - Hawaii,NA,NA,-18.51851851851852
+BoP - Hawaii,NA,NA,-51.434878587196465
+BoP - Illinois,Deaths,2019,9
+BoP - Illinois,Deaths,2020,11
+BoP - Illinois,Deaths,2021,17
+BoP - Illinois,Deaths,2022,7
+BoP - Illinois,Deaths,2023,8
+BoP - Illinois,Deaths,2024,NA
+BoP - Illinois,Pop.Jul,2019,5201
+BoP - Illinois,Pop.Jul,2020,5235
+BoP - Illinois,Pop.Jul,2021,5464
+BoP - Illinois,Pop.Jul,2022,5320
+BoP - Illinois,Pop.Jul,2023,5592
+BoP - Illinois,Pop.Jul,2024,6428
+BoP - Illinois,NA,NA,17.304364545279753
+BoP - Illinois,NA,NA,21.012416427889207
+BoP - Illinois,NA,NA,31.112737920937043
+BoP - Illinois,NA,NA,13.157894736842104
+BoP - Illinois,NA,NA,14.30615164520744
+BoP - Illinois,NA,NA,NA
+BoP - Illinois,NA,NA,22.22222222222222
+BoP - Illinois,NA,NA,54.54545454545454
+BoP - Illinois,NA,NA,-58.82352941176471
+BoP - Illinois,NA,NA,14.285714285714285
+BoP - Illinois,NA,NA,NA
+BoP - Illinois,NA,NA,NA
+BoP - Illinois,NA,NA,0.6537204383772351
+BoP - Illinois,NA,NA,4.374403056351481
+BoP - Illinois,NA,NA,-2.635431918008785
+BoP - Illinois,NA,NA,5.112781954887218
+BoP - Illinois,NA,NA,14.949928469241774
+BoP - Illinois,NA,NA,23.5916169967314
+BoP - Indiana,Deaths,2019,7
+BoP - Indiana,Deaths,2020,24
+BoP - Indiana,Deaths,2021,12
+BoP - Indiana,Deaths,2022,10
+BoP - Indiana,Deaths,2023,5
+BoP - Indiana,Deaths,2024,NA
+BoP - Indiana,Pop.Jul,2019,2650
+BoP - Indiana,Pop.Jul,2020,2518
+BoP - Indiana,Pop.Jul,2021,2384
+BoP - Indiana,Pop.Jul,2022,2569
+BoP - Indiana,Pop.Jul,2023,2586
+BoP - Indiana,Pop.Jul,2024,2517
+BoP - Indiana,NA,NA,26.415094339622645
+BoP - Indiana,NA,NA,95.31374106433678
+BoP - Indiana,NA,NA,50.335570469798654
+BoP - Indiana,NA,NA,38.92565200467108
+BoP - Indiana,NA,NA,19.334880123743233
+BoP - Indiana,NA,NA,NA
+BoP - Indiana,NA,NA,242.85714285714283
+BoP - Indiana,NA,NA,-50
+BoP - Indiana,NA,NA,-16.666666666666664
+BoP - Indiana,NA,NA,-50
+BoP - Indiana,NA,NA,NA
+BoP - Indiana,NA,NA,NA
+BoP - Indiana,NA,NA,-4.981132075471698
+BoP - Indiana,NA,NA,-5.321683876092136
+BoP - Indiana,NA,NA,7.76006711409396
+BoP - Indiana,NA,NA,0.6617360840794083
+BoP - Indiana,NA,NA,-2.668213457076566
+BoP - Indiana,NA,NA,-5.018867924528301
+BoP - Kansas,Deaths,2019,5
+BoP - Kansas,Deaths,2020,4
+BoP - Kansas,Deaths,2021,7
+BoP - Kansas,Deaths,2022,10
+BoP - Kansas,Deaths,2023,8
+BoP - Kansas,Deaths,2024,NA
+BoP - Kansas,Pop.Jul,2019,1667
+BoP - Kansas,Pop.Jul,2020,1584
+BoP - Kansas,Pop.Jul,2021,1668
+BoP - Kansas,Pop.Jul,2022,1529
+BoP - Kansas,Pop.Jul,2023,1593
+BoP - Kansas,Pop.Jul,2024,1613
+BoP - Kansas,NA,NA,29.99400119976005
+BoP - Kansas,NA,NA,25.252525252525256
+BoP - Kansas,NA,NA,41.96642685851319
+BoP - Kansas,NA,NA,65.40222367560497
+BoP - Kansas,NA,NA,50.219711236660395
+BoP - Kansas,NA,NA,NA
+BoP - Kansas,NA,NA,-20
+BoP - Kansas,NA,NA,75
+BoP - Kansas,NA,NA,42.857142857142854
+BoP - Kansas,NA,NA,-20
+BoP - Kansas,NA,NA,NA
+BoP - Kansas,NA,NA,NA
+BoP - Kansas,NA,NA,-4.979004199160168
+BoP - Kansas,NA,NA,5.303030303030303
+BoP - Kansas,NA,NA,-8.333333333333332
+BoP - Kansas,NA,NA,4.185742315238718
+BoP - Kansas,NA,NA,1.2554927809165097
+BoP - Kansas,NA,NA,-3.239352129574085
+BoP - Kentucky,Deaths,2019,21
+BoP - Kentucky,Deaths,2020,28
+BoP - Kentucky,Deaths,2021,21
+BoP - Kentucky,Deaths,2022,20
+BoP - Kentucky,Deaths,2023,20
+BoP - Kentucky,Deaths,2024,NA
+BoP - Kentucky,Pop.Jul,2019,6633
+BoP - Kentucky,Pop.Jul,2020,6059
+BoP - Kentucky,Pop.Jul,2021,5767
+BoP - Kentucky,Pop.Jul,2022,6614
+BoP - Kentucky,Pop.Jul,2023,6811
+BoP - Kentucky,Pop.Jul,2024,6503
+BoP - Kentucky,NA,NA,31.659882406151063
+BoP - Kentucky,NA,NA,46.212246245254995
+BoP - Kentucky,NA,NA,36.41408011097624
+BoP - Kentucky,NA,NA,30.23888720895071
+BoP - Kentucky,NA,NA,29.364263691087945
+BoP - Kentucky,NA,NA,NA
+BoP - Kentucky,NA,NA,33.33333333333333
+BoP - Kentucky,NA,NA,-25
+BoP - Kentucky,NA,NA,-4.761904761904762
+BoP - Kentucky,NA,NA,0
+BoP - Kentucky,NA,NA,NA
+BoP - Kentucky,NA,NA,NA
+BoP - Kentucky,NA,NA,-8.653701191014623
+BoP - Kentucky,NA,NA,-4.819277108433735
+BoP - Kentucky,NA,NA,14.687012311427086
+BoP - Kentucky,NA,NA,2.978530390081645
+BoP - Kentucky,NA,NA,-4.522096608427543
+BoP - Kentucky,NA,NA,-1.9598974822855422
+BoP - Louisiana,Deaths,2019,1
+BoP - Louisiana,Deaths,2020,14
+BoP - Louisiana,Deaths,2021,1
+BoP - Louisiana,Deaths,2022,5
+BoP - Louisiana,Deaths,2023,6
+BoP - Louisiana,Deaths,2024,NA
+BoP - Louisiana,Pop.Jul,2019,4908
+BoP - Louisiana,Pop.Jul,2020,4244
+BoP - Louisiana,Pop.Jul,2021,4693
+BoP - Louisiana,Pop.Jul,2022,4957
+BoP - Louisiana,Pop.Jul,2023,5028
+BoP - Louisiana,Pop.Jul,2024,4987
+BoP - Louisiana,NA,NA,2.037489812550937
+BoP - Louisiana,NA,NA,32.98774740810556
+BoP - Louisiana,NA,NA,2.1308331557639035
+BoP - Louisiana,NA,NA,10.086746015735322
+BoP - Louisiana,NA,NA,11.933174224343675
+BoP - Louisiana,NA,NA,NA
+BoP - Louisiana,NA,NA,1300
+BoP - Louisiana,NA,NA,-92.85714285714286
+BoP - Louisiana,NA,NA,400
+BoP - Louisiana,NA,NA,20
+BoP - Louisiana,NA,NA,NA
+BoP - Louisiana,NA,NA,NA
+BoP - Louisiana,NA,NA,-13.528932355338224
+BoP - Louisiana,NA,NA,10.579641847313855
+BoP - Louisiana,NA,NA,5.625399531216706
+BoP - Louisiana,NA,NA,1.4323179342344161
+BoP - Louisiana,NA,NA,-0.8154335719968178
+BoP - Louisiana,NA,NA,1.6096169519152406
+BoP - Maryland,Deaths,2019,7
+BoP - Maryland,Deaths,2020,10
+BoP - Maryland,Deaths,2021,4
+BoP - Maryland,Deaths,2022,5
+BoP - Maryland,Deaths,2023,4
+BoP - Maryland,Deaths,2024,NA
+BoP - Maryland,Pop.Jul,2019,1268
+BoP - Maryland,Pop.Jul,2020,1084
+BoP - Maryland,Pop.Jul,2021,1157
+BoP - Maryland,Pop.Jul,2022,1278
+BoP - Maryland,Pop.Jul,2023,929
+BoP - Maryland,Pop.Jul,2024,1027
+BoP - Maryland,NA,NA,55.20504731861199
+BoP - Maryland,NA,NA,92.25092250922509
+BoP - Maryland,NA,NA,34.57216940363008
+BoP - Maryland,NA,NA,39.123630672926446
+BoP - Maryland,NA,NA,43.05705059203444
+BoP - Maryland,NA,NA,NA
+BoP - Maryland,NA,NA,42.857142857142854
+BoP - Maryland,NA,NA,-60
+BoP - Maryland,NA,NA,25
+BoP - Maryland,NA,NA,-20
+BoP - Maryland,NA,NA,NA
+BoP - Maryland,NA,NA,NA
+BoP - Maryland,NA,NA,-14.511041009463725
+BoP - Maryland,NA,NA,6.734317343173432
+BoP - Maryland,NA,NA,10.458081244598098
+BoP - Maryland,NA,NA,-27.30829420970266
+BoP - Maryland,NA,NA,10.54897739504844
+BoP - Maryland,NA,NA,-19.006309148264986
+BoP - Massachusetts,Deaths,2019,16
+BoP - Massachusetts,Deaths,2020,16
+BoP - Massachusetts,Deaths,2021,16
+BoP - Massachusetts,Deaths,2022,16
+BoP - Massachusetts,Deaths,2023,6
+BoP - Massachusetts,Deaths,2024,NA
+BoP - Massachusetts,Pop.Jul,2019,1101
+BoP - Massachusetts,Pop.Jul,2020,920
+BoP - Massachusetts,Pop.Jul,2021,755
+BoP - Massachusetts,Pop.Jul,2022,962
+BoP - Massachusetts,Pop.Jul,2023,925
+BoP - Massachusetts,Pop.Jul,2024,1015
+BoP - Massachusetts,NA,NA,145.322434150772
+BoP - Massachusetts,NA,NA,173.91304347826087
+BoP - Massachusetts,NA,NA,211.9205298013245
+BoP - Massachusetts,NA,NA,166.32016632016632
+BoP - Massachusetts,NA,NA,64.86486486486486
+BoP - Massachusetts,NA,NA,NA
+BoP - Massachusetts,NA,NA,0
+BoP - Massachusetts,NA,NA,0
+BoP - Massachusetts,NA,NA,0
+BoP - Massachusetts,NA,NA,-62.5
+BoP - Massachusetts,NA,NA,NA
+BoP - Massachusetts,NA,NA,NA
+BoP - Massachusetts,NA,NA,-16.439600363306088
+BoP - Massachusetts,NA,NA,-17.934782608695652
+BoP - Massachusetts,NA,NA,27.417218543046356
+BoP - Massachusetts,NA,NA,-3.8461538461538463
+BoP - Massachusetts,NA,NA,9.72972972972973
+BoP - Massachusetts,NA,NA,-7.811080835603996
+BoP - Michigan,Deaths,2019,2
+BoP - Michigan,Deaths,2020,3
+BoP - Michigan,Deaths,2021,5
+BoP - Michigan,Deaths,2022,4
+BoP - Michigan,Deaths,2023,3
+BoP - Michigan,Deaths,2024,NA
+BoP - Michigan,Pop.Jul,2019,1440
+BoP - Michigan,Pop.Jul,2020,2802
+BoP - Michigan,Pop.Jul,2021,2952
+BoP - Michigan,Pop.Jul,2022,2824
+BoP - Michigan,Pop.Jul,2023,1600
+BoP - Michigan,Pop.Jul,2024,1573
+BoP - Michigan,NA,NA,13.88888888888889
+BoP - Michigan,NA,NA,10.706638115631693
+BoP - Michigan,NA,NA,16.93766937669377
+BoP - Michigan,NA,NA,14.164305949008499
+BoP - Michigan,NA,NA,18.75
+BoP - Michigan,NA,NA,NA
+BoP - Michigan,NA,NA,50
+BoP - Michigan,NA,NA,66.66666666666666
+BoP - Michigan,NA,NA,-20
+BoP - Michigan,NA,NA,-25
+BoP - Michigan,NA,NA,NA
+BoP - Michigan,NA,NA,NA
+BoP - Michigan,NA,NA,94.58333333333333
+BoP - Michigan,NA,NA,5.353319057815846
+BoP - Michigan,NA,NA,-4.336043360433604
+BoP - Michigan,NA,NA,-43.342776203966004
+BoP - Michigan,NA,NA,-1.6875
+BoP - Michigan,NA,NA,9.23611111111111
+BoP - Minnesota,Deaths,2019,10
+BoP - Minnesota,Deaths,2020,18
+BoP - Minnesota,Deaths,2021,9
+BoP - Minnesota,Deaths,2022,12
+BoP - Minnesota,Deaths,2023,8
+BoP - Minnesota,Deaths,2024,NA
+BoP - Minnesota,Pop.Jul,2019,3055
+BoP - Minnesota,Pop.Jul,2020,2619
+BoP - Minnesota,Pop.Jul,2021,2484
+BoP - Minnesota,Pop.Jul,2022,2715
+BoP - Minnesota,Pop.Jul,2023,2870
+BoP - Minnesota,Pop.Jul,2024,3544
+BoP - Minnesota,NA,NA,32.733224222585925
+BoP - Minnesota,NA,NA,68.72852233676976
+BoP - Minnesota,NA,NA,36.231884057971016
+BoP - Minnesota,NA,NA,44.19889502762431
+BoP - Minnesota,NA,NA,27.874564459930312
+BoP - Minnesota,NA,NA,NA
+BoP - Minnesota,NA,NA,80
+BoP - Minnesota,NA,NA,-50
+BoP - Minnesota,NA,NA,33.33333333333333
+BoP - Minnesota,NA,NA,-33.33333333333333
+BoP - Minnesota,NA,NA,NA
+BoP - Minnesota,NA,NA,NA
+BoP - Minnesota,NA,NA,-14.271685761047465
+BoP - Minnesota,NA,NA,-5.154639175257731
+BoP - Minnesota,NA,NA,9.29951690821256
+BoP - Minnesota,NA,NA,5.70902394106814
+BoP - Minnesota,NA,NA,23.48432055749129
+BoP - Minnesota,NA,NA,16.006546644844516
+BoP - Mississippi,Deaths,2019,NA
+BoP - Mississippi,Deaths,2020,5
+BoP - Mississippi,Deaths,2021,3
+BoP - Mississippi,Deaths,2022,3
+BoP - Mississippi,Deaths,2023,1
+BoP - Mississippi,Deaths,2024,NA
+BoP - Mississippi,Pop.Jul,2019,5273
+BoP - Mississippi,Pop.Jul,2020,3858
+BoP - Mississippi,Pop.Jul,2021,3585
+BoP - Mississippi,Pop.Jul,2022,3821
+BoP - Mississippi,Pop.Jul,2023,4459
+BoP - Mississippi,Pop.Jul,2024,4249
+BoP - Mississippi,NA,NA,NA
+BoP - Mississippi,NA,NA,12.960082944530845
+BoP - Mississippi,NA,NA,8.368200836820083
+BoP - Mississippi,NA,NA,7.851347814708192
+BoP - Mississippi,NA,NA,2.242655303879794
+BoP - Mississippi,NA,NA,NA
+BoP - Mississippi,NA,NA,NA
+BoP - Mississippi,NA,NA,-40
+BoP - Mississippi,NA,NA,0
+BoP - Mississippi,NA,NA,-66.66666666666666
+BoP - Mississippi,NA,NA,NA
+BoP - Mississippi,NA,NA,NA
+BoP - Mississippi,NA,NA,-26.834818888678168
+BoP - Mississippi,NA,NA,-7.076205287713841
+BoP - Mississippi,NA,NA,6.582984658298466
+BoP - Mississippi,NA,NA,16.69719968594609
+BoP - Mississippi,NA,NA,-4.709576138147567
+BoP - Mississippi,NA,NA,-19.419685188697137
+BoP - Missouri,Deaths,2019,26
+BoP - Missouri,Deaths,2020,33
+BoP - Missouri,Deaths,2021,34
+BoP - Missouri,Deaths,2022,29
+BoP - Missouri,Deaths,2023,31
+BoP - Missouri,Deaths,2024,NA
+BoP - Missouri,Pop.Jul,2019,1038
+BoP - Missouri,Pop.Jul,2020,891
+BoP - Missouri,Pop.Jul,2021,874
+BoP - Missouri,Pop.Jul,2022,1020
+BoP - Missouri,Pop.Jul,2023,984
+BoP - Missouri,Pop.Jul,2024,1080
+BoP - Missouri,NA,NA,250.48169556840077
+BoP - Missouri,NA,NA,370.3703703703703
+BoP - Missouri,NA,NA,389.01601830663617
+BoP - Missouri,NA,NA,284.3137254901961
+BoP - Missouri,NA,NA,315.040650406504
+BoP - Missouri,NA,NA,NA
+BoP - Missouri,NA,NA,26.923076923076923
+BoP - Missouri,NA,NA,3.0303030303030303
+BoP - Missouri,NA,NA,-14.705882352941178
+BoP - Missouri,NA,NA,6.896551724137931
+BoP - Missouri,NA,NA,NA
+BoP - Missouri,NA,NA,NA
+BoP - Missouri,NA,NA,-14.16184971098266
+BoP - Missouri,NA,NA,-1.9079685746352413
+BoP - Missouri,NA,NA,16.704805491990847
+BoP - Missouri,NA,NA,-3.5294117647058822
+BoP - Missouri,NA,NA,9.75609756097561
+BoP - Missouri,NA,NA,4.046242774566474
+BoP - NA,Deaths,2019,1
+BoP - NA,Deaths,2020,1
+BoP - NA,Deaths,2021,NA
+BoP - NA,Deaths,2022,2
+BoP - NA,Deaths,2023,1
+BoP - NA,Deaths,2024,NA
+BoP - NA,Pop.Jul,2019,6221.5
+BoP - NA,Pop.Jul,2020,7770
+BoP - NA,Pop.Jul,2021,8118
+BoP - NA,Pop.Jul,2022,7918.5
+BoP - NA,Pop.Jul,2023,7824.5
+BoP - NA,Pop.Jul,2024,7524.5
+BoP - NA,NA,NA,1.607329422165073
+BoP - NA,NA,NA,1.2870012870012868
+BoP - NA,NA,NA,NA
+BoP - NA,NA,NA,2.5257308833743766
+BoP - NA,NA,NA,1.2780369352674292
+BoP - NA,NA,NA,NA
+BoP - NA,NA,NA,0
+BoP - NA,NA,NA,NA
+BoP - NA,NA,NA,NA
+BoP - NA,NA,NA,-50
+BoP - NA,NA,NA,NA
+BoP - NA,NA,NA,NA
+BoP - NA,NA,NA,24.889496102226154
+BoP - NA,NA,NA,4.478764478764479
+BoP - NA,NA,NA,-2.45750184774575
+BoP - NA,NA,NA,-1.187093515185957
+BoP - NA,NA,NA,-3.834110805802288
+BoP - NA,NA,NA,20.943502370810897
+BoP - New Jersey,Deaths,2019,1
+BoP - New Jersey,Deaths,2020,4
+BoP - New Jersey,Deaths,2021,6
+BoP - New Jersey,Deaths,2022,3
+BoP - New Jersey,Deaths,2023,7
+BoP - New Jersey,Deaths,2024,NA
+BoP - New Jersey,Pop.Jul,2019,5086
+BoP - New Jersey,Pop.Jul,2020,3696
+BoP - New Jersey,Pop.Jul,2021,3777
+BoP - New Jersey,Pop.Jul,2022,3977
+BoP - New Jersey,Pop.Jul,2023,4602
+BoP - New Jersey,Pop.Jul,2024,4899
+BoP - New Jersey,NA,NA,1.966181675186787
+BoP - New Jersey,NA,NA,10.822510822510823
+BoP - New Jersey,NA,NA,15.885623510722795
+BoP - New Jersey,NA,NA,7.543374402816193
+BoP - New Jersey,NA,NA,15.210777922642329
+BoP - New Jersey,NA,NA,NA
+BoP - New Jersey,NA,NA,300
+BoP - New Jersey,NA,NA,50
+BoP - New Jersey,NA,NA,-50
+BoP - New Jersey,NA,NA,133.33333333333331
+BoP - New Jersey,NA,NA,NA
+BoP - New Jersey,NA,NA,NA
+BoP - New Jersey,NA,NA,-27.32992528509634
+BoP - New Jersey,NA,NA,2.1915584415584415
+BoP - New Jersey,NA,NA,5.295207836907599
+BoP - New Jersey,NA,NA,15.715363339200403
+BoP - New Jersey,NA,NA,6.453715775749674
+BoP - New Jersey,NA,NA,-3.676759732599292
+BoP - New York,Deaths,2019,4
+BoP - New York,Deaths,2020,9
+BoP - New York,Deaths,2021,4
+BoP - New York,Deaths,2022,12
+BoP - New York,Deaths,2023,7
+BoP - New York,Deaths,2024,NA
+BoP - New York,Pop.Jul,2019,4022
+BoP - New York,Pop.Jul,2020,3324
+BoP - New York,Pop.Jul,2021,3056
+BoP - New York,Pop.Jul,2022,3065
+BoP - New York,Pop.Jul,2023,3320
+BoP - New York,Pop.Jul,2024,3022
+BoP - New York,NA,NA,9.945300845350571
+BoP - New York,NA,NA,27.07581227436823
+BoP - New York,NA,NA,13.089005235602095
+BoP - New York,NA,NA,39.151712887438826
+BoP - New York,NA,NA,21.08433734939759
+BoP - New York,NA,NA,NA
+BoP - New York,NA,NA,125
+BoP - New York,NA,NA,-55.55555555555556
+BoP - New York,NA,NA,200
+BoP - New York,NA,NA,-41.66666666666667
+BoP - New York,NA,NA,NA
+BoP - New York,NA,NA,NA
+BoP - New York,NA,NA,-17.35454997513675
+BoP - New York,NA,NA,-8.062575210589651
+BoP - New York,NA,NA,0.29450261780104714
+BoP - New York,NA,NA,8.31973898858075
+BoP - New York,NA,NA,-8.975903614457831
+BoP - New York,NA,NA,-24.86325211337643
+BoP - North Carolina,Deaths,2019,113
+BoP - North Carolina,Deaths,2020,104
+BoP - North Carolina,Deaths,2021,79
+BoP - North Carolina,Deaths,2022,67
+BoP - North Carolina,Deaths,2023,54
+BoP - North Carolina,Deaths,2024,NA
+BoP - North Carolina,Pop.Jul,2019,5954
+BoP - North Carolina,Pop.Jul,2020,5333
+BoP - North Carolina,Pop.Jul,2021,3513
+BoP - North Carolina,Pop.Jul,2022,3953
+BoP - North Carolina,Pop.Jul,2023,4048
+BoP - North Carolina,Pop.Jul,2024,4293
+BoP - North Carolina,NA,NA,189.78837756130335
+BoP - North Carolina,NA,NA,195.01218826176634
+BoP - North Carolina,NA,NA,224.87902077996017
+BoP - North Carolina,NA,NA,169.4915254237288
+BoP - North Carolina,NA,NA,133.399209486166
+BoP - North Carolina,NA,NA,NA
+BoP - North Carolina,NA,NA,-7.964601769911504
+BoP - North Carolina,NA,NA,-24.03846153846154
+BoP - North Carolina,NA,NA,-15.18987341772152
+BoP - North Carolina,NA,NA,-19.402985074626866
+BoP - North Carolina,NA,NA,NA
+BoP - North Carolina,NA,NA,NA
+BoP - North Carolina,NA,NA,-10.429963050050386
+BoP - North Carolina,NA,NA,-34.127132945809116
+BoP - North Carolina,NA,NA,12.524907486478792
+BoP - North Carolina,NA,NA,2.4032380470528714
+BoP - North Carolina,NA,NA,6.052371541501976
+BoP - North Carolina,NA,NA,-27.897211958347327
+BoP - Ohio,Deaths,2019,4
+BoP - Ohio,Deaths,2020,12
+BoP - Ohio,Deaths,2021,7
+BoP - Ohio,Deaths,2022,7
+BoP - Ohio,Deaths,2023,3
+BoP - Ohio,Deaths,2024,NA
+BoP - Ohio,Pop.Jul,2019,2462
+BoP - Ohio,Pop.Jul,2020,2212
+BoP - Ohio,Pop.Jul,2021,1397
+BoP - Ohio,Pop.Jul,2022,1810
+BoP - Ohio,Pop.Jul,2023,2004
+BoP - Ohio,Pop.Jul,2024,1940
+BoP - Ohio,NA,NA,16.246953696181965
+BoP - Ohio,NA,NA,54.249547920434
+BoP - Ohio,NA,NA,50.107372942018614
+BoP - Ohio,NA,NA,38.67403314917127
+BoP - Ohio,NA,NA,14.970059880239521
+BoP - Ohio,NA,NA,NA
+BoP - Ohio,NA,NA,200
+BoP - Ohio,NA,NA,-41.66666666666667
+BoP - Ohio,NA,NA,0
+BoP - Ohio,NA,NA,-57.14285714285714
+BoP - Ohio,NA,NA,NA
+BoP - Ohio,NA,NA,NA
+BoP - Ohio,NA,NA,-10.154346060113728
+BoP - Ohio,NA,NA,-36.844484629294755
+BoP - Ohio,NA,NA,29.563350035790982
+BoP - Ohio,NA,NA,10.718232044198896
+BoP - Ohio,NA,NA,-3.1936127744510974
+BoP - Ohio,NA,NA,-21.202274573517464
+BoP - Oklahoma,Deaths,2019,4
+BoP - Oklahoma,Deaths,2020,7
+BoP - Oklahoma,Deaths,2021,3
+BoP - Oklahoma,Deaths,2022,2
+BoP - Oklahoma,Deaths,2023,2
+BoP - Oklahoma,Deaths,2024,NA
+BoP - Oklahoma,Pop.Jul,2019,4679
+BoP - Oklahoma,Pop.Jul,2020,3340
+BoP - Oklahoma,Pop.Jul,2021,2450
+BoP - Oklahoma,Pop.Jul,2022,2093
+BoP - Oklahoma,Pop.Jul,2023,2285
+BoP - Oklahoma,Pop.Jul,2024,2565
+BoP - Oklahoma,NA,NA,8.548835221201111
+BoP - Oklahoma,NA,NA,20.958083832335326
+BoP - Oklahoma,NA,NA,12.244897959183673
+BoP - Oklahoma,NA,NA,9.555661729574773
+BoP - Oklahoma,NA,NA,8.7527352297593
+BoP - Oklahoma,NA,NA,NA
+BoP - Oklahoma,NA,NA,75
+BoP - Oklahoma,NA,NA,-57.14285714285714
+BoP - Oklahoma,NA,NA,-33.33333333333333
+BoP - Oklahoma,NA,NA,0
+BoP - Oklahoma,NA,NA,NA
+BoP - Oklahoma,NA,NA,NA
+BoP - Oklahoma,NA,NA,-28.617225902970723
+BoP - Oklahoma,NA,NA,-26.646706586826348
+BoP - Oklahoma,NA,NA,-14.571428571428571
+BoP - Oklahoma,NA,NA,9.173435260391782
+BoP - Oklahoma,NA,NA,12.25382932166302
+BoP - Oklahoma,NA,NA,-45.18059414404787
+BoP - Oregon,Deaths,2019,1
+BoP - Oregon,Deaths,2020,1
+BoP - Oregon,Deaths,2021,5
+BoP - Oregon,Deaths,2022,1
+BoP - Oregon,Deaths,2023,2
+BoP - Oregon,Deaths,2024,NA
+BoP - Oregon,Pop.Jul,2019,1745
+BoP - Oregon,Pop.Jul,2020,1585
+BoP - Oregon,Pop.Jul,2021,1579
+BoP - Oregon,Pop.Jul,2022,1443
+BoP - Oregon,Pop.Jul,2023,1534
+BoP - Oregon,Pop.Jul,2024,1544
+BoP - Oregon,NA,NA,5.730659025787965
+BoP - Oregon,NA,NA,6.309148264984228
+BoP - Oregon,NA,NA,31.665611146295124
+BoP - Oregon,NA,NA,6.93000693000693
+BoP - Oregon,NA,NA,13.03780964797914
+BoP - Oregon,NA,NA,NA
+BoP - Oregon,NA,NA,0
+BoP - Oregon,NA,NA,400
+BoP - Oregon,NA,NA,-80
+BoP - Oregon,NA,NA,100
+BoP - Oregon,NA,NA,NA
+BoP - Oregon,NA,NA,NA
+BoP - Oregon,NA,NA,-9.169054441260744
+BoP - Oregon,NA,NA,-0.3785488958990536
+BoP - Oregon,NA,NA,-8.613046231792273
+BoP - Oregon,NA,NA,6.306306306306306
+BoP - Oregon,NA,NA,0.651890482398957
+BoP - Oregon,NA,NA,-11.51862464183381
+BoP - Pennsylvania,Deaths,2019,10
+BoP - Pennsylvania,Deaths,2020,8
+BoP - Pennsylvania,Deaths,2021,11
+BoP - Pennsylvania,Deaths,2022,13
+BoP - Pennsylvania,Deaths,2023,14
+BoP - Pennsylvania,Deaths,2024,NA
+BoP - Pennsylvania,Pop.Jul,2019,11961
+BoP - Pennsylvania,Pop.Jul,2020,10522
+BoP - Pennsylvania,Pop.Jul,2021,8425
+BoP - Pennsylvania,Pop.Jul,2022,9288
+BoP - Pennsylvania,Pop.Jul,2023,8890
+BoP - Pennsylvania,Pop.Jul,2024,8948
+BoP - Pennsylvania,NA,NA,8.36050497450046
+BoP - Pennsylvania,NA,NA,7.603117278084015
+BoP - Pennsylvania,NA,NA,13.056379821958457
+BoP - Pennsylvania,NA,NA,13.996554694229113
+BoP - Pennsylvania,NA,NA,15.748031496062993
+BoP - Pennsylvania,NA,NA,NA
+BoP - Pennsylvania,NA,NA,-20
+BoP - Pennsylvania,NA,NA,37.5
+BoP - Pennsylvania,NA,NA,18.181818181818183
+BoP - Pennsylvania,NA,NA,7.6923076923076925
+BoP - Pennsylvania,NA,NA,NA
+BoP - Pennsylvania,NA,NA,NA
+BoP - Pennsylvania,NA,NA,-12.030766658306161
+BoP - Pennsylvania,NA,NA,-19.929671165177723
+BoP - Pennsylvania,NA,NA,10.243323442136498
+BoP - Pennsylvania,NA,NA,-4.285099052540913
+BoP - Pennsylvania,NA,NA,0.6524184476940382
+BoP - Pennsylvania,NA,NA,-25.190201488169883
+BoP - South Carolina,Deaths,2019,4
+BoP - South Carolina,Deaths,2020,6
+BoP - South Carolina,Deaths,2021,8
+BoP - South Carolina,Deaths,2022,12
+BoP - South Carolina,Deaths,2023,8
+BoP - South Carolina,Deaths,2024,NA
+BoP - South Carolina,Pop.Jul,2019,5912
+BoP - South Carolina,Pop.Jul,2020,4175
+BoP - South Carolina,Pop.Jul,2021,4835
+BoP - South Carolina,Pop.Jul,2022,5023
+BoP - South Carolina,Pop.Jul,2023,5159
+BoP - South Carolina,Pop.Jul,2024,5097
+BoP - South Carolina,NA,NA,6.765899864682003
+BoP - South Carolina,NA,NA,14.37125748502994
+BoP - South Carolina,NA,NA,16.546018614270942
+BoP - South Carolina,NA,NA,23.89010551463269
+BoP - South Carolina,NA,NA,15.506881178522969
+BoP - South Carolina,NA,NA,NA
+BoP - South Carolina,NA,NA,50
+BoP - South Carolina,NA,NA,33.33333333333333
+BoP - South Carolina,NA,NA,50
+BoP - South Carolina,NA,NA,-33.33333333333333
+BoP - South Carolina,NA,NA,NA
+BoP - South Carolina,NA,NA,NA
+BoP - South Carolina,NA,NA,-29.380920162381596
+BoP - South Carolina,NA,NA,15.808383233532936
+BoP - South Carolina,NA,NA,3.8883143743536714
+BoP - South Carolina,NA,NA,2.7075452916583713
+BoP - South Carolina,NA,NA,-1.2017832913355302
+BoP - South Carolina,NA,NA,-13.78552097428958
+BoP - Tennessee,Deaths,2019,1
+BoP - Tennessee,Deaths,2020,5
+BoP - Tennessee,Deaths,2021,9
+BoP - Tennessee,Deaths,2022,10
+BoP - Tennessee,Deaths,2023,8
+BoP - Tennessee,Deaths,2024,NA
+BoP - Tennessee,Pop.Jul,2019,1312
+BoP - Tennessee,Pop.Jul,2020,1140
+BoP - Tennessee,Pop.Jul,2021,1071
+BoP - Tennessee,Pop.Jul,2022,1245
+BoP - Tennessee,Pop.Jul,2023,1214
+BoP - Tennessee,Pop.Jul,2024,1113
+BoP - Tennessee,NA,NA,7.621951219512195
+BoP - Tennessee,NA,NA,43.859649122807014
+BoP - Tennessee,NA,NA,84.03361344537815
+BoP - Tennessee,NA,NA,80.32128514056224
+BoP - Tennessee,NA,NA,65.89785831960461
+BoP - Tennessee,NA,NA,NA
+BoP - Tennessee,NA,NA,400
+BoP - Tennessee,NA,NA,80
+BoP - Tennessee,NA,NA,11.11111111111111
+BoP - Tennessee,NA,NA,-20
+BoP - Tennessee,NA,NA,NA
+BoP - Tennessee,NA,NA,NA
+BoP - Tennessee,NA,NA,-13.109756097560975
+BoP - Tennessee,NA,NA,-6.052631578947368
+BoP - Tennessee,NA,NA,16.246498599439775
+BoP - Tennessee,NA,NA,-2.4899598393574296
+BoP - Tennessee,NA,NA,-8.319604612850082
+BoP - Tennessee,NA,NA,-15.167682926829269
+BoP - Texas,Deaths,2019,52
+BoP - Texas,Deaths,2020,59
+BoP - Texas,Deaths,2021,54
+BoP - Texas,Deaths,2022,62
+BoP - Texas,Deaths,2023,50
+BoP - Texas,Deaths,2024,NA
+BoP - Texas,Pop.Jul,2019,24978
+BoP - Texas,Pop.Jul,2020,21532
+BoP - Texas,Pop.Jul,2021,21630
+BoP - Texas,Pop.Jul,2022,16336
+BoP - Texas,Pop.Jul,2023,16476
+BoP - Texas,Pop.Jul,2024,16220
+BoP - Texas,NA,NA,20.818320121707103
+BoP - Texas,NA,NA,27.40107746609697
+BoP - Texas,NA,NA,24.965325936199722
+BoP - Texas,NA,NA,37.95298726738492
+BoP - Texas,NA,NA,30.347171643602817
+BoP - Texas,NA,NA,NA
+BoP - Texas,NA,NA,13.461538461538462
+BoP - Texas,NA,NA,-8.47457627118644
+BoP - Texas,NA,NA,14.814814814814813
+BoP - Texas,NA,NA,-19.35483870967742
+BoP - Texas,NA,NA,NA
+BoP - Texas,NA,NA,NA
+BoP - Texas,NA,NA,-13.796140603731283
+BoP - Texas,NA,NA,0.45513654096228867
+BoP - Texas,NA,NA,-24.475265834489136
+BoP - Texas,NA,NA,0.8570029382957884
+BoP - Texas,NA,NA,-1.5537751881524642
+BoP - Texas,NA,NA,-35.062855312675154
+BoP - Virginia,Deaths,2019,2
+BoP - Virginia,Deaths,2020,5
+BoP - Virginia,Deaths,2021,1
+BoP - Virginia,Deaths,2022,5
+BoP - Virginia,Deaths,2023,2
+BoP - Virginia,Deaths,2024,NA
+BoP - Virginia,Pop.Jul,2019,4267
+BoP - Virginia,Pop.Jul,2020,3738
+BoP - Virginia,Pop.Jul,2021,3400
+BoP - Virginia,Pop.Jul,2022,3780
+BoP - Virginia,Pop.Jul,2023,3969
+BoP - Virginia,Pop.Jul,2024,3641
+BoP - Virginia,NA,NA,4.687133817670494
+BoP - Virginia,NA,NA,13.37613697164259
+BoP - Virginia,NA,NA,2.941176470588235
+BoP - Virginia,NA,NA,13.227513227513226
+BoP - Virginia,NA,NA,5.039052658100277
+BoP - Virginia,NA,NA,NA
+BoP - Virginia,NA,NA,150
+BoP - Virginia,NA,NA,-80
+BoP - Virginia,NA,NA,400
+BoP - Virginia,NA,NA,-60
+BoP - Virginia,NA,NA,NA
+BoP - Virginia,NA,NA,NA
+BoP - Virginia,NA,NA,-12.397468947738458
+BoP - Virginia,NA,NA,-9.042268592830391
+BoP - Virginia,NA,NA,11.176470588235295
+BoP - Virginia,NA,NA,5
+BoP - Virginia,NA,NA,-8.264046359284455
+BoP - Virginia,NA,NA,-14.670728849308649
+BoP - Washington,Deaths,2019,NA
+BoP - Washington,Deaths,2020,NA
+BoP - Washington,Deaths,2021,3
+BoP - Washington,Deaths,2022,3
+BoP - Washington,Deaths,2023,3
+BoP - Washington,Deaths,2024,NA
+BoP - Washington,Pop.Jul,2019,666
+BoP - Washington,Pop.Jul,2020,585
+BoP - Washington,Pop.Jul,2021,689
+BoP - Washington,Pop.Jul,2022,818
+BoP - Washington,Pop.Jul,2023,726
+BoP - Washington,Pop.Jul,2024,640
+BoP - Washington,NA,NA,NA
+BoP - Washington,NA,NA,NA
+BoP - Washington,NA,NA,43.54136429608128
+BoP - Washington,NA,NA,36.67481662591687
+BoP - Washington,NA,NA,41.32231404958678
+BoP - Washington,NA,NA,NA
+BoP - Washington,NA,NA,NA
+BoP - Washington,NA,NA,NA
+BoP - Washington,NA,NA,0
+BoP - Washington,NA,NA,0
+BoP - Washington,NA,NA,NA
+BoP - Washington,NA,NA,NA
+BoP - Washington,NA,NA,-12.162162162162163
+BoP - Washington,NA,NA,17.77777777777778
+BoP - Washington,NA,NA,18.722786647314948
+BoP - Washington,NA,NA,-11.246943765281173
+BoP - Washington,NA,NA,-11.84573002754821
+BoP - Washington,NA,NA,-3.903903903903904
+BoP - West Virginia,Deaths,2019,7
+BoP - West Virginia,Deaths,2020,12
+BoP - West Virginia,Deaths,2021,16
+BoP - West Virginia,Deaths,2022,10
+BoP - West Virginia,Deaths,2023,15
+BoP - West Virginia,Deaths,2024,NA
+BoP - West Virginia,Pop.Jul,2019,9159
+BoP - West Virginia,Pop.Jul,2020,8032
+BoP - West Virginia,Pop.Jul,2021,8792
+BoP - West Virginia,Pop.Jul,2022,9578
+BoP - West Virginia,Pop.Jul,2023,9834
+BoP - West Virginia,Pop.Jul,2024,9427
+BoP - West Virginia,NA,NA,7.642755759362375
+BoP - West Virginia,NA,NA,14.9402390438247
+BoP - West Virginia,NA,NA,18.198362147406733
+BoP - West Virginia,NA,NA,10.440593025683858
+BoP - West Virginia,NA,NA,15.253203172666261
+BoP - West Virginia,NA,NA,NA
+BoP - West Virginia,NA,NA,71.42857142857143
+BoP - West Virginia,NA,NA,33.33333333333333
+BoP - West Virginia,NA,NA,-37.5
+BoP - West Virginia,NA,NA,50
+BoP - West Virginia,NA,NA,NA
+BoP - West Virginia,NA,NA,NA
+BoP - West Virginia,NA,NA,-12.304836772573426
+BoP - West Virginia,NA,NA,9.46215139442231
+BoP - West Virginia,NA,NA,8.939945404913557
+BoP - West Virginia,NA,NA,2.672791814575068
+BoP - West Virginia,NA,NA,-4.138702460850112
+BoP - West Virginia,NA,NA,2.9260836335844522
+BoP - Wisconsin,Deaths,2019,NA
+BoP - Wisconsin,Deaths,2020,1
+BoP - Wisconsin,Deaths,2021,NA
+BoP - Wisconsin,Deaths,2022,1
+BoP - Wisconsin,Deaths,2023,2
+BoP - Wisconsin,Deaths,2024,NA
+BoP - Wisconsin,Pop.Jul,2019,1003
+BoP - Wisconsin,Pop.Jul,2020,897
+BoP - Wisconsin,Pop.Jul,2021,960
+BoP - Wisconsin,Pop.Jul,2022,1087
+BoP - Wisconsin,Pop.Jul,2023,1142
+BoP - Wisconsin,Pop.Jul,2024,1140
+BoP - Wisconsin,NA,NA,NA
+BoP - Wisconsin,NA,NA,11.148272017837234
+BoP - Wisconsin,NA,NA,NA
+BoP - Wisconsin,NA,NA,9.19963201471941
+BoP - Wisconsin,NA,NA,17.513134851138354
+BoP - Wisconsin,NA,NA,NA
+BoP - Wisconsin,NA,NA,NA
+BoP - Wisconsin,NA,NA,NA
+BoP - Wisconsin,NA,NA,NA
+BoP - Wisconsin,NA,NA,100
+BoP - Wisconsin,NA,NA,NA
+BoP - Wisconsin,NA,NA,NA
+BoP - Wisconsin,NA,NA,-10.568295114656031
+BoP - Wisconsin,NA,NA,7.023411371237458
+BoP - Wisconsin,NA,NA,13.229166666666666
+BoP - Wisconsin,NA,NA,5.059797608095677
+BoP - Wisconsin,NA,NA,-0.17513134851138354
+BoP - Wisconsin,NA,NA,13.65902293120638
+BoP — All Locations,Deaths,2019,383
+BoP — All Locations,Deaths,2020,533
+BoP — All Locations,Deaths,2021,437
+BoP — All Locations,Deaths,2022,415
+BoP — All Locations,Deaths,2023,378
+BoP — All Locations,Deaths,2024,380
+BoP — All Locations,Pop.Jul,2019,173294.5
+BoP — All Locations,Pop.Jul,2020,150043
+BoP — All Locations,Pop.Jul,2021,144768
+BoP — All Locations,Pop.Jul,2022,148702.5
+BoP — All Locations,Pop.Jul,2023,149454.5
+BoP — All Locations,Pop.Jul,2024,149523.5
+BoP — All Locations,NA,NA,22.101105343793368
+BoP — All Locations,NA,NA,35.523150030324636
+BoP — All Locations,NA,NA,30.186229000884172
+BoP — All Locations,NA,NA,27.90807148501202
+BoP — All Locations,NA,NA,25.291978495127278
+BoP — All Locations,NA,NA,25.414065347587503
+BoP — All Locations,NA,NA,39.1644908616188
+BoP — All Locations,NA,NA,-18.01125703564728
+BoP — All Locations,NA,NA,-5.034324942791762
+BoP — All Locations,NA,NA,-8.91566265060241
+BoP — All Locations,NA,NA,0.5291005291005291
+BoP — All Locations,NA,NA,-0.7832898172323759
+BoP — All Locations,NA,NA,-13.417332921702652
+BoP — All Locations,NA,NA,-3.5156588444645873
+BoP — All Locations,NA,NA,2.71779675066313
+BoP — All Locations,NA,NA,0.5057077049814227
+BoP — All Locations,NA,NA,0.04616789725301011
+BoP — All Locations,NA,NA,-13.717111622123031
+California,Deaths,2019,403
+California,Deaths,2020,499
+California,Deaths,2021,413
+California,Deaths,2022,396
+California,Deaths,2023,375
+California,Deaths,2024,396
+California,Pop.Jul,2019,127662
+California,Pop.Jul,2020,120480
+California,Pop.Jul,2021,96716
+California,Pop.Jul,2022,97629.5
+California,Pop.Jul,2023,97520
+California,Pop.Jul,2024,94717
+California,NA,NA,31.567733546395953
+California,NA,NA,41.41766268260292
+California,NA,NA,42.70234501013277
+California,NA,NA,40.56151060898601
+California,NA,NA,38.45365053322396
+California,NA,NA,41.80875661180147
+California,NA,NA,23.82133995037221
+California,NA,NA,-17.234468937875754
+California,NA,NA,-4.116222760290557
+California,NA,NA,-5.303030303030303
+California,NA,NA,5.6000000000000005
+California,NA,NA,-1.7369727047146404
+California,NA,NA,-5.625793109930911
+California,NA,NA,-19.724435590969456
+California,NA,NA,0.9445179701393771
+California,NA,NA,-0.11215872251727194
+California,NA,NA,-2.87428219852338
+California,NA,NA,-25.80642634456612
+Colorado,Deaths,2019,45
+Colorado,Deaths,2020,68
+Colorado,Deaths,2021,46
+Colorado,Deaths,2022,54
+Colorado,Deaths,2023,43
+Colorado,Deaths,2024,52
+Colorado,Pop.Jul,2019,20019
+Colorado,Pop.Jul,2020,18647.5
+Colorado,Pop.Jul,2021,15803.5
+Colorado,Pop.Jul,2022,16457.5
+Colorado,Pop.Jul,2023,17023
+Colorado,Pop.Jul,2024,17376
+Colorado,NA,NA,22.478645286977372
+Colorado,NA,NA,36.466014211020244
+Colorado,NA,NA,29.10747619198279
+Colorado,NA,NA,32.811787938629806
+Colorado,NA,NA,25.25994243082888
+Colorado,NA,NA,29.926335174953962
+Colorado,NA,NA,51.11111111111111
+Colorado,NA,NA,-32.35294117647059
+Colorado,NA,NA,17.391304347826086
+Colorado,NA,NA,-20.37037037037037
+Colorado,NA,NA,20.930232558139537
+Colorado,NA,NA,15.555555555555555
+Colorado,NA,NA,-6.8509915580198815
+Colorado,NA,NA,-15.25137417884435
+Colorado,NA,NA,4.138323789034075
+Colorado,NA,NA,3.4361233480176208
+Colorado,NA,NA,2.0736650414145568
+Colorado,NA,NA,-13.202457665218043
+Connecticut,Deaths,2019,19
+Connecticut,Deaths,2020,34
+Connecticut,Deaths,2021,24
+Connecticut,Deaths,2022,29
+Connecticut,Deaths,2023,20
+Connecticut,Deaths,2024,32
+Connecticut,Pop.Jul,2019,12861
+Connecticut,Pop.Jul,2020,11180.5
+Connecticut,Pop.Jul,2021,9052
+Connecticut,Pop.Jul,2022,9788
+Connecticut,Pop.Jul,2023,10086.5
+Connecticut,Pop.Jul,2024,10580
+Connecticut,NA,NA,14.773345774045563
+Connecticut,NA,NA,30.410088994231028
+Connecticut,NA,NA,26.513477684489615
+Connecticut,NA,NA,29.62811606048222
+Connecticut,NA,NA,19.82848361671541
+Connecticut,NA,NA,30.245746691871457
+Connecticut,NA,NA,78.94736842105263
+Connecticut,NA,NA,-29.411764705882355
+Connecticut,NA,NA,20.833333333333336
+Connecticut,NA,NA,-31.03448275862069
+Connecticut,NA,NA,60
+Connecticut,NA,NA,68.42105263157895
+Connecticut,NA,NA,-13.06663556488609
+Connecticut,NA,NA,-19.037610124770808
+Connecticut,NA,NA,8.130799823243482
+Connecticut,NA,NA,3.0496526358806704
+Connecticut,NA,NA,4.892678332424528
+Connecticut,NA,NA,-17.73579037399891
+Delaware,Deaths,2019,12
+Delaware,Deaths,2020,21
+Delaware,Deaths,2021,17
+Delaware,Deaths,2022,19
+Delaware,Deaths,2023,19
+Delaware,Deaths,2024,20
+Delaware,Pop.Jul,2019,5927.5
+Delaware,Pop.Jul,2020,5165
+Delaware,Pop.Jul,2021,4625
+Delaware,Pop.Jul,2022,4887
+Delaware,Pop.Jul,2023,4973
+Delaware,Pop.Jul,2024,4940
+Delaware,NA,NA,20.244622522142553
+Delaware,NA,NA,40.658276863504355
+Delaware,NA,NA,36.75675675675676
+Delaware,NA,NA,38.87865766318805
+Delaware,NA,NA,38.206314096119044
+Delaware,NA,NA,40.48582995951417
+Delaware,NA,NA,75
+Delaware,NA,NA,-19.047619047619047
+Delaware,NA,NA,11.76470588235294
+Delaware,NA,NA,0
+Delaware,NA,NA,5.263157894736842
+Delaware,NA,NA,66.66666666666666
+Delaware,NA,NA,-12.863770560944749
+Delaware,NA,NA,-10.454985479186835
+Delaware,NA,NA,5.664864864864865
+Delaware,NA,NA,1.7597708205443015
+Delaware,NA,NA,-0.6635833500904886
+Delaware,NA,NA,-16.65963728384648
+Florida,Deaths,2019,400
+Florida,Deaths,2020,590
+Florida,Deaths,2021,440
+Florida,Deaths,2022,388
+Florida,Deaths,2023,451
+Florida,Deaths,2024,409
+Florida,Pop.Jul,2019,96969.5
+Florida,Pop.Jul,2020,92453.5
+Florida,Pop.Jul,2021,81317.5
+Florida,Pop.Jul,2022,83336.5
+Florida,Pop.Jul,2023,86143.5
+Florida,Pop.Jul,2024,88031
+Florida,NA,NA,41.2500837892327
+Florida,NA,NA,63.815864191188005
+Florida,NA,NA,54.108894149475816
+Florida,NA,NA,46.55823078723009
+Florida,NA,NA,52.354501500403394
+Florida,NA,NA,46.460905817268916
+Florida,NA,NA,47.5
+Florida,NA,NA,-25.423728813559322
+Florida,NA,NA,-11.818181818181818
+Florida,NA,NA,16.237113402061855
+Florida,NA,NA,-9.312638580931264
+Florida,NA,NA,2.25
+Florida,NA,NA,-4.657134459804372
+Florida,NA,NA,-12.044973959882535
+Florida,NA,NA,2.4828603929043567
+Florida,NA,NA,3.3682720056637847
+Florida,NA,NA,2.1911113432818494
+Florida,NA,NA,-9.217846848751412
+Georgia,Deaths,2019,160
+Georgia,Deaths,2020,281
+Georgia,Deaths,2021,247
+Georgia,Deaths,2022,255
+Georgia,Deaths,2023,262
+Georgia,Deaths,2024,333
+Georgia,Pop.Jul,2019,55124.5
+Georgia,Pop.Jul,2020,53658.5
+Georgia,Pop.Jul,2021,46648.5
+Georgia,Pop.Jul,2022,47550
+Georgia,Pop.Jul,2023,49391
+Georgia,Pop.Jul,2024,51002
+Georgia,NA,NA,29.02520657783744
+Georgia,NA,NA,52.36821752378468
+Georgia,NA,NA,52.94918378940373
+Georgia,NA,NA,53.62776025236593
+Georgia,NA,NA,53.046101516470614
+Georgia,NA,NA,65.29155719383553
+Georgia,NA,NA,75.625
+Georgia,NA,NA,-12.099644128113878
+Georgia,NA,NA,3.2388663967611335
+Georgia,NA,NA,2.7450980392156863
+Georgia,NA,NA,27.099236641221374
+Georgia,NA,NA,108.125
+Georgia,NA,NA,-2.6594345526943557
+Georgia,NA,NA,-13.064099816431693
+Georgia,NA,NA,1.9325380237306666
+Georgia,NA,NA,3.871713985278654
+Georgia,NA,NA,3.2617278451539757
+Georgia,NA,NA,-7.478525882320929
+Hawaii,Deaths,2019,16
+Hawaii,Deaths,2020,19
+Hawaii,Deaths,2021,21
+Hawaii,Deaths,2022,17
+Hawaii,Deaths,2023,18
+Hawaii,Deaths,2024,14
+Hawaii,Pop.Jul,2019,5301.5
+Hawaii,Pop.Jul,2020,4594
+Hawaii,Pop.Jul,2021,4116
+Hawaii,Pop.Jul,2022,4166
+Hawaii,Pop.Jul,2023,4079.5
+Hawaii,Pop.Jul,2024,3887
+Hawaii,NA,NA,30.180137696878244
+Hawaii,NA,NA,41.3582934262081
+Hawaii,NA,NA,51.0204081632653
+Hawaii,NA,NA,40.80652904464715
+Hawaii,NA,NA,44.123054295869586
+Hawaii,NA,NA,36.017494211474144
+Hawaii,NA,NA,18.75
+Hawaii,NA,NA,10.526315789473683
+Hawaii,NA,NA,-19.047619047619047
+Hawaii,NA,NA,5.88235294117647
+Hawaii,NA,NA,-22.22222222222222
+Hawaii,NA,NA,-12.5
+Hawaii,NA,NA,-13.345279637838347
+Hawaii,NA,NA,-10.404875925119722
+Hawaii,NA,NA,1.2147716229348884
+Hawaii,NA,NA,-2.0763322131541044
+Hawaii,NA,NA,-4.718715528863831
+Hawaii,NA,NA,-26.68112798264642
+Idaho,Deaths,2019,26
+Idaho,Deaths,2020,34
+Idaho,Deaths,2021,29
+Idaho,Deaths,2022,19
+Idaho,Deaths,2023,24
+Idaho,Deaths,2024,24
+Idaho,Pop.Jul,2019,8950.5
+Idaho,Pop.Jul,2020,9198.5
+Idaho,Pop.Jul,2021,8245.5
+Idaho,Pop.Jul,2022,8895.5
+Idaho,Pop.Jul,2023,9333.5
+Idaho,Pop.Jul,2024,9763
+Idaho,NA,NA,29.04865649963689
+Idaho,NA,NA,36.96254824156112
+Idaho,NA,NA,35.17069916924383
+Idaho,NA,NA,21.35911415884436
+Idaho,NA,NA,25.713826538811805
+Idaho,NA,NA,24.58260780497798
+Idaho,NA,NA,30.76923076923077
+Idaho,NA,NA,-14.705882352941178
+Idaho,NA,NA,-34.48275862068966
+Idaho,NA,NA,26.31578947368421
+Idaho,NA,NA,0
+Idaho,NA,NA,-7.6923076923076925
+Idaho,NA,NA,2.7707949276576724
+Idaho,NA,NA,-10.36038484535522
+Idaho,NA,NA,7.8830877448305134
+Idaho,NA,NA,4.923837895565173
+Idaho,NA,NA,4.601703541008197
+Idaho,NA,NA,9.077705156136528
+Illinois,Deaths,2019,96
+Illinois,Deaths,2020,168
+Illinois,Deaths,2021,124
+Illinois,Deaths,2022,76
+Illinois,Deaths,2023,83
+Illinois,Deaths,2024,98
+Illinois,Pop.Jul,2019,39299.5
+Illinois,Pop.Jul,2020,35655.5
+Illinois,Pop.Jul,2021,27974
+Illinois,Pop.Jul,2022,29026
+Illinois,Pop.Jul,2023,29798
+Illinois,Pop.Jul,2024,29242
+Illinois,NA,NA,24.427791702184503
+Illinois,NA,NA,47.11755549634699
+Illinois,NA,NA,44.326874955315645
+Illinois,NA,NA,26.183421759801558
+Illinois,NA,NA,27.854218403919727
+Illinois,NA,NA,33.5134395732166
+Illinois,NA,NA,75
+Illinois,NA,NA,-26.190476190476193
+Illinois,NA,NA,-38.70967741935484
+Illinois,NA,NA,9.210526315789473
+Illinois,NA,NA,18.072289156626507
+Illinois,NA,NA,2.083333333333333
+Illinois,NA,NA,-9.272382600287536
+Illinois,NA,NA,-21.543660865785082
+Illinois,NA,NA,3.7606348752412955
+Illinois,NA,NA,2.659684420864053
+Illinois,NA,NA,-1.8658970400698034
+Illinois,NA,NA,-25.591928650491734
+Indiana,Deaths,2019,95
+Indiana,Deaths,2020,141
+Indiana,Deaths,2021,95
+Indiana,Deaths,2022,108
+Indiana,Deaths,2023,96
+Indiana,Deaths,2024,103
+Indiana,Pop.Jul,2019,27021.5
+Indiana,Pop.Jul,2020,26737
+Indiana,Pop.Jul,2021,24308
+Indiana,Pop.Jul,2022,23532.5
+Indiana,Pop.Jul,2023,23405
+Indiana,Pop.Jul,2024,24528
+Indiana,NA,NA,35.15718964528246
+Indiana,NA,NA,52.73590903990724
+Indiana,NA,NA,39.081783774888926
+Indiana,NA,NA,45.89397641559545
+Indiana,NA,NA,41.016876735740226
+Indiana,NA,NA,41.9928245270711
+Indiana,NA,NA,48.421052631578945
+Indiana,NA,NA,-32.62411347517731
+Indiana,NA,NA,13.684210526315791
+Indiana,NA,NA,-11.11111111111111
+Indiana,NA,NA,7.291666666666667
+Indiana,NA,NA,8.421052631578947
+Indiana,NA,NA,-1.0528653109560904
+Indiana,NA,NA,-9.08478886935707
+Indiana,NA,NA,-3.1903077176238277
+Indiana,NA,NA,-0.5418038882396685
+Indiana,NA,NA,4.798120059816278
+Indiana,NA,NA,-9.227837092685453
+Iowa,Deaths,2019,15
+Iowa,Deaths,2020,29
+Iowa,Deaths,2021,33
+Iowa,Deaths,2022,26
+Iowa,Deaths,2023,26
+Iowa,Deaths,2024,NA
+Iowa,Pop.Jul,2019,9368
+Iowa,Pop.Jul,2020,9056.5
+Iowa,Pop.Jul,2021,7711
+Iowa,Pop.Jul,2022,8888
+Iowa,Pop.Jul,2023,9227.5
+Iowa,Pop.Jul,2024,9590
+Iowa,NA,NA,16.01195559350982
+Iowa,NA,NA,32.02120024291945
+Iowa,NA,NA,42.796005706134096
+Iowa,NA,NA,29.252925292529252
+Iowa,NA,NA,28.176645895421295
+Iowa,NA,NA,NA
+Iowa,NA,NA,93.33333333333333
+Iowa,NA,NA,13.793103448275861
+Iowa,NA,NA,-21.21212121212121
+Iowa,NA,NA,0
+Iowa,NA,NA,NA
+Iowa,NA,NA,NA
+Iowa,NA,NA,-3.3251494449188725
+Iowa,NA,NA,-14.856732733395903
+Iowa,NA,NA,15.263908701854492
+Iowa,NA,NA,3.81975697569757
+Iowa,NA,NA,3.928474668111623
+Iowa,NA,NA,2.3697694278394534
+Kansas,Deaths,2019,35
+Kansas,Deaths,2020,38
+Kansas,Deaths,2021,37
+Kansas,Deaths,2022,25
+Kansas,Deaths,2023,40
+Kansas,Deaths,2024,53
+Kansas,Pop.Jul,2019,10202
+Kansas,Pop.Jul,2020,9750
+Kansas,Pop.Jul,2021,8715
+Kansas,Pop.Jul,2022,8514
+Kansas,Pop.Jul,2023,8824
+Kansas,Pop.Jul,2024,9161
+Kansas,NA,NA,34.306998627720056
+Kansas,NA,NA,38.97435897435898
+Kansas,NA,NA,42.455536431440045
+Kansas,NA,NA,29.36340145642471
+Kansas,NA,NA,45.33091568449683
+Kansas,NA,NA,57.85394607575592
+Kansas,NA,NA,8.571428571428571
+Kansas,NA,NA,-2.631578947368421
+Kansas,NA,NA,-32.432432432432435
+Kansas,NA,NA,60
+Kansas,NA,NA,32.5
+Kansas,NA,NA,51.42857142857142
+Kansas,NA,NA,-4.430503822779848
+Kansas,NA,NA,-10.615384615384615
+Kansas,NA,NA,-2.306368330464716
+Kansas,NA,NA,3.641061780596664
+Kansas,NA,NA,3.8191296464188578
+Kansas,NA,NA,-10.203881591844736
+Kentucky,Deaths,2019,63
+Kentucky,Deaths,2020,72
+Kentucky,Deaths,2021,63
+Kentucky,Deaths,2022,58
+Kentucky,Deaths,2023,36
+Kentucky,Deaths,2024,58
+Kentucky,Pop.Jul,2019,23674
+Kentucky,Pop.Jul,2020,21957
+Kentucky,Pop.Jul,2021,18781.5
+Kentucky,Pop.Jul,2022,19631.5
+Kentucky,Pop.Jul,2023,19918
+Kentucky,Pop.Jul,2024,19369
+Kentucky,NA,NA,26.611472501478417
+Kentucky,NA,NA,32.79136494056565
+Kentucky,NA,NA,33.54364667358837
+Kentucky,NA,NA,29.544354736011
+Kentucky,NA,NA,18.07410382568531
+Kentucky,NA,NA,29.944757086065362
+Kentucky,NA,NA,14.285714285714285
+Kentucky,NA,NA,-12.5
+Kentucky,NA,NA,-7.936507936507936
+Kentucky,NA,NA,-37.93103448275862
+Kentucky,NA,NA,61.111111111111114
+Kentucky,NA,NA,-7.936507936507936
+Kentucky,NA,NA,-7.252682267466419
+Kentucky,NA,NA,-14.462358245661978
+Kentucky,NA,NA,4.525730106753987
+Kentucky,NA,NA,1.459389246873647
+Kentucky,NA,NA,-2.7563008334170096
+Kentucky,NA,NA,-18.184506209343585
+Louisiana,Deaths,2019,96
+Louisiana,Deaths,2020,138
+Louisiana,Deaths,2021,140
+Louisiana,Deaths,2022,177
+Louisiana,Deaths,2023,175
+Louisiana,Deaths,2024,121
+Louisiana,Pop.Jul,2019,32104
+Louisiana,Pop.Jul,2020,30027.5
+Louisiana,Pop.Jul,2021,26623.5
+Louisiana,Pop.Jul,2022,27074.5
+Louisiana,Pop.Jul,2023,27638
+Louisiana,Pop.Jul,2024,28387
+Louisiana,NA,NA,29.9028158484924
+Louisiana,NA,NA,45.95787195071185
+Louisiana,NA,NA,52.585122166507034
+Louisiana,NA,NA,65.37516851650076
+Louisiana,NA,NA,63.31861929227875
+Louisiana,NA,NA,42.625145312995386
+Louisiana,NA,NA,43.75
+Louisiana,NA,NA,1.4492753623188406
+Louisiana,NA,NA,26.42857142857143
+Louisiana,NA,NA,-1.1299435028248588
+Louisiana,NA,NA,-30.857142857142854
+Louisiana,NA,NA,26.041666666666668
+Louisiana,NA,NA,-6.468041365561923
+Louisiana,NA,NA,-11.33627508117559
+Louisiana,NA,NA,1.6939921497924764
+Louisiana,NA,NA,2.081294206725886
+Louisiana,NA,NA,2.71003690570953
+Louisiana,NA,NA,-11.577996511338151
+Maine,Deaths,2019,8
+Maine,Deaths,2020,7
+Maine,Deaths,2021,9
+Maine,Deaths,2022,11
+Maine,Deaths,2023,5
+Maine,Deaths,2024,5
+Maine,Pop.Jul,2019,2332
+Maine,Pop.Jul,2020,2048.5
+Maine,Pop.Jul,2021,1673.5
+Maine,Pop.Jul,2022,1655
+Maine,Pop.Jul,2023,1719.5
+Maine,Pop.Jul,2024,1821
+Maine,NA,NA,34.305317324185246
+Maine,NA,NA,34.17134488650232
+Maine,NA,NA,53.7795040334628
+Maine,NA,NA,66.46525679758308
+Maine,NA,NA,29.07822041291073
+Maine,NA,NA,27.457440966501924
+Maine,NA,NA,-12.5
+Maine,NA,NA,28.57142857142857
+Maine,NA,NA,22.22222222222222
+Maine,NA,NA,-54.54545454545454
+Maine,NA,NA,0
+Maine,NA,NA,-37.5
+Maine,NA,NA,-12.156946826758148
+Maine,NA,NA,-18.3060776177691
+Maine,NA,NA,-1.1054675829100686
+Maine,NA,NA,3.897280966767372
+Maine,NA,NA,5.902878743820878
+Maine,NA,NA,-21.912521440823326
+Maryland,Deaths,2019,57
+Maryland,Deaths,2020,55
+Maryland,Deaths,2021,67
+Maryland,Deaths,2022,54
+Maryland,Deaths,2023,61
+Maryland,Deaths,2024,70
+Maryland,Pop.Jul,2019,18775.5
+Maryland,Pop.Jul,2020,17629
+Maryland,Pop.Jul,2021,15070.5
+Maryland,Pop.Jul,2022,15222.5
+Maryland,Pop.Jul,2023,15722
+Maryland,Pop.Jul,2024,16178
+Maryland,NA,NA,30.358712151473995
+Maryland,NA,NA,31.198593227069033
+Maryland,NA,NA,44.45771540426661
+Maryland,NA,NA,35.473805222532434
+Maryland,NA,NA,38.799134970105584
+Maryland,NA,NA,43.2686364198294
+Maryland,NA,NA,-3.508771929824561
+Maryland,NA,NA,21.818181818181817
+Maryland,NA,NA,-19.402985074626866
+Maryland,NA,NA,12.962962962962962
+Maryland,NA,NA,14.754098360655737
+Maryland,NA,NA,22.807017543859647
+Maryland,NA,NA,-6.106362014327182
+Maryland,NA,NA,-14.513018322082932
+Maryland,NA,NA,1.0085929464848546
+Maryland,NA,NA,3.2813269830842504
+Maryland,NA,NA,2.9003943518636306
+Maryland,NA,NA,-13.834518388325211
+Massachusetts,Deaths,2019,35
+Massachusetts,Deaths,2020,42
+Massachusetts,Deaths,2021,38
+Massachusetts,Deaths,2022,28
+Massachusetts,Deaths,2023,21
+Massachusetts,Deaths,2024,19
+Massachusetts,Pop.Jul,2019,8510.5
+Massachusetts,Pop.Jul,2020,7879.5
+Massachusetts,Pop.Jul,2021,6673
+Massachusetts,Pop.Jul,2022,6317.5
+Massachusetts,Pop.Jul,2023,6079
+Massachusetts,Pop.Jul,2024,6250
+Massachusetts,NA,NA,41.12566829210975
+Massachusetts,NA,NA,53.3028745478774
+Massachusetts,NA,NA,56.94590139367601
+Massachusetts,NA,NA,44.3213296398892
+Massachusetts,NA,NA,34.54515545319954
+Massachusetts,NA,NA,30.400000000000002
+Massachusetts,NA,NA,20
+Massachusetts,NA,NA,-9.523809523809524
+Massachusetts,NA,NA,-26.31578947368421
+Massachusetts,NA,NA,-25
+Massachusetts,NA,NA,-9.523809523809524
+Massachusetts,NA,NA,-45.714285714285715
+Massachusetts,NA,NA,-7.414370483520358
+Massachusetts,NA,NA,-15.311885271908116
+Massachusetts,NA,NA,-5.327438933013637
+Massachusetts,NA,NA,-3.7752275425405624
+Massachusetts,NA,NA,2.8129626583319625
+Massachusetts,NA,NA,-26.561306621232596
+Michigan,Deaths,2019,117
+Michigan,Deaths,2020,248
+Michigan,Deaths,2021,154
+Michigan,Deaths,2022,131
+Michigan,Deaths,2023,121
+Michigan,Deaths,2024,126
+Michigan,Pop.Jul,2019,38497.5
+Michigan,Pop.Jul,2020,37030.5
+Michigan,Pop.Jul,2021,33029
+Michigan,Pop.Jul,2022,32421.5
+Michigan,Pop.Jul,2023,32744
+Michigan,Pop.Jul,2024,32969
+Michigan,NA,NA,30.391583869082407
+Michigan,NA,NA,66.9718205263229
+Michigan,NA,NA,46.625692573193255
+Michigan,NA,NA,40.405286615363266
+Michigan,NA,NA,36.95333496213047
+Michigan,NA,NA,38.217719676059325
+Michigan,NA,NA,111.96581196581197
+Michigan,NA,NA,-37.903225806451616
+Michigan,NA,NA,-14.935064935064934
+Michigan,NA,NA,-7.633587786259542
+Michigan,NA,NA,4.132231404958678
+Michigan,NA,NA,7.6923076923076925
+Michigan,NA,NA,-3.8106370543541788
+Michigan,NA,NA,-10.805957251454881
+Michigan,NA,NA,-1.8392927427412276
+Michigan,NA,NA,0.9947103002637139
+Michigan,NA,NA,0.6871487906181285
+Michigan,NA,NA,-14.360672770959154
+Minnesota,Deaths,2019,10
+Minnesota,Deaths,2020,18
+Minnesota,Deaths,2021,14
+Minnesota,Deaths,2022,15
+Minnesota,Deaths,2023,15
+Minnesota,Deaths,2024,15
+Minnesota,Pop.Jul,2019,10056
+Minnesota,Pop.Jul,2020,8923
+Minnesota,Pop.Jul,2021,7501
+Minnesota,Pop.Jul,2022,7743.5
+Minnesota,Pop.Jul,2023,8245
+Minnesota,Pop.Jul,2024,8348
+Minnesota,NA,NA,9.94431185361973
+Minnesota,NA,NA,20.172587694721507
+Minnesota,NA,NA,18.66417810958539
+Minnesota,NA,NA,19.37108542648673
+Minnesota,NA,NA,18.192844147968465
+Minnesota,NA,NA,17.968375658840444
+Minnesota,NA,NA,80
+Minnesota,NA,NA,-22.22222222222222
+Minnesota,NA,NA,7.142857142857142
+Minnesota,NA,NA,0
+Minnesota,NA,NA,0
+Minnesota,NA,NA,50
+Minnesota,NA,NA,-11.266905330151152
+Minnesota,NA,NA,-15.936344278829988
+Minnesota,NA,NA,3.2329022796960407
+Minnesota,NA,NA,6.476399560922063
+Minnesota,NA,NA,1.249241964827168
+Minnesota,NA,NA,-16.984884645982497
+Mississippi,Deaths,2019,74
+Mississippi,Deaths,2020,109
+Mississippi,Deaths,2021,106
+Mississippi,Deaths,2022,77
+Mississippi,Deaths,2023,67
+Mississippi,Deaths,2024,NA
+Mississippi,Pop.Jul,2019,19560
+Mississippi,Pop.Jul,2020,18654
+Mississippi,Pop.Jul,2021,17792
+Mississippi,Pop.Jul,2022,18948
+Mississippi,Pop.Jul,2023,19984.5
+Mississippi,Pop.Jul,2024,19628
+Mississippi,NA,NA,37.83231083844581
+Mississippi,NA,NA,58.43250777313177
+Mississippi,NA,NA,59.577338129496404
+Mississippi,NA,NA,40.63753430441208
+Mississippi,NA,NA,33.52598263654332
+Mississippi,NA,NA,NA
+Mississippi,NA,NA,47.2972972972973
+Mississippi,NA,NA,-2.7522935779816518
+Mississippi,NA,NA,-27.358490566037734
+Mississippi,NA,NA,-12.987012987012985
+Mississippi,NA,NA,NA
+Mississippi,NA,NA,NA
+Mississippi,NA,NA,-4.631901840490798
+Mississippi,NA,NA,-4.62099281655409
+Mississippi,NA,NA,6.497302158273381
+Mississippi,NA,NA,5.470234325522483
+Mississippi,NA,NA,-1.783882508944432
+Mississippi,NA,NA,0.34764826175869123
+Missouri,Deaths,2019,88
+Missouri,Deaths,2020,132
+Missouri,Deaths,2021,105
+Missouri,Deaths,2022,136
+Missouri,Deaths,2023,125
+Missouri,Deaths,2024,139
+Missouri,Pop.Jul,2019,28763
+Missouri,Pop.Jul,2020,25164.5
+Missouri,Pop.Jul,2021,23006
+Missouri,Pop.Jul,2022,23430
+Missouri,Pop.Jul,2023,23537.5
+Missouri,Pop.Jul,2024,23884
+Missouri,NA,NA,30.594861453951257
+Missouri,NA,NA,52.45484710604224
+Missouri,NA,NA,45.640267756237506
+Missouri,NA,NA,58.0452411438327
+Missouri,NA,NA,53.10674455655869
+Missouri,NA,NA,58.19795679115726
+Missouri,NA,NA,50
+Missouri,NA,NA,-20.454545454545457
+Missouri,NA,NA,29.523809523809526
+Missouri,NA,NA,-8.088235294117647
+Missouri,NA,NA,11.200000000000001
+Missouri,NA,NA,57.95454545454546
+Missouri,NA,NA,-12.510864652504955
+Missouri,NA,NA,-8.577559657453953
+Missouri,NA,NA,1.842997478918543
+Missouri,NA,NA,0.458813486982501
+Missouri,NA,NA,1.4721189591078068
+Missouri,NA,NA,-16.96276466293502
+Montana,Deaths,2019,8
+Montana,Deaths,2020,25
+Montana,Deaths,2021,26
+Montana,Deaths,2022,15
+Montana,Deaths,2023,14
+Montana,Deaths,2024,13
+Montana,Pop.Jul,2019,3769
+Montana,Pop.Jul,2020,3826.5
+Montana,Pop.Jul,2021,2484
+Montana,Pop.Jul,2022,2684.5
+Montana,Pop.Jul,2023,2771
+Montana,Pop.Jul,2024,2916
+Montana,NA,NA,21.225789334040858
+Montana,NA,NA,65.33385600418136
+Montana,NA,NA,104.66988727858293
+Montana,NA,NA,55.87632706276774
+Montana,NA,NA,50.52327679538073
+Montana,NA,NA,44.58161865569273
+Montana,NA,NA,212.5
+Montana,NA,NA,4
+Montana,NA,NA,-42.30769230769231
+Montana,NA,NA,-6.666666666666667
+Montana,NA,NA,-7.142857142857142
+Montana,NA,NA,62.5
+Montana,NA,NA,1.5256036083841868
+Montana,NA,NA,-35.08428067424539
+Montana,NA,NA,8.071658615136876
+Montana,NA,NA,3.2222015272862734
+Montana,NA,NA,5.23276795380729
+Montana,NA,NA,-22.631997877421067
+Nebraska,Deaths,2019,16
+Nebraska,Deaths,2020,30
+Nebraska,Deaths,2021,25
+Nebraska,Deaths,2022,20
+Nebraska,Deaths,2023,27
+Nebraska,Deaths,2024,17
+Nebraska,Pop.Jul,2019,5528
+Nebraska,Pop.Jul,2020,5546.5
+Nebraska,Pop.Jul,2021,5322.5
+Nebraska,Pop.Jul,2022,5493
+Nebraska,Pop.Jul,2023,5721.5
+Nebraska,Pop.Jul,2024,5846
+Nebraska,NA,NA,28.94356005788712
+Nebraska,NA,NA,54.08816370684215
+Nebraska,NA,NA,46.97040864255519
+Nebraska,NA,NA,36.40997633351538
+Nebraska,NA,NA,47.19042209210871
+Nebraska,NA,NA,29.079712624016423
+Nebraska,NA,NA,87.5
+Nebraska,NA,NA,-16.666666666666664
+Nebraska,NA,NA,-20
+Nebraska,NA,NA,35
+Nebraska,NA,NA,-37.03703703703704
+Nebraska,NA,NA,6.25
+Nebraska,NA,NA,0.33465991316931987
+Nebraska,NA,NA,-4.03858289011088
+Nebraska,NA,NA,3.2033818694222638
+Nebraska,NA,NA,4.159839796104133
+Nebraska,NA,NA,2.176002796469457
+Nebraska,NA,NA,5.752532561505065
+Nevada,Deaths,2019,41
+Nevada,Deaths,2020,80
+Nevada,Deaths,2021,72
+Nevada,Deaths,2022,53
+Nevada,Deaths,2023,46
+Nevada,Deaths,2024,54
+Nevada,Pop.Jul,2019,13450
+Nevada,Pop.Jul,2020,11954
+Nevada,Pop.Jul,2021,10858.5
+Nevada,Pop.Jul,2022,10453.5
+Nevada,Pop.Jul,2023,10429.5
+Nevada,Pop.Jul,2024,10613
+Nevada,NA,NA,30.483271375464685
+Nevada,NA,NA,66.92320562154927
+Nevada,NA,NA,66.3075010360547
+Nevada,NA,NA,50.70072224613766
+Nevada,NA,NA,44.10566182463205
+Nevada,NA,NA,50.880995006124564
+Nevada,NA,NA,95.1219512195122
+Nevada,NA,NA,-10
+Nevada,NA,NA,-26.38888888888889
+Nevada,NA,NA,-13.20754716981132
+Nevada,NA,NA,17.391304347826086
+Nevada,NA,NA,31.70731707317073
+Nevada,NA,NA,-11.122676579925649
+Nevada,NA,NA,-9.164296469800902
+Nevada,NA,NA,-3.729796933278077
+Nevada,NA,NA,-0.22958817620892524
+Nevada,NA,NA,1.7594323793086917
+Nevada,NA,NA,-21.092936802973977
+New Hampshire,Deaths,2019,9
+New Hampshire,Deaths,2020,7
+New Hampshire,Deaths,2021,8
+New Hampshire,Deaths,2022,16
+New Hampshire,Deaths,2023,11
+New Hampshire,Deaths,2024,NA
+New Hampshire,Pop.Jul,2019,2637
+New Hampshire,Pop.Jul,2020,2528
+New Hampshire,Pop.Jul,2021,2196.5
+New Hampshire,Pop.Jul,2022,2087
+New Hampshire,Pop.Jul,2023,2098.5
+New Hampshire,Pop.Jul,2024,2144
+New Hampshire,NA,NA,34.129692832764505
+New Hampshire,NA,NA,27.689873417721518
+New Hampshire,NA,NA,36.42157978602322
+New Hampshire,NA,NA,76.66506947771921
+New Hampshire,NA,NA,52.41839409101739
+New Hampshire,NA,NA,NA
+New Hampshire,NA,NA,-22.22222222222222
+New Hampshire,NA,NA,14.285714285714285
+New Hampshire,NA,NA,100
+New Hampshire,NA,NA,-31.25
+New Hampshire,NA,NA,NA
+New Hampshire,NA,NA,NA
+New Hampshire,NA,NA,-4.133485020857035
+New Hampshire,NA,NA,-13.113132911392405
+New Hampshire,NA,NA,-4.985203733211928
+New Hampshire,NA,NA,0.5510301868711068
+New Hampshire,NA,NA,2.1682153919466285
+New Hampshire,NA,NA,-18.69548729616989
+New Jersey,Deaths,2019,40
+New Jersey,Deaths,2020,87
+New Jersey,Deaths,2021,39
+New Jersey,Deaths,2022,55
+New Jersey,Deaths,2023,43
+New Jersey,Deaths,2024,42
+New Jersey,Pop.Jul,2019,19083.5
+New Jersey,Pop.Jul,2020,17677.5
+New Jersey,Pop.Jul,2021,12606.5
+New Jersey,Pop.Jul,2022,12827
+New Jersey,Pop.Jul,2023,13328.5
+New Jersey,Pop.Jul,2024,12593
+New Jersey,NA,NA,20.960515628684465
+New Jersey,NA,NA,49.215103945693684
+New Jersey,NA,NA,30.936421687224843
+New Jersey,NA,NA,42.878303578389335
+New Jersey,NA,NA,32.26169486438834
+New Jersey,NA,NA,33.35186214563646
+New Jersey,NA,NA,117.5
+New Jersey,NA,NA,-55.172413793103445
+New Jersey,NA,NA,41.02564102564102
+New Jersey,NA,NA,-21.818181818181817
+New Jersey,NA,NA,-2.3255813953488373
+New Jersey,NA,NA,5
+New Jersey,NA,NA,-7.36762124348259
+New Jersey,NA,NA,-28.686183000989956
+New Jersey,NA,NA,1.749097687700789
+New Jersey,NA,NA,3.9097216808295006
+New Jersey,NA,NA,-5.518250365757587
+New Jersey,NA,NA,-34.01105667199413
+New Mexico,Deaths,2019,19
+New Mexico,Deaths,2020,41
+New Mexico,Deaths,2021,25
+New Mexico,Deaths,2022,15
+New Mexico,Deaths,2023,21
+New Mexico,Deaths,2024,18
+New Mexico,Pop.Jul,2019,6915.5
+New Mexico,Pop.Jul,2020,6453.5
+New Mexico,Pop.Jul,2021,5877.5
+New Mexico,Pop.Jul,2022,5536.5
+New Mexico,Pop.Jul,2023,5396
+New Mexico,Pop.Jul,2024,5621
+New Mexico,NA,NA,27.474513773407566
+New Mexico,NA,NA,63.5314170605098
+New Mexico,NA,NA,42.53509145044662
+New Mexico,NA,NA,27.0929287455974
+New Mexico,NA,NA,38.91771682727947
+New Mexico,NA,NA,32.022771748799144
+New Mexico,NA,NA,115.78947368421053
+New Mexico,NA,NA,-39.02439024390244
+New Mexico,NA,NA,-40
+New Mexico,NA,NA,40
+New Mexico,NA,NA,-14.285714285714285
+New Mexico,NA,NA,-5.263157894736842
+New Mexico,NA,NA,-6.680644928060155
+New Mexico,NA,NA,-8.92538932362284
+New Mexico,NA,NA,-5.801786473840919
+New Mexico,NA,NA,-2.5377043258376233
+New Mexico,NA,NA,4.169755374351372
+New Mexico,NA,NA,-18.718820041934784
+New York,Deaths,2019,113
+New York,Deaths,2020,121
+New York,Deaths,2021,137
+New York,Deaths,2022,113
+New York,Deaths,2023,107
+New York,Deaths,2024,143
+New York,Pop.Jul,2019,46280
+New York,Pop.Jul,2020,41239
+New York,Pop.Jul,2021,31904.5
+New York,Pop.Jul,2022,31181.5
+New York,Pop.Jul,2023,31959
+New York,Pop.Jul,2024,32918
+New York,NA,NA,24.41659464131374
+New York,NA,NA,29.341157642037878
+New York,NA,NA,42.94065100534408
+New York,NA,NA,36.23943684556548
+New York,NA,NA,33.48039675834663
+New York,NA,NA,43.441278327966465
+New York,NA,NA,7.079646017699115
+New York,NA,NA,13.223140495867769
+New York,NA,NA,-17.51824817518248
+New York,NA,NA,-5.3097345132743365
+New York,NA,NA,33.64485981308411
+New York,NA,NA,26.548672566371685
+New York,NA,NA,-10.8923941227312
+New York,NA,NA,-22.63512694294236
+New York,NA,NA,-2.266138005610494
+New York,NA,NA,2.4934656767634658
+New York,NA,NA,3.0007196720798524
+New York,NA,NA,-28.87208297320657
+North Carolina,Deaths,2019,119
+North Carolina,Deaths,2020,141
+North Carolina,Deaths,2021,118
+North Carolina,Deaths,2022,114
+North Carolina,Deaths,2023,136
+North Carolina,Deaths,2024,134
+North Carolina,Pop.Jul,2019,34754.5
+North Carolina,Pop.Jul,2020,33248
+North Carolina,Pop.Jul,2021,29293.5
+North Carolina,Pop.Jul,2022,29979
+North Carolina,Pop.Jul,2023,30852.5
+North Carolina,Pop.Jul,2024,31972
+North Carolina,NA,NA,34.240170337654114
+North Carolina,NA,NA,42.40856592877767
+North Carolina,NA,NA,40.28197381671702
+North Carolina,NA,NA,38.02661863304313
+North Carolina,NA,NA,44.080706587796776
+North Carolina,NA,NA,41.91167271362442
+North Carolina,NA,NA,18.487394957983195
+North Carolina,NA,NA,-16.312056737588655
+North Carolina,NA,NA,-3.389830508474576
+North Carolina,NA,NA,19.298245614035086
+North Carolina,NA,NA,-1.4705882352941175
+North Carolina,NA,NA,12.605042016806722
+North Carolina,NA,NA,-4.334690471737472
+North Carolina,NA,NA,-11.893948508180943
+North Carolina,NA,NA,2.340109580623688
+North Carolina,NA,NA,2.913706261049401
+North Carolina,NA,NA,3.6285552224293007
+North Carolina,NA,NA,-8.006157476010301
+North Dakota,Deaths,2019,1
+North Dakota,Deaths,2020,7
+North Dakota,Deaths,2021,4
+North Dakota,Deaths,2022,3
+North Dakota,Deaths,2023,3
+North Dakota,Deaths,2024,1
+North Dakota,Pop.Jul,2019,1731.5
+North Dakota,Pop.Jul,2020,1487
+North Dakota,Pop.Jul,2021,1527.5
+North Dakota,Pop.Jul,2022,1706
+North Dakota,Pop.Jul,2023,1846.5
+North Dakota,Pop.Jul,2024,1929
+North Dakota,NA,NA,5.775339301183945
+North Dakota,NA,NA,47.07464694014795
+North Dakota,NA,NA,26.186579378068743
+North Dakota,NA,NA,17.58499413833529
+North Dakota,NA,NA,16.246953696181965
+North Dakota,NA,NA,5.184033177812338
+North Dakota,NA,NA,600
+North Dakota,NA,NA,-42.857142857142854
+North Dakota,NA,NA,-25
+North Dakota,NA,NA,0
+North Dakota,NA,NA,-66.66666666666666
+North Dakota,NA,NA,0
+North Dakota,NA,NA,-14.120704591394745
+North Dakota,NA,NA,2.723604572965703
+North Dakota,NA,NA,11.685761047463176
+North Dakota,NA,NA,8.235638921453694
+North Dakota,NA,NA,4.467912266450041
+North Dakota,NA,NA,11.40629511983829
+Ohio,Deaths,2019,136
+Ohio,Deaths,2020,250
+Ohio,Deaths,2021,123
+Ohio,Deaths,2022,165
+Ohio,Deaths,2023,160
+Ohio,Deaths,2024,NA
+Ohio,Pop.Jul,2019,49880.5
+Ohio,Pop.Jul,2020,48585
+Ohio,Pop.Jul,2021,43667.5
+Ohio,Pop.Jul,2022,43683.5
+Ohio,Pop.Jul,2023,44092.5
+Ohio,Pop.Jul,2024,45063
+Ohio,NA,NA,27.265163741341805
+Ohio,NA,NA,51.456210764639295
+Ohio,NA,NA,28.16740138546974
+Ohio,NA,NA,37.7716986963041
+Ohio,NA,NA,36.28735045642683
+Ohio,NA,NA,NA
+Ohio,NA,NA,83.82352941176471
+Ohio,NA,NA,-50.8
+Ohio,NA,NA,34.146341463414636
+Ohio,NA,NA,-3.0303030303030303
+Ohio,NA,NA,NA
+Ohio,NA,NA,NA
+Ohio,NA,NA,-2.597207325507964
+Ohio,NA,NA,-10.12143665740455
+Ohio,NA,NA,0.03664052212744032
+Ohio,NA,NA,0.9362802888962651
+Ohio,NA,NA,2.20105460112264
+Ohio,NA,NA,-9.658082817934863
+Oklahoma,Deaths,2019,100
+Oklahoma,Deaths,2020,139
+Oklahoma,Deaths,2021,123
+Oklahoma,Deaths,2022,132
+Oklahoma,Deaths,2023,127
+Oklahoma,Deaths,2024,140
+Oklahoma,Pop.Jul,2019,26959
+Oklahoma,Pop.Jul,2020,24986
+Oklahoma,Pop.Jul,2021,22677.5
+Oklahoma,Pop.Jul,2022,22805.5
+Oklahoma,Pop.Jul,2023,23011
+Oklahoma,Pop.Jul,2024,22698
+Oklahoma,NA,NA,37.0933639971809
+Oklahoma,NA,NA,55.63115344592972
+Oklahoma,NA,NA,54.23878293462683
+Oklahoma,NA,NA,57.880774374602616
+Oklahoma,NA,NA,55.190995610794836
+Oklahoma,NA,NA,61.67944312274209
+Oklahoma,NA,NA,39
+Oklahoma,NA,NA,-11.510791366906476
+Oklahoma,NA,NA,7.317073170731707
+Oklahoma,NA,NA,-3.787878787878788
+Oklahoma,NA,NA,10.236220472440944
+Oklahoma,NA,NA,40
+Oklahoma,NA,NA,-7.318520716643792
+Oklahoma,NA,NA,-9.239173937404948
+Oklahoma,NA,NA,0.5644361150920516
+Oklahoma,NA,NA,0.9010984192409724
+Oklahoma,NA,NA,-1.3602190256833688
+Oklahoma,NA,NA,-15.805482399198784
+Oregon,Deaths,2019,41
+Oregon,Deaths,2020,50
+Oregon,Deaths,2021,52
+Oregon,Deaths,2022,47
+Oregon,Deaths,2023,48
+Oregon,Deaths,2024,34
+Oregon,Pop.Jul,2019,15913.5
+Oregon,Pop.Jul,2020,14328
+Oregon,Pop.Jul,2021,13289.5
+Oregon,Pop.Jul,2022,12582.5
+Oregon,Pop.Jul,2023,12754.5
+Oregon,Pop.Jul,2024,12056
+Oregon,NA,NA,25.764288182989286
+Oregon,NA,NA,34.896705750977105
+Oregon,NA,NA,39.12863538884081
+Oregon,NA,NA,37.35346711702762
+Oregon,NA,NA,37.633776314242034
+Oregon,NA,NA,28.20172528201725
+Oregon,NA,NA,21.951219512195124
+Oregon,NA,NA,4
+Oregon,NA,NA,-9.615384615384617
+Oregon,NA,NA,2.127659574468085
+Oregon,NA,NA,-29.166666666666668
+Oregon,NA,NA,-17.073170731707318
+Oregon,NA,NA,-9.963238759543785
+Oregon,NA,NA,-7.248045784477945
+Oregon,NA,NA,-5.319989465367395
+Oregon,NA,NA,1.3669779455593085
+Oregon,NA,NA,-5.476498490728762
+Oregon,NA,NA,-24.240424796556383
+Pennsylvania,Deaths,2019,158
+Pennsylvania,Deaths,2020,217
+Pennsylvania,Deaths,2021,236
+Pennsylvania,Deaths,2022,191
+Pennsylvania,Deaths,2023,158
+Pennsylvania,Deaths,2024,190
+Pennsylvania,Pop.Jul,2019,46814.5
+Pennsylvania,Pop.Jul,2020,44055
+Pennsylvania,Pop.Jul,2021,38442
+Pennsylvania,Pop.Jul,2022,37927
+Pennsylvania,Pop.Jul,2023,38532
+Pennsylvania,Pop.Jul,2024,39061
+Pennsylvania,NA,NA,33.75022695959585
+Pennsylvania,NA,NA,49.256611054363866
+Pennsylvania,NA,NA,61.39118672285522
+Pennsylvania,NA,NA,50.35990191684024
+Pennsylvania,NA,NA,41.00487906155923
+Pennsylvania,NA,NA,48.64186784772536
+Pennsylvania,NA,NA,37.34177215189873
+Pennsylvania,NA,NA,8.755760368663594
+Pennsylvania,NA,NA,-19.06779661016949
+Pennsylvania,NA,NA,-17.277486910994764
+Pennsylvania,NA,NA,20.253164556962027
+Pennsylvania,NA,NA,20.253164556962027
+Pennsylvania,NA,NA,-5.894541221202832
+Pennsylvania,NA,NA,-12.740892066734762
+Pennsylvania,NA,NA,-1.3396805577233235
+Pennsylvania,NA,NA,1.5951696680465106
+Pennsylvania,NA,NA,1.3728848749091664
+Pennsylvania,NA,NA,-16.5621762488118
+Rhode Island,Deaths,2019,3
+Rhode Island,Deaths,2020,8
+Rhode Island,Deaths,2021,5
+Rhode Island,Deaths,2022,6
+Rhode Island,Deaths,2023,2
+Rhode Island,Deaths,2024,NA
+Rhode Island,Pop.Jul,2019,2756.5
+Rhode Island,Pop.Jul,2020,2475.5
+Rhode Island,Pop.Jul,2021,2268.5
+Rhode Island,Pop.Jul,2022,2303.5
+Rhode Island,Pop.Jul,2023,2304
+Rhode Island,Pop.Jul,2024,2325
+Rhode Island,NA,NA,10.883366588064574
+Rhode Island,NA,NA,32.31670369622298
+Rhode Island,NA,NA,22.040996253030638
+Rhode Island,NA,NA,26.047319296722378
+Rhode Island,NA,NA,8.680555555555555
+Rhode Island,NA,NA,NA
+Rhode Island,NA,NA,166.66666666666669
+Rhode Island,NA,NA,-37.5
+Rhode Island,NA,NA,20
+Rhode Island,NA,NA,-66.66666666666666
+Rhode Island,NA,NA,NA
+Rhode Island,NA,NA,NA
+Rhode Island,NA,NA,-10.194086704153818
+Rhode Island,NA,NA,-8.361947081397696
+Rhode Island,NA,NA,1.5428697377121445
+Rhode Island,NA,NA,0.021706099413935316
+Rhode Island,NA,NA,0.9114583333333334
+Rhode Island,NA,NA,-15.653908942499548
+South Carolina,Deaths,2019,71
+South Carolina,Deaths,2020,121
+South Carolina,Deaths,2021,90
+South Carolina,Deaths,2022,94
+South Carolina,Deaths,2023,82
+South Carolina,Deaths,2024,93
+South Carolina,Pop.Jul,2019,18875
+South Carolina,Pop.Jul,2020,18216
+South Carolina,Pop.Jul,2021,16105.5
+South Carolina,Pop.Jul,2022,16440.5
+South Carolina,Pop.Jul,2023,16339.5
+South Carolina,Pop.Jul,2024,16922
+South Carolina,NA,NA,37.6158940397351
+South Carolina,NA,NA,66.42512077294685
+South Carolina,NA,NA,55.88153115395362
+South Carolina,NA,NA,57.17587664608741
+South Carolina,NA,NA,50.18513418403256
+South Carolina,NA,NA,54.95804278454084
+South Carolina,NA,NA,70.4225352112676
+South Carolina,NA,NA,-25.6198347107438
+South Carolina,NA,NA,4.444444444444445
+South Carolina,NA,NA,-12.76595744680851
+South Carolina,NA,NA,13.414634146341465
+South Carolina,NA,NA,30.985915492957744
+South Carolina,NA,NA,-3.491390728476821
+South Carolina,NA,NA,-11.58596837944664
+South Carolina,NA,NA,2.080034770730496
+South Carolina,NA,NA,-0.614336546942003
+South Carolina,NA,NA,3.5649805685608493
+South Carolina,NA,NA,-10.347019867549669
+South Dakota,Deaths,2019,14
+South Dakota,Deaths,2020,11
+South Dakota,Deaths,2021,10
+South Dakota,Deaths,2022,14
+South Dakota,Deaths,2023,8
+South Dakota,Deaths,2024,12
+South Dakota,Pop.Jul,2019,3875
+South Dakota,Pop.Jul,2020,3676
+South Dakota,Pop.Jul,2021,3255.5
+South Dakota,Pop.Jul,2022,3361
+South Dakota,Pop.Jul,2023,3575
+South Dakota,Pop.Jul,2024,3755
+South Dakota,NA,NA,36.12903225806451
+South Dakota,NA,NA,29.923830250272033
+South Dakota,NA,NA,30.71724773460298
+South Dakota,NA,NA,41.65426956263016
+South Dakota,NA,NA,22.377622377622377
+South Dakota,NA,NA,31.957390146471372
+South Dakota,NA,NA,-21.428571428571427
+South Dakota,NA,NA,-9.090909090909092
+South Dakota,NA,NA,40
+South Dakota,NA,NA,-42.857142857142854
+South Dakota,NA,NA,50
+South Dakota,NA,NA,-14.285714285714285
+South Dakota,NA,NA,-5.135483870967742
+South Dakota,NA,NA,-11.439064200217627
+South Dakota,NA,NA,3.240669636000614
+South Dakota,NA,NA,6.367152633144897
+South Dakota,NA,NA,5.034965034965035
+South Dakota,NA,NA,-3.096774193548387
+Tennessee,Deaths,2019,105
+Tennessee,Deaths,2020,164
+Tennessee,Deaths,2021,191
+Tennessee,Deaths,2022,182
+Tennessee,Deaths,2023,152
+Tennessee,Deaths,2024,146
+Tennessee,Pop.Jul,2019,26736
+Tennessee,Pop.Jul,2020,25542.5
+Tennessee,Pop.Jul,2021,22979.5
+Tennessee,Pop.Jul,2022,22535
+Tennessee,Pop.Jul,2023,22618
+Tennessee,Pop.Jul,2024,23235
+Tennessee,NA,NA,39.272890484739676
+Tennessee,NA,NA,64.20671429969659
+Tennessee,NA,NA,83.1175613046411
+Tennessee,NA,NA,80.76325715553584
+Tennessee,NA,NA,67.20311256521354
+Tennessee,NA,NA,62.83623843339789
+Tennessee,NA,NA,56.19047619047619
+Tennessee,NA,NA,16.463414634146343
+Tennessee,NA,NA,-4.712041884816754
+Tennessee,NA,NA,-16.483516483516482
+Tennessee,NA,NA,-3.9473684210526314
+Tennessee,NA,NA,39.04761904761905
+Tennessee,NA,NA,-4.46401855176541
+Tennessee,NA,NA,-10.03425663110502
+Tennessee,NA,NA,-1.9343327748645531
+Tennessee,NA,NA,0.368315952962059
+Tennessee,NA,NA,2.7279158192589974
+Tennessee,NA,NA,-13.094703770197485
+Texas,Deaths,2019,447
+Texas,Deaths,2020,700
+Texas,Deaths,2021,583
+Texas,Deaths,2022,553
+Texas,Deaths,2023,571
+Texas,Deaths,2024,570
+Texas,Pop.Jul,2019,161842.5
+Texas,Pop.Jul,2020,151662
+Texas,Pop.Jul,2021,133930.5
+Texas,Pop.Jul,2022,137452.5
+Texas,Pop.Jul,2023,143180.5
+Texas,Pop.Jul,2024,150353
+Texas,NA,NA,27.619444830622367
+Texas,NA,NA,46.15526631588664
+Texas,NA,NA,43.53003983409305
+Texas,NA,NA,40.23208017315073
+Texas,NA,NA,39.879732226106206
+Texas,NA,NA,37.91078328999089
+Texas,NA,NA,56.59955257270693
+Texas,NA,NA,-16.714285714285715
+Texas,NA,NA,-5.145797598627787
+Texas,NA,NA,3.25497287522604
+Texas,NA,NA,-0.17513134851138354
+Texas,NA,NA,27.516778523489933
+Texas,NA,NA,-6.29037490152463
+Texas,NA,NA,-11.691458638287772
+Texas,NA,NA,2.629722132001299
+Texas,NA,NA,4.16725777996035
+Texas,NA,NA,5.0094111977538835
+Texas,NA,NA,-7.0991859369448695
+Utah,Deaths,2019,22
+Utah,Deaths,2020,39
+Utah,Deaths,2021,27
+Utah,Deaths,2022,16
+Utah,Deaths,2023,17
+Utah,Deaths,2024,18
+Utah,Pop.Jul,2019,6701.5
+Utah,Pop.Jul,2020,6219
+Utah,Pop.Jul,2021,5601.5
+Utah,Pop.Jul,2022,5845.5
+Utah,Pop.Jul,2023,6100.5
+Utah,Pop.Jul,2024,6469
+Utah,NA,NA,32.82847123778259
+Utah,NA,NA,62.71104679208876
+Utah,NA,NA,48.201374631795055
+Utah,NA,NA,27.371482336840305
+Utah,NA,NA,27.86656831407262
+Utah,NA,NA,27.82501159375483
+Utah,NA,NA,77.27272727272727
+Utah,NA,NA,-30.76923076923077
+Utah,NA,NA,-40.74074074074074
+Utah,NA,NA,6.25
+Utah,NA,NA,5.88235294117647
+Utah,NA,NA,-18.181818181818183
+Utah,NA,NA,-7.199880623740953
+Utah,NA,NA,-9.929249075414054
+Utah,NA,NA,4.355976077836294
+Utah,NA,NA,4.362329997433924
+Utah,NA,NA,6.040488484550447
+Utah,NA,NA,-3.469372528538387
+Vermont,Deaths,2019,4
+Vermont,Deaths,2020,2
+Vermont,Deaths,2021,1
+Vermont,Deaths,2022,10
+Vermont,Deaths,2023,10
+Vermont,Deaths,2024,2
+Vermont,Pop.Jul,2019,1639.5
+Vermont,Pop.Jul,2020,1407
+Vermont,Pop.Jul,2021,1254
+Vermont,Pop.Jul,2022,1327
+Vermont,Pop.Jul,2023,1332
+Vermont,Pop.Jul,2024,1374
+Vermont,NA,NA,24.397682220189083
+Vermont,NA,NA,14.214641080312722
+Vermont,NA,NA,7.974481658692185
+Vermont,NA,NA,75.35795026375283
+Vermont,NA,NA,75.07507507507508
+Vermont,NA,NA,14.55604075691412
+Vermont,NA,NA,-50
+Vermont,NA,NA,-50
+Vermont,NA,NA,900
+Vermont,NA,NA,0
+Vermont,NA,NA,-80
+Vermont,NA,NA,-50
+Vermont,NA,NA,-14.181152790484905
+Vermont,NA,NA,-10.874200426439232
+Vermont,NA,NA,5.821371610845295
+Vermont,NA,NA,0.37678975131876413
+Vermont,NA,NA,3.153153153153153
+Vermont,NA,NA,-16.193961573650505
+Virginia,Deaths,2019,90
+Virginia,Deaths,2020,128
+Virginia,Deaths,2021,116
+Virginia,Deaths,2022,92
+Virginia,Deaths,2023,87
+Virginia,Deaths,2024,97
+Virginia,Pop.Jul,2019,36465.5
+Virginia,Pop.Jul,2020,34398
+Virginia,Pop.Jul,2021,31331.5
+Virginia,Pop.Jul,2022,28245
+Virginia,Pop.Jul,2023,27155
+Virginia,Pop.Jul,2024,27417
+Virginia,NA,NA,24.680862733268434
+Virginia,NA,NA,37.21146578289435
+Virginia,NA,NA,37.02344286101847
+Virginia,NA,NA,32.57213666135599
+Virginia,NA,NA,32.03829865586448
+Virginia,NA,NA,35.37950906371959
+Virginia,NA,NA,42.22222222222222
+Virginia,NA,NA,-9.375
+Virginia,NA,NA,-20.689655172413794
+Virginia,NA,NA,-5.434782608695652
+Virginia,NA,NA,11.494252873563218
+Virginia,NA,NA,7.777777777777778
+Virginia,NA,NA,-5.669742633448053
+Virginia,NA,NA,-8.914762486191059
+Virginia,NA,NA,-9.85110830952875
+Virginia,NA,NA,-3.8590901044432644
+Virginia,NA,NA,0.964831522739827
+Virginia,NA,NA,-24.813865160219933
+Washington,Deaths,2019,37
+Washington,Deaths,2020,51
+Washington,Deaths,2021,44
+Washington,Deaths,2022,56
+Washington,Deaths,2023,55
+Washington,Deaths,2024,37
+Washington,Pop.Jul,2019,19291
+Washington,Pop.Jul,2020,18016
+Washington,Pop.Jul,2021,15064
+Washington,Pop.Jul,2022,13822
+Washington,Pop.Jul,2023,13837
+Washington,Pop.Jul,2024,14147
+Washington,NA,NA,19.179928464050594
+Washington,NA,NA,28.30817051509769
+Washington,NA,NA,29.208709506107276
+Washington,NA,NA,40.51512082187816
+Washington,NA,NA,39.74850039748501
+Washington,NA,NA,26.153954902099386
+Washington,NA,NA,37.83783783783784
+Washington,NA,NA,-13.725490196078432
+Washington,NA,NA,27.27272727272727
+Washington,NA,NA,-1.7857142857142856
+Washington,NA,NA,-32.72727272727273
+Washington,NA,NA,0
+Washington,NA,NA,-6.60929967342284
+Washington,NA,NA,-16.385435168738898
+Washington,NA,NA,-8.244822092405736
+Washington,NA,NA,0.10852264505860224
+Washington,NA,NA,2.2403700224037
+Washington,NA,NA,-26.665284329480066
+West Virginia,Deaths,2019,28
+West Virginia,Deaths,2020,46
+West Virginia,Deaths,2021,43
+West Virginia,Deaths,2022,24
+West Virginia,Deaths,2023,25
+West Virginia,Deaths,2024,30
+West Virginia,Pop.Jul,2019,6784
+West Virginia,Pop.Jul,2020,6258
+West Virginia,Pop.Jul,2021,3936
+West Virginia,Pop.Jul,2022,4452.5
+West Virginia,Pop.Jul,2023,4850
+West Virginia,Pop.Jul,2024,4793
+West Virginia,NA,NA,41.27358490566038
+West Virginia,NA,NA,73.50591243208693
+West Virginia,NA,NA,109.2479674796748
+West Virginia,NA,NA,53.902302077484556
+West Virginia,NA,NA,51.54639175257732
+West Virginia,NA,NA,62.59127894846652
+West Virginia,NA,NA,64.28571428571429
+West Virginia,NA,NA,-6.521739130434782
+West Virginia,NA,NA,-44.18604651162791
+West Virginia,NA,NA,4.166666666666666
+West Virginia,NA,NA,20
+West Virginia,NA,NA,7.142857142857142
+West Virginia,NA,NA,-7.753537735849056
+West Virginia,NA,NA,-37.10450623202301
+West Virginia,NA,NA,13.122459349593496
+West Virginia,NA,NA,8.92756878158338
+West Virginia,NA,NA,-1.175257731958763
+West Virginia,NA,NA,-29.348466981132077
+Wisconsin,Deaths,2019,51
+Wisconsin,Deaths,2020,70
+Wisconsin,Deaths,2021,49
+Wisconsin,Deaths,2022,51
+Wisconsin,Deaths,2023,55
+Wisconsin,Deaths,2024,50
+Wisconsin,Pop.Jul,2019,24027
+Wisconsin,Pop.Jul,2020,22892.5
+Wisconsin,Pop.Jul,2021,20313
+Wisconsin,Pop.Jul,2022,20888
+Wisconsin,Pop.Jul,2023,22051.5
+Wisconsin,Pop.Jul,2024,23190
+Wisconsin,NA,NA,21.2261206143089
+Wisconsin,NA,NA,30.57770012012668
+Wisconsin,NA,NA,24.122483138876582
+Wisconsin,NA,NA,24.415932592876292
+Wisconsin,NA,NA,24.941613949164456
+Wisconsin,NA,NA,21.561017680034496
+Wisconsin,NA,NA,37.254901960784316
+Wisconsin,NA,NA,-30
+Wisconsin,NA,NA,4.081632653061225
+Wisconsin,NA,NA,7.8431372549019605
+Wisconsin,NA,NA,-9.090909090909092
+Wisconsin,NA,NA,-1.9607843137254901
+Wisconsin,NA,NA,-4.721771340575186
+Wisconsin,NA,NA,-11.267882494266681
+Wisconsin,NA,NA,2.8306995520110276
+Wisconsin,NA,NA,5.570183837610111
+Wisconsin,NA,NA,5.162914087477042
+Wisconsin,NA,NA,-3.483580971407167
+Wyoming,Deaths,2019,10
+Wyoming,Deaths,2020,5
+Wyoming,Deaths,2021,10
+Wyoming,Deaths,2022,10
+Wyoming,Deaths,2023,9
+Wyoming,Deaths,2024,9
+Wyoming,Pop.Jul,2019,2519
+Wyoming,Pop.Jul,2020,2361
+Wyoming,Pop.Jul,2021,1904.5
+Wyoming,Pop.Jul,2022,2160.5
+Wyoming,Pop.Jul,2023,2133
+Wyoming,Pop.Jul,2024,2238
+Wyoming,NA,NA,39.69829297340214
+Wyoming,NA,NA,21.177467174925876
+Wyoming,NA,NA,52.50721974271462
+Wyoming,NA,NA,46.285582041194175
+Wyoming,NA,NA,42.19409282700422
+Wyoming,NA,NA,40.21447721179625
+Wyoming,NA,NA,-50
+Wyoming,NA,NA,100
+Wyoming,NA,NA,0
+Wyoming,NA,NA,-10
+Wyoming,NA,NA,0
+Wyoming,NA,NA,-10
+Wyoming,NA,NA,-6.272330289797538
+Wyoming,NA,NA,-19.33502753070733
+Wyoming,NA,NA,13.441848254134944
+Wyoming,NA,NA,-1.2728535061328397
+Wyoming,NA,NA,4.922644163150492
+Wyoming,NA,NA,-11.155220325526003
