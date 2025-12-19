@@ -691,7 +691,7 @@ Minnesota,Pct.Chg.Pop.23.24,0.8943678994440416,2024
 Minnesota,Pct.Chg.Pop.19.24,-16.86087043123195,2024
 Mississippi,Deaths.2019,74,2019
 Mississippi,Deaths.2020,109,2020
-Mississippi,Deaths.2021,106,2021
+Mississippi,Deaths.2021,99,2021
 Mississippi,Deaths.2022,77,2022
 Mississippi,Deaths.2023,67,2023
 Mississippi,Deaths.2024,NA,2024
@@ -703,13 +703,13 @@ Mississippi,Pop.Jul.2023,19884,2023
 Mississippi,Pop.Jul.2024,19628,2024
 Mississippi,Crude.Mortality.Rate.19,37.86715791628288,2019
 Mississippi,Crude.Mortality.Rate.20,59.585633849013284,2020
-Mississippi,Crude.Mortality.Rate.21,59.21787709497207,2021
+Mississippi,Crude.Mortality.Rate.21,55.307262569832396,2021
 Mississippi,Crude.Mortality.Rate.22,40.32046918364141,2022
 Mississippi,Crude.Mortality.Rate.23,33.695433514383424,2023
 Mississippi,Crude.Mortality.Rate.24,NA,2024
 Mississippi,Pct.Chg.Deaths.19.20,47.2972972972973,2020
-Mississippi,Pct.Chg.Deaths.20.21,-2.7522935779816518,2021
-Mississippi,Pct.Chg.Deaths.21.22,-27.358490566037734,2022
+Mississippi,Pct.Chg.Deaths.20.21,-9.174311926605505,2021
+Mississippi,Pct.Chg.Deaths.21.22,-22.22222222222222,2022
 Mississippi,Pct.Chg.Deaths.22.23,-12.987012987012985,2023
 Mississippi,Pct.Chg.Deaths.23.24,NA,2024
 Mississippi,Pct.Chg.Deaths.19.24,NA,2024
@@ -1649,9 +1649,9 @@ BoP - Colorado,Pct.Chg.Pop.21.22,7.0989551321450515,2022
 BoP - Colorado,Pct.Chg.Pop.22.23,0.1721664275466284,2023
 BoP - Colorado,Pct.Chg.Pop.23.24,-0.45832139788026355,2024
 BoP - Colorado,Pct.Chg.Pop.19.24,-5.826558265582656,2024
-BoP - Connecticut,Deaths.2019,NA,2019
+BoP - Connecticut,Deaths.2019,0,2019
 BoP - Connecticut,Deaths.2020,2,2020
-BoP - Connecticut,Deaths.2021,NA,2021
+BoP - Connecticut,Deaths.2021,0,2021
 BoP - Connecticut,Deaths.2022,1,2022
 BoP - Connecticut,Deaths.2023,2,2023
 BoP - Connecticut,Deaths.2024,NA,2024
@@ -1661,14 +1661,14 @@ BoP - Connecticut,Pop.Jul.2021,927,2021
 BoP - Connecticut,Pop.Jul.2022,1027,2022
 BoP - Connecticut,Pop.Jul.2023,997,2023
 BoP - Connecticut,Pop.Jul.2024,1167,2024
-BoP - Connecticut,Crude.Mortality.Rate.19,NA,2019
+BoP - Connecticut,Crude.Mortality.Rate.19,0,2019
 BoP - Connecticut,Crude.Mortality.Rate.20,24.479804161566705,2020
-BoP - Connecticut,Crude.Mortality.Rate.21,NA,2021
+BoP - Connecticut,Crude.Mortality.Rate.21,0,2021
 BoP - Connecticut,Crude.Mortality.Rate.22,9.737098344693282,2022
 BoP - Connecticut,Crude.Mortality.Rate.23,20.060180541624874,2023
 BoP - Connecticut,Crude.Mortality.Rate.24,NA,2024
 BoP - Connecticut,Pct.Chg.Deaths.19.20,NA,2020
-BoP - Connecticut,Pct.Chg.Deaths.20.21,NA,2021
+BoP - Connecticut,Pct.Chg.Deaths.20.21,-100,2021
 BoP - Connecticut,Pct.Chg.Deaths.21.22,NA,2022
 BoP - Connecticut,Pct.Chg.Deaths.22.23,100,2023
 BoP - Connecticut,Pct.Chg.Deaths.23.24,NA,2024
@@ -1739,11 +1739,11 @@ BoP - Georgia,Pct.Chg.Pop.21.22,-12.73792093704246,2022
 BoP - Georgia,Pct.Chg.Pop.22.23,-18.192713326941515,2023
 BoP - Georgia,Pct.Chg.Pop.23.24,-0.3808965719308526,2024
 BoP - Georgia,Pct.Chg.Pop.19.24,-51.67022032693674,2024
-BoP - Hawaii,Deaths.2019,NA,2019
+BoP - Hawaii,Deaths.2019,0,2019
 BoP - Hawaii,Deaths.2020,2,2020
 BoP - Hawaii,Deaths.2021,2,2021
-BoP - Hawaii,Deaths.2022,NA,2022
-BoP - Hawaii,Deaths.2023,NA,2023
+BoP - Hawaii,Deaths.2022,0,2022
+BoP - Hawaii,Deaths.2023,0,2023
 BoP - Hawaii,Deaths.2024,NA,2024
 BoP - Hawaii,Pop.Jul.2019,453,2019
 BoP - Hawaii,Pop.Jul.2020,327,2020
@@ -1751,15 +1751,15 @@ BoP - Hawaii,Pop.Jul.2021,313,2021
 BoP - Hawaii,Pop.Jul.2022,348,2022
 BoP - Hawaii,Pop.Jul.2023,270,2023
 BoP - Hawaii,Pop.Jul.2024,220,2024
-BoP - Hawaii,Crude.Mortality.Rate.19,NA,2019
+BoP - Hawaii,Crude.Mortality.Rate.19,0,2019
 BoP - Hawaii,Crude.Mortality.Rate.20,61.162079510703364,2020
 BoP - Hawaii,Crude.Mortality.Rate.21,63.897763578274756,2021
-BoP - Hawaii,Crude.Mortality.Rate.22,NA,2022
-BoP - Hawaii,Crude.Mortality.Rate.23,NA,2023
+BoP - Hawaii,Crude.Mortality.Rate.22,0,2022
+BoP - Hawaii,Crude.Mortality.Rate.23,0,2023
 BoP - Hawaii,Crude.Mortality.Rate.24,NA,2024
 BoP - Hawaii,Pct.Chg.Deaths.19.20,NA,2020
 BoP - Hawaii,Pct.Chg.Deaths.20.21,0,2021
-BoP - Hawaii,Pct.Chg.Deaths.21.22,NA,2022
+BoP - Hawaii,Pct.Chg.Deaths.21.22,-100,2022
 BoP - Hawaii,Pct.Chg.Deaths.22.23,NA,2023
 BoP - Hawaii,Pct.Chg.Deaths.23.24,NA,2024
 BoP - Hawaii,Pct.Chg.Deaths.19.24,NA,2024
@@ -2069,7 +2069,7 @@ BoP - Missouri,Pct.Chg.Pop.21.22,16.704805491990847,2022
 BoP - Missouri,Pct.Chg.Pop.22.23,-3.5294117647058822,2023
 BoP - Missouri,Pct.Chg.Pop.23.24,9.75609756097561,2024
 BoP - Missouri,Pct.Chg.Pop.19.24,4.046242774566474,2024
-BoP - Mississippi,Deaths.2019,NA,2019
+BoP - Mississippi,Deaths.2019,0,2019
 BoP - Mississippi,Deaths.2020,5,2020
 BoP - Mississippi,Deaths.2021,3,2021
 BoP - Mississippi,Deaths.2022,3,2022
@@ -2081,7 +2081,7 @@ BoP - Mississippi,Pop.Jul.2021,3585,2021
 BoP - Mississippi,Pop.Jul.2022,3821,2022
 BoP - Mississippi,Pop.Jul.2023,4459,2023
 BoP - Mississippi,Pop.Jul.2024,4249,2024
-BoP - Mississippi,Crude.Mortality.Rate.19,NA,2019
+BoP - Mississippi,Crude.Mortality.Rate.19,0,2019
 BoP - Mississippi,Crude.Mortality.Rate.20,12.960082944530845,2020
 BoP - Mississippi,Crude.Mortality.Rate.21,8.368200836820083,2021
 BoP - Mississippi,Crude.Mortality.Rate.22,7.851347814708192,2022
@@ -2129,6 +2129,36 @@ BoP - North Carolina,Pct.Chg.Pop.21.22,12.524907486478792,2022
 BoP - North Carolina,Pct.Chg.Pop.22.23,2.4032380470528714,2023
 BoP - North Carolina,Pct.Chg.Pop.23.24,6.052371541501976,2024
 BoP - North Carolina,Pct.Chg.Pop.19.24,-27.897211958347327,2024
+BoP - New Hampshire,Deaths.2019,0,2019
+BoP - New Hampshire,Deaths.2020,0,2020
+BoP - New Hampshire,Deaths.2021,0,2021
+BoP - New Hampshire,Deaths.2022,0,2022
+BoP - New Hampshire,Deaths.2023,0,2023
+BoP - New Hampshire,Deaths.2024,NA,2024
+BoP - New Hampshire,Pop.Jul.2019,834,2019
+BoP - New Hampshire,Pop.Jul.2020,669,2020
+BoP - New Hampshire,Pop.Jul.2021,805,2021
+BoP - New Hampshire,Pop.Jul.2022,885,2022
+BoP - New Hampshire,Pop.Jul.2023,646,2023
+BoP - New Hampshire,Pop.Jul.2024,910,2024
+BoP - New Hampshire,Crude.Mortality.Rate.19,0,2019
+BoP - New Hampshire,Crude.Mortality.Rate.20,0,2020
+BoP - New Hampshire,Crude.Mortality.Rate.21,0,2021
+BoP - New Hampshire,Crude.Mortality.Rate.22,0,2022
+BoP - New Hampshire,Crude.Mortality.Rate.23,0,2023
+BoP - New Hampshire,Crude.Mortality.Rate.24,NA,2024
+BoP - New Hampshire,Pct.Chg.Deaths.19.20,NA,2020
+BoP - New Hampshire,Pct.Chg.Deaths.20.21,NA,2021
+BoP - New Hampshire,Pct.Chg.Deaths.21.22,NA,2022
+BoP - New Hampshire,Pct.Chg.Deaths.22.23,NA,2023
+BoP - New Hampshire,Pct.Chg.Deaths.23.24,NA,2024
+BoP - New Hampshire,Pct.Chg.Deaths.19.24,NA,2024
+BoP - New Hampshire,Pct.Chg.Pop.19.20,-19.784172661870503,2020
+BoP - New Hampshire,Pct.Chg.Pop.20.21,20.328849028400597,2021
+BoP - New Hampshire,Pct.Chg.Pop.21.22,9.937888198757763,2022
+BoP - New Hampshire,Pct.Chg.Pop.22.23,-27.005649717514125,2023
+BoP - New Hampshire,Pct.Chg.Pop.23.24,40.86687306501548,2024
+BoP - New Hampshire,Pct.Chg.Pop.19.24,9.112709832134293,2024
 BoP - New Jersey,Deaths.2019,1,2019
 BoP - New Jersey,Deaths.2020,4,2020
 BoP - New Jersey,Deaths.2021,6,2021
@@ -2159,6 +2189,36 @@ BoP - New Jersey,Pct.Chg.Pop.21.22,5.295207836907599,2022
 BoP - New Jersey,Pct.Chg.Pop.22.23,15.715363339200403,2023
 BoP - New Jersey,Pct.Chg.Pop.23.24,6.453715775749674,2024
 BoP - New Jersey,Pct.Chg.Pop.19.24,-3.676759732599292,2024
+BoP - New Mexico,Deaths.2019,0,2019
+BoP - New Mexico,Deaths.2020,0,2020
+BoP - New Mexico,Deaths.2021,0,2021
+BoP - New Mexico,Deaths.2022,0,2022
+BoP - New Mexico,Deaths.2023,0,2023
+BoP - New Mexico,Deaths.2024,NA,2024
+BoP - New Mexico,Pop.Jul.2019,NA,2019
+BoP - New Mexico,Pop.Jul.2020,NA,2020
+BoP - New Mexico,Pop.Jul.2021,NA,2021
+BoP - New Mexico,Pop.Jul.2022,NA,2022
+BoP - New Mexico,Pop.Jul.2023,NA,2023
+BoP - New Mexico,Pop.Jul.2024,NA,2024
+BoP - New Mexico,Crude.Mortality.Rate.19,NA,2019
+BoP - New Mexico,Crude.Mortality.Rate.20,NA,2020
+BoP - New Mexico,Crude.Mortality.Rate.21,NA,2021
+BoP - New Mexico,Crude.Mortality.Rate.22,NA,2022
+BoP - New Mexico,Crude.Mortality.Rate.23,NA,2023
+BoP - New Mexico,Crude.Mortality.Rate.24,NA,2024
+BoP - New Mexico,Pct.Chg.Deaths.19.20,NA,2020
+BoP - New Mexico,Pct.Chg.Deaths.20.21,NA,2021
+BoP - New Mexico,Pct.Chg.Deaths.21.22,NA,2022
+BoP - New Mexico,Pct.Chg.Deaths.22.23,NA,2023
+BoP - New Mexico,Pct.Chg.Deaths.23.24,NA,2024
+BoP - New Mexico,Pct.Chg.Deaths.19.24,NA,2024
+BoP - New Mexico,Pct.Chg.Pop.19.20,NA,2020
+BoP - New Mexico,Pct.Chg.Pop.20.21,NA,2021
+BoP - New Mexico,Pct.Chg.Pop.21.22,NA,2022
+BoP - New Mexico,Pct.Chg.Pop.22.23,NA,2023
+BoP - New Mexico,Pct.Chg.Pop.23.24,NA,2024
+BoP - New Mexico,Pct.Chg.Pop.19.24,NA,2024
 BoP - New York,Deaths.2019,4,2019
 BoP - New York,Deaths.2020,9,2020
 BoP - New York,Deaths.2021,4,2021
@@ -2339,6 +2399,36 @@ BoP - South Carolina,Pct.Chg.Pop.21.22,3.8883143743536714,2022
 BoP - South Carolina,Pct.Chg.Pop.22.23,2.7075452916583713,2023
 BoP - South Carolina,Pct.Chg.Pop.23.24,-1.2017832913355302,2024
 BoP - South Carolina,Pct.Chg.Pop.19.24,-13.78552097428958,2024
+BoP - South Dakota,Deaths.2019,0,2019
+BoP - South Dakota,Deaths.2020,0,2020
+BoP - South Dakota,Deaths.2021,0,2021
+BoP - South Dakota,Deaths.2022,0,2022
+BoP - South Dakota,Deaths.2023,0,2023
+BoP - South Dakota,Deaths.2024,NA,2024
+BoP - South Dakota,Pop.Jul.2019,482,2019
+BoP - South Dakota,Pop.Jul.2020,356,2020
+BoP - South Dakota,Pop.Jul.2021,305,2021
+BoP - South Dakota,Pop.Jul.2022,294,2022
+BoP - South Dakota,Pop.Jul.2023,392,2023
+BoP - South Dakota,Pop.Jul.2024,484,2024
+BoP - South Dakota,Crude.Mortality.Rate.19,0,2019
+BoP - South Dakota,Crude.Mortality.Rate.20,0,2020
+BoP - South Dakota,Crude.Mortality.Rate.21,0,2021
+BoP - South Dakota,Crude.Mortality.Rate.22,0,2022
+BoP - South Dakota,Crude.Mortality.Rate.23,0,2023
+BoP - South Dakota,Crude.Mortality.Rate.24,NA,2024
+BoP - South Dakota,Pct.Chg.Deaths.19.20,NA,2020
+BoP - South Dakota,Pct.Chg.Deaths.20.21,NA,2021
+BoP - South Dakota,Pct.Chg.Deaths.21.22,NA,2022
+BoP - South Dakota,Pct.Chg.Deaths.22.23,NA,2023
+BoP - South Dakota,Pct.Chg.Deaths.23.24,NA,2024
+BoP - South Dakota,Pct.Chg.Deaths.19.24,NA,2024
+BoP - South Dakota,Pct.Chg.Pop.19.20,-26.141078838174277,2020
+BoP - South Dakota,Pct.Chg.Pop.20.21,-14.325842696629213,2021
+BoP - South Dakota,Pct.Chg.Pop.21.22,-3.606557377049181,2022
+BoP - South Dakota,Pct.Chg.Pop.22.23,33.33333333333333,2023
+BoP - South Dakota,Pct.Chg.Pop.23.24,23.46938775510204,2024
+BoP - South Dakota,Pct.Chg.Pop.19.24,0.4149377593360996,2024
 BoP - Tennessee,Deaths.2019,1,2019
 BoP - Tennessee,Deaths.2020,5,2020
 BoP - Tennessee,Deaths.2021,9,2021
@@ -2429,8 +2519,8 @@ BoP - Virginia,Pct.Chg.Pop.21.22,11.176470588235295,2022
 BoP - Virginia,Pct.Chg.Pop.22.23,5,2023
 BoP - Virginia,Pct.Chg.Pop.23.24,-8.264046359284455,2024
 BoP - Virginia,Pct.Chg.Pop.19.24,-14.670728849308649,2024
-BoP - Washington,Deaths.2019,NA,2019
-BoP - Washington,Deaths.2020,NA,2020
+BoP - Washington,Deaths.2019,0,2019
+BoP - Washington,Deaths.2020,0,2020
 BoP - Washington,Deaths.2021,3,2021
 BoP - Washington,Deaths.2022,3,2022
 BoP - Washington,Deaths.2023,3,2023
@@ -2441,8 +2531,8 @@ BoP - Washington,Pop.Jul.2021,689,2021
 BoP - Washington,Pop.Jul.2022,818,2022
 BoP - Washington,Pop.Jul.2023,726,2023
 BoP - Washington,Pop.Jul.2024,640,2024
-BoP - Washington,Crude.Mortality.Rate.19,NA,2019
-BoP - Washington,Crude.Mortality.Rate.20,NA,2020
+BoP - Washington,Crude.Mortality.Rate.19,0,2019
+BoP - Washington,Crude.Mortality.Rate.20,0,2020
 BoP - Washington,Crude.Mortality.Rate.21,43.54136429608128,2021
 BoP - Washington,Crude.Mortality.Rate.22,36.67481662591687,2022
 BoP - Washington,Crude.Mortality.Rate.23,41.32231404958678,2023
@@ -2459,9 +2549,9 @@ BoP - Washington,Pct.Chg.Pop.21.22,18.722786647314948,2022
 BoP - Washington,Pct.Chg.Pop.22.23,-11.246943765281173,2023
 BoP - Washington,Pct.Chg.Pop.23.24,-11.84573002754821,2024
 BoP - Washington,Pct.Chg.Pop.19.24,-3.903903903903904,2024
-BoP - Wisconsin,Deaths.2019,NA,2019
+BoP - Wisconsin,Deaths.2019,0,2019
 BoP - Wisconsin,Deaths.2020,1,2020
-BoP - Wisconsin,Deaths.2021,NA,2021
+BoP - Wisconsin,Deaths.2021,0,2021
 BoP - Wisconsin,Deaths.2022,1,2022
 BoP - Wisconsin,Deaths.2023,2,2023
 BoP - Wisconsin,Deaths.2024,NA,2024
@@ -2471,14 +2561,14 @@ BoP - Wisconsin,Pop.Jul.2021,960,2021
 BoP - Wisconsin,Pop.Jul.2022,1087,2022
 BoP - Wisconsin,Pop.Jul.2023,1142,2023
 BoP - Wisconsin,Pop.Jul.2024,1140,2024
-BoP - Wisconsin,Crude.Mortality.Rate.19,NA,2019
+BoP - Wisconsin,Crude.Mortality.Rate.19,0,2019
 BoP - Wisconsin,Crude.Mortality.Rate.20,11.148272017837234,2020
-BoP - Wisconsin,Crude.Mortality.Rate.21,NA,2021
+BoP - Wisconsin,Crude.Mortality.Rate.21,0,2021
 BoP - Wisconsin,Crude.Mortality.Rate.22,9.19963201471941,2022
 BoP - Wisconsin,Crude.Mortality.Rate.23,17.513134851138354,2023
 BoP - Wisconsin,Crude.Mortality.Rate.24,NA,2024
 BoP - Wisconsin,Pct.Chg.Deaths.19.20,NA,2020
-BoP - Wisconsin,Pct.Chg.Deaths.20.21,NA,2021
+BoP - Wisconsin,Pct.Chg.Deaths.20.21,-100,2021
 BoP - Wisconsin,Pct.Chg.Deaths.21.22,NA,2022
 BoP - Wisconsin,Pct.Chg.Deaths.22.23,100,2023
 BoP - Wisconsin,Pct.Chg.Deaths.23.24,NA,2024
@@ -2525,27 +2615,27 @@ BoP — All Locations,Deaths.2021,437,2021
 BoP — All Locations,Deaths.2022,413,2022
 BoP — All Locations,Deaths.2023,377,2023
 BoP — All Locations,Deaths.2024,380,2024
-BoP — All Locations,Pop.Jul.2019,167073,2019
-BoP — All Locations,Pop.Jul.2020,142273,2020
-BoP — All Locations,Pop.Jul.2021,136650,2021
-BoP — All Locations,Pop.Jul.2022,140784,2022
-BoP — All Locations,Pop.Jul.2023,141630,2023
-BoP — All Locations,Pop.Jul.2024,141999,2024
-BoP — All Locations,Crude.Mortality.Rate.19,22.864256941576436,2019
-BoP — All Locations,Crude.Mortality.Rate.20,37.39289956632671,2020
-BoP — All Locations,Crude.Mortality.Rate.21,31.979509696304426,2021
-BoP — All Locations,Crude.Mortality.Rate.22,29.335719968178203,2022
-BoP — All Locations,Crude.Mortality.Rate.23,26.61865423992092,2023
-BoP — All Locations,Crude.Mortality.Rate.24,26.760751836280537,2024
+BoP — All Locations,Pop.Jul.2019,168389,2019
+BoP — All Locations,Pop.Jul.2020,143298,2020
+BoP — All Locations,Pop.Jul.2021,137760,2021
+BoP — All Locations,Pop.Jul.2022,141963,2022
+BoP — All Locations,Pop.Jul.2023,142668,2023
+BoP — All Locations,Pop.Jul.2024,143393,2024
+BoP — All Locations,Crude.Mortality.Rate.19,22.685567347035732,2019
+BoP — All Locations,Crude.Mortality.Rate.20,37.12543092018033,2020
+BoP — All Locations,Crude.Mortality.Rate.21,31.721835075493612,2021
+BoP — All Locations,Crude.Mortality.Rate.22,29.09208737487937,2022
+BoP — All Locations,Crude.Mortality.Rate.23,26.424986682367454,2023
+BoP — All Locations,Crude.Mortality.Rate.24,26.500596263415925,2024
 BoP — All Locations,Pct.Chg.Deaths.19.20,39.26701570680628,2020
 BoP — All Locations,Pct.Chg.Deaths.20.21,-17.857142857142858,2021
 BoP — All Locations,Pct.Chg.Deaths.21.22,-5.491990846681922,2022
 BoP — All Locations,Pct.Chg.Deaths.22.23,-8.716707021791766,2023
 BoP — All Locations,Pct.Chg.Deaths.23.24,0.7957559681697612,2024
 BoP — All Locations,Pct.Chg.Deaths.19.24,-0.5235602094240838,2024
-BoP — All Locations,Pct.Chg.Pop.19.20,-14.843810789295697,2020
-BoP — All Locations,Pct.Chg.Pop.20.21,-3.9522607943882537,2021
-BoP — All Locations,Pct.Chg.Pop.21.22,3.025246981339188,2022
-BoP — All Locations,Pct.Chg.Pop.22.23,0.6009205591544494,2023
-BoP — All Locations,Pct.Chg.Pop.23.24,0.26053802160559203,2024
-BoP — All Locations,Pct.Chg.Pop.19.24,-15.007810956887111,2024
+BoP — All Locations,Pct.Chg.Pop.19.20,-14.900617023677318,2020
+BoP — All Locations,Pct.Chg.Pop.20.21,-3.8646736172172673,2021
+BoP — All Locations,Pct.Chg.Pop.21.22,3.05095818815331,2022
+BoP — All Locations,Pct.Chg.Pop.22.23,0.49660827116924827,2023
+BoP — All Locations,Pct.Chg.Pop.23.24,0.5081728208147588,2024
+BoP — All Locations,Pct.Chg.Pop.19.24,-14.844200036819508,2024
