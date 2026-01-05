@@ -4,19 +4,30 @@
 
 ## Purpose of Data Collection
 
-To better monitor the public health conditions behind bars, the project began gathering data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report different records on deaths in custody, the project has attempted to standardize records into similar variables so the public can compare what information agencies make available and study the data they do release.
+To better monitor the public health conditions behind bars, the project began gathering 
+data on all-cause deaths in U.S. prisons in June 2020. Because prison agencies report 
+different records on deaths in custody, the project has attempted to standardize records 
+into similar variables so the public can compare what information agencies make available 
+and study the data they do release. 
 
-The project intends this repository to function as a tool for the public and researchers to better understand the drivers of deaths in custody and assist policymakers in developing strategies to reduce their occurence. In particular, the project hopes this database helps support the full implementation of the Death in Custody Reporting Act [(link to bill)](https://www.congress.gov/bill/113th-congress/house-bill/1447/text) by supplementing 'Mortality in Correctional Institutions' reports, which were produced by the U.S. Department of Justice up until 2019, and assisting efforts to study (1) how this data may be used to reduce the number of deaths in custody, and (2) how carceral facility management practices may contribute to deaths in custody.
+This repository is intended to function as a tool for the public and researchers to 
+better understand the drivers of deaths in custody and assist policymakers in developing 
+strategies to reduce their occurrence. In particular, the Data Project maintains this database 
+as a way to support the full implementation of the Death in Custody Reporting Act (DCRA) ([link to bill](https://www.congress.gov/bill/113th-congress/house-bill/1447/text)). 
+Our data is designed to supplement the 'Mortality in Correctional Institutions' reports produced by the U.S. 
+Department of Justice pursuant to DCRA up until 2019. We seek the data necessary to deepen our collective 
+understanding of how carceral facility management practices may contribute to deaths in custody, and more 
+broadly how to reduce the number of deaths in custody. 
 
 ## Accessing the Data (2019-2024)
 
-As of December 16, 2025, this repository incorporates custodial mortality data through 2024.
+As of January 5, 2026, this repository incorporates custodial mortality data through 2024. 
 
-**National aggregate data by state (2019–2024):** [prison_agency_counts.csv](https://github.com/uclalawcovid19behindbars/custodial_mortality_project/blob/main/Data/Output/prison_agency_counts_2019_2024.csv)
+**National aggregate data by state (2019–2024):** [prison_agency_counts.csv](https://github.com/uclalawbehindbars/deaths_in_custody/blob/main/Data/Aggregated_by_State/prison_agency_counts_2019-2024.csv)
 
-**Individual-level death records by state:** [Raw Deaths folder](https://github.com/uclalawcovid19behindbars/custodial_mortality_project/tree/main/Data/Raw/Prison_Deaths/State_Reported_Deaths)
+**Individual-level death records by state:** [Raw Deaths folder](https://github.com/uclalawbehindbars/deaths_in_custody/tree/main/Data/Raw/Prison_Deaths/State_Reported_Deaths)
 
-These datasets expand upon prior 2019–2021 data, adding standardized counts and individual records for 2022, 2023, and 2024. Data from the Bureau of Prisons and all 50 state prison systems have been integrated where available.
+These datasets expand upon prior 2019–2021 data, adding standardized counts and individual records for 2022, 2023, and 2024. Data from the Bureau of Prisons and all 50 state prison systems have been integrated where available. 
 
 ## How to Navigate This Repository
 
@@ -32,11 +43,11 @@ These datasets expand upon prior 2019–2021 data, adding standardized counts an
 
 ## Data Collection Procedures
 
-Data on deaths in prisons and prison demographics comes from a variety of sources. Where prison death data is listed publicly on an agency website or where another organization has already collected and processed records on deaths in custody for a particular agency, the project has gathered, standardized, and reproduced those records here.
+Data on prison demographics and in-custody deaths come from a variety of sources. Where prison death data is listed publicly on an agency website or where another organization has already collected and processed records on deaths in custody for a particular agency, the project has gathered, standardized, and reproduced those records here. 
 
-Examples of U.S. prison agencies that publicly list records on deaths in custody include the Arizona Department of Corrections [(link to source)](https://corrections.az.gov/inmate-death-notifications) and the Florida Department of Corrections [(link to source)](http://www.dc.state.fl.us/pub/mortality/index.html). The project has reproduced records from the Texas Justice Initiative for deaths in Texas state prisons, Incarceration Transparency at Loyola University New Orleans, College of Law for deaths in Louisiana state prisons, and the NPR Investigations team for deaths in Bureau of Prisons facilities.
+Examples of U.S. prison agencies that publicly list records on deaths in custody include the Arizona Department of Corrections [(link to source)](https://corrections.az.gov/inmate-death-notifications) and the Florida Department of Corrections [(link to source)](http://www.dc.state.fl.us/pub/mortality/index.html). The Data Project has reproduced records from the Texas Justice Initiative for deaths in Texas state prisons, Incarceration Transparency at Loyola University New Orleans, College of Law for deaths in Louisiana state prisons, and the NPR Investigations team for deaths in Bureau of Prisons facilities. 
 
-Where information on deaths in prisons was not publicly available through an agency or another organization, or was not provided at the individual or facility-level, the project used public records requests to gather records on deaths in custody and standardized these records into a uniform database. For each request, the project asked for records from 2015 to 2020 and for the following pieces of information for each death:
+Where information on deaths in prisons was not publicly available through an agency or another organization, or was not provided at the individual or facility-level, the Project used public records requests to gather records on deaths in custody. We then standardized these records into a uniform database. For each request, the Project asked for records from 2015 to 2020 and for the following pieces of information for each death: 
 
 -   Name of individual;
 -   Age, race, and sex of individual;
@@ -75,12 +86,15 @@ Where information on deaths in prisons was not publicly available through an age
 
 ### Context Notes on Potential Death Variables
 
-The project only reproduces records provided to it and other projects. The project does not correct or investigate records for accuracy aside from data 
-validation efforts to ensure total counts of deaths match or are similar to reporting for that agency produced by the Bureau of Justice Statistics. 
-As such, there may be errors or issues with information contained within these variables. 
-In particular, circumstances of death were reported differently across prison agencies and do not always reflect actual causes of death. 
-Many death records are labeled as 'Natural' and 'Undetermined,' which provide little detail on the circumstances of death. For more context on issues with 
-custodial death investigations please see the following resources.
+The Data Project only reproduces records provided to it and other projects. 
+The Data Project does not correct or investigate records for accuracy aside from data 
+validation efforts to ensure total counts of deaths match or are similar to reporting 
+for that agency produced by the Bureau of Justice Statistics. As such, there may be 
+errors or issues with information contained within these variables. In particular, 
+circumstances of death were reported differently across prison agencies and do not 
+always reflect actual causes of death. Many death records are labeled as 'Natural' 
+and 'Undetermined,' which provide little detail on the circumstances of death. For 
+more context on issues with custodial death investigations, please see the following resources. 
 
 > Nick Shapiro, Terrence Keel. *Natural Causes? 58 Autopsies Prove Otherwise*. UCLA Carceral Ecologies Lab, <https://ucla.app.box.com/s/sv54jmxhmq19kqifpakh4jfu3vnmhbqt/file/974263270262>
 
@@ -88,9 +102,10 @@ custodial death investigations please see the following resources.
 
 ### Documents
 
-This folder contains documentation for how the project obtained data for each state prison system. 
-Sub-folders for each state contain a R Markdown file describing how it obtained the data, what variables are present in the data, 
-and how to load and compare annual aggregates from the data with past MCI reports from BJS.
+This folder contains documentation for how the Project obtained data for each state prison system. 
+Sub-folders for each state contain a R Markdown file describing how it obtained the data, what 
+variables are present in the data, and how to load and compare annual aggregates 
+from the data with past MCI reports from BJS. 
 
 `Example` folders contain raw unprocessed versions of the documents / data sources used to create the datasets in the `Raw` folder.
 
